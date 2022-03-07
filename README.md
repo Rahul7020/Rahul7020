@@ -2048,107 +2048,112 @@ Charges</span>
                                                                                                                           </li>
                                                                                                                                   <li class="last">
                                                                                                                                     <a href="/customerservice/branch-atm-locations.htm?eOfferCode=INHOGNCBBBATM" class="atmLocIcon" title="Branch/ATM">
-                                                                                                                                      <strong>Branch/ATM</strong>
-                                                                                                                                      </a>
-                                                                                                                                      </li>
-                                                                                                                                      </ul>
-                                                                                                                                      </div>
-                                                                                                                                      </div>
-                                                                                                                                      <div class="homeBtmArea visible-phone">
-                                                                                                                                        <ul>
-                                                                                                                                        <li class="pullRight">
-                                                                                                                                          <img src="/images/verisign.png" alt="Verisign" />
-                                                                                                                                            </li>
-                                                                                                                                            </ul>
-                                                                                                                                            </div>
-                                                                                                                                            <div class="homeBtmArea hidden-phone">
-                                                                                                                                              <ul class="pullLeft">
-                                                                                                                                                <li>
-                                                                                                                                                <img src="/images/verisign.png" alt="Verisign" />
-                                                                                                                                                  </li>
-                                                                                                                                                  </ul>
-                                                                                                                                                  <ul class="pullRight">
-                                                                                                                                                    <li style="display:none;">
-  <a href="/products-services/banking/citi-priority/contact-us/index.htm?eOfferCode=HPFootr" title="Complimentary* Citi Rewards Credit Card, only with Citi Priority" target="_blank">					
-    <img src="/images/citi-priority-card.gif" alt="Complimentary* Citi Rewards Credit Card, only with Citi Priority" />
-      </a>
-      </li>
-                                                                                                                                                    <li>
-                                                                                                                                                    <a href="#inline2" class="welcom" title="Refer your friends and family for a Citi Credit Card.">
-                                                                                                                                                      <img src="/images/MGM-festive-refer.gif" alt="Refer your friends and family for a Citi Credit Card." />
-</a>
-</li>
-  <li>
-  <a href="https://www.online.citibank.co.in/portal/newgen/cards/tab/apply-now.htm?Couponcode=CITI2000&eOfferCode=INHOMPSM1000" title="Apply for a Citi Credit Card and get cashback." target="_blank">					
-    <img src="/images/citi-creditcard.jpg" alt="Apply for a Citi Credit Card and get cashback." />
-      </a>
-      </li>
-          
+		<strong>Branch/ATM</strong>
+                </a>
+                </li>
+                </ul>
+                </div>
+                </div>
+                <div class="homeBtmArea visible-phone">
+                <ul>
+                <li class="pullRight">
+                <img src="/images/verisign.png" alt="Verisign" />
+                </li>
+                </ul>
+                </div>
+                <div class="homeBtmArea hidden-phone">
+                <ul class="pullLeft">
                 <li>
-                <a href="/customerservice/branch-atm-locations.htm?eOfferCode=INHOGNCBBBATM" title="Branch/ATM">
+                <img src="/images/verisign.png" alt="Verisign" />
+                </li>
+                </ul>
+                <ul class="pullRight">
+                <li style="display:none;">
+  <a href="/products-services/banking/citi-priority/contact-us/index.htm?eOfferCode=HPFootr" 
+  title="Complimentary* Citi Rewards Credit Card, only with Citi Priority" target="_blank">					
+    <img src="/images/citi-priority-card.gif" alt="Complimentary* Citi Rewards Credit Card, only with Citi Priority" />
+                </a>
+                </li>
+                <li>
+                <a href="#inline2" class="welcom" title="Refer your friends and family for a Citi Credit Card.">
+                <img src="/images/MGM-festive-refer.gif" alt="Refer your friends and family for a Citi Credit Card." />
+                </a>
+                </li>
+                <li>
+  <a href="https://www.online.citibank.co.in/portal/newgen/cards/tab/apply-now.htm?Couponcode=CITI2000&eOfferCode=INHOMPSM1000"
+  title="Apply for a Citi Credit Card and get cashback." target="_blank">					
+    <img src="/images/citi-creditcard.jpg" alt="Apply for a Citi Credit Card and get cashback." />
+                </a>
+                </li>
+                <li>
+  <a href="/customerservice/branch-atm-locations.htm?eOfferCode=INHOGNCBBBATM" title="Branch/ATM">
                   <img src="/images/branch-atm.png" alt="Branch/ATM" />
-                    </a>
-                    </li>
-                    </ul>
-                    </div>
-                    </div>
-                     <!--<div id="diwalioverlay">
-                      <div id="diwalitext">
-                        <div class="closeic" onclick="off()"><img src="/images/close-x-round.png" title="Close" alt="Close"></div>
-                          <div class="videoArea" id="videosec1">
-                            <video width="100%" onended="showdiwaliimg()" autoplay controls muted playsinline>
-                              <source src="/portal/festive-offer-2021/video/diwali2021.mp4" type="video/mp4">
-                                </video>	
-                                </div>				
-                                </div>
-                                <div id="imgtext">
-                                  <div class="closeic" onclick="off()"><img src="/images/close-x-round.png" title="Close" alt="Close"></div>
-                                    <img src="/images/diwali2021.jpg" width="100%" height="auto"/>
-                                      <div><a class="knowmore" onclick="off()" href="/special-offers/home/index.html?eOfferCode=INHOSOTTNSPOF" title="Click Here for Citi Offers" target="_blank">Click Here for Citi Offers</a></div>
-                                        </div>
-                                        </div>--> 
-                                        <div class="TermsAndConditionsdis">
+                </a>
+                </li>
+                </ul>
+                </div>
+                </div>
+                <!--<div id="diwalioverlay">
+                <div id="diwalitext">
+                <div class="closeic" onclick="off()"><img src="/images/close-x-round.png" title="Close" alt="Close"></div>
+                <div class="videoArea" id="videosec1">
+                <video width="100%" onended="showdiwaliimg()" autoplay controls muted playsinline>
+                <source src="/portal/festive-offer-2021/video/diwali2021.mp4" type="video/mp4">
+                </video>	
+                </div>				
+                </div>
+                <div id="imgtext">
+                <div class="closeic" onclick="off()"><img src="/images/close-x-round.png" title="Close" alt="Close"></div>
+                <img src="/images/diwali2021.jpg" width="100%" height="auto"/>
+  <div><a class="knowmore" onclick="off()" href="/special-offers/home/index.html?eOfferCode=INHOSOTTNSPOF"
+  title="Click Here for Citi Offers" target="_blank">Click Here for Citi Offers</a></div>
+                                          </div>
+                                          </div>--> 
+                                          <div class="TermsAndConditionsdis">
                                           <p>Citibank India does not market any product or service to individuals resident in the European Union, European Economic Area, Switzerland, Guernsey, Jersey, Monaco, San Marino, Vatican, and The Isle of Man or the UK.</p>
                                             <p>This web page is not, and should not be construed as, an offer, invitation or solicitation to buy or sell any of the products and services mentioned herein to individuals resident in the European Union, European Economic Area, Switzerland, Guernsey, Jersey, Monaco, San Marino, Vatican, and The Isle of Man or the UK.</p>
                                               </div>
                                               <div id="footer">
-                                                <script type="text/javascript" src="/js/plugins/footer.js"></script>
-                                                  </div>
-                                                  
-                                                                    <div class="askmecont">
-                                                                      <div class="icon-launch">
-                                                                        </div>
-                                                                        <div id="vabox">
-                                                                          <div id="botdiv"></div>
-                                                                            </div>
-                                                                            </div>
-                                                                            </div>
-                           </div>
-                                                                            <div id="inline2" style="display:none;">
-                                                                              <img src="/images/MGM-overlay.jpg" alt="Do you have a Citibank Credit Card / Savings account?" usemap="#Map3" />
-                                                                                </div>
-                                                                                <map name="Map2" id="Map2">
-                                                                                  <area shape="rect" coords="575,468,704,480" href="" target="_blank" title="*Terms &amp; Conditions apply"
-                                                                                  />
-                                                                                    </map>
-                                                                                    <map name="Map3" id="Map3">
-                                                                                      <area alt="YES" title="YES" onclick="$.fancybox.close();" href="https://www.online.citibank.co.in/credit-card/referral/existing/mgm-referral.htm?section=MGM&campaignCode=creditcards7&eOfferCode=HPFooter"
-                                                                                      shape="rect" coords="46,86,136,115" target="_blank" />
-                                                                                        <area alt="NO" title="NO" onclick="$.fancybox.close();" href="https://www.online.citibank.co.in/credit-card/referral/new/mgm-referral.htm?section=MGM&campaignCode=CardNTB1&eOfferCode=HPFooter"
-                                                                                        shape="rect" coords="158,86,249,115" target="_blank" />
-                                                                                          </map>
-																				<!--LeftNavSections -->		
-																						<div id="inline4" style="display:none;">
-                                                                              <img src="/images/MGM-overlay.jpg" alt="Do you have a Citibank Credit Card / Savings account?" usemap="#Map4" />
-                                                                                </div>
-																					<map name="Map4" id="Map4">
-                                                                                      <area alt="YES" title="YES" onclick="$.fancybox.close();" href="https://www.online.citibank.co.in/credit-card/referral/existing/mgm-referral.htm?section=MGM&campaignCode=creditcards7&eOfferCode=HPDropdown"
-                                                                                      shape="rect" coords="46,86,136,115" target="_blank" />
-                                                                                        <area alt="NO" title="NO" onclick="$.fancybox.close();" href="https://www.online.citibank.co.in/credit-card/referral/new/mgm-referral.htm?section=MGM&campaignCode=CardNTB1&eOfferCode=HPDropdown"
-                                                                                        shape="rect" coords="158,86,249,115" target="_blank" />
-                                                                                          </map>																	<!--LeftNavSections -->	
-                                                                                        
-                                                                                        <!--Banner section -->		
+                                              <script type="text/javascript" src="/js/plugins/footer.js"></script>
+                                              </div>        
+                                              <div class="askmecont">
+                                              <div class="icon-launch">
+                                              </div>
+                                              <div id="vabox">
+                                              <div id="botdiv"></div>
+                                              </div>
+                                              </div>
+                                              </div>
+                                              </div>
+                                              <div id="inline2" style="display:none;">
+ <img src="/images/MGM-overlay.jpg" alt="Do you have a Citibank Credit Card / Savings account?" usemap="#Map3" />
+                                              </div>
+                                              <map name="Map2" id="Map2">
+ <area shape="rect" coords="575,468,704,480" href="" target="_blank" title="*Terms &amp; Conditions apply 
+				              />
+                                              </map>
+                                              <map name="Map3" id="Map3">
+                                              <area alt="YES" title="YES" onclick="$.fancybox.close();
+" href="https://www.online.citibank.co.in/credit-card/referral/existing/mgm-referral.htm?section=MGM&campaignCode=creditcards7&eOfferCode=HPFooter"
+                                              <shape="rect" coords="46,86,136,115" target="_blank" />
+                                              <area alt="NO" title="NO" onclick="$.fancybox.close();
+" href="https://www.online.citibank.co.in/credit-card/referral/new/mgm-referral.htm?section=MGM&campaignCode=CardNTB1&eOfferCode=HPFooter"
+                                              <shape="rect" coords="158,86,249,115" target="_blank" />
+                                              </map>
+<!--LeftNavSections -->		
+																				
+   <div id="inline4" style="display:none;">
+   <img src="/images/MGM-overlay.jpg" alt="Do you have a Citibank Credit Card / Savings account?" usemap="#Map4" />
+                                               </div>
+					       <map name="Map4" id="Map4">
+  <area alt="YES" title="YES" onclick="$.fancybox.close();"
+   href="https://www.online.citibank.co.in/credit-card/referral/existing/mgm-referral.htm?section=MGM&campaignCode=creditcards7&eOfferCode=HPDropdown"
+                                                shape="rect" coords="46,86,136,115" target="_blank" />
+  <area alt="NO" title="NO" onclick="$.fancybox.close();" 
+   href="https://www.online.citibank.co.in/credit-card/referral/new/mgm-referral.htm?section=MGM&campaignCode=CardNTB1&eOfferCode=HPDropdown"
+                                                shape="rect" coords="158,86,249,115" target="_blank" />
+                                                </map>																	<!--LeftNavSections ->
+                <!--Banner section -->		
 																						<div id="inline6" style="display:none;">
                                                                               <img src="/images/MGM-overlay.jpg" alt="Do you have a Citibank Credit Card / Savings account?" usemap="#Map6" />
                                                                                 </div>
@@ -2931,8 +2936,7 @@ jQuery(document).ready(function($){
 							</div>
 						</div>
 					</div>
-			
-			</div>
+			         </div>
 
 <!-- SEARCH -->
  
@@ -2997,23 +3001,25 @@ jQuery(document).ready(function($){
                             </span>
                              <span class="radio">
                                <input type="radio" class="radiobttn" id="Q2_satisfaction best1" name="radioButton-radio-group-1587999550770" label="best" value="best" visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')">
-                               <label class="label best1" for="best1"></label>
-                            </span>
-                         </div>
-                      </ul>
-                      <!-- <ul class="result">
-                        <li>
-                            <p>Yes</p>
-                        </li>
-                      </ul> -->
+                    <label class="label best1" for="best1"></label>
+                    </span>
+                    </div>
+                    </ul>
+                    <!-- <ul class="result">
+                    <li>
+                    <p>Yes</p>
+                    </li>
+                    </ul> -->
                     <div class="clear"></div>
                     <!-- <ul class="sortable2 section2">
-                        <li>
-                           <div class="chat_icon">
-                               <img class='active' src="img/chat-icon.png" alt="">
-								<img class='deactive' src="img/deactive-chat.png" alt="" style='display: none;'>
-                           </div>
-                            <div class="qus_div" label="&amp;lt;p&amp;gt;Glad to Know that. How satisfied are you with Citi Help? (1 - lowest and 5 - highest)&amp;lt;/p&amp;gt;" type="label" id="label-label-1568195004975" name="label-label-1568195004975" visibility="show">
+                    <li>
+                    <div class="chat_icon">
+                    <img class='active' src="img/chat-icon.png" alt="">
+		    <img class='deactive' src="img/deactive-chat.png" alt="" style='display: none;'>
+                    </div>
+ <div class="qus_div" label="&amp;lt;p&amp;gt;Glad to Know that. 
+ How satisfied are you with Citi Help? (1 - lowest and 5 - highest)&amp;lt;/p&amp;gt;"
+ type="label" id="label-label-1568195004975" name="label-label-1568195004975" visibility="show">
                                 <div id="div-label-label-1568195004975">
                                     <p>Glad to Know that. How satisfied are you with Citi Help? (1 - lowest and 5 - highest)</p>
                                 </div>
@@ -3459,153 +3465,150 @@ jQuery(document).ready(function($){
                                     });
                                 </script> -->
                                 <input class="txtfield" position="above" id="Q3d" pattern="^(?!\s*$)[a-zA-Z0-9\s]{1,100}$" name="textField-text-1588074081572" type="text" maxlength="100"  visibility="show" error="Please specify the reason" title="Please specify the reason" oninvalid="setCustomValidity('Please specify the reason')" onchange="setCustomValidity('')">
-                            </div>
+                        </div>
                         </li>
-                    </ul>
-                    <ul class="sortable3 chat-cta">
+                        </ul>
+                        <ul class="sortable3 chat-cta">
                         <li>
                             <input type="hidden" class="txtfield" id="form_id" name="hiddenfield-hiddenfield-1568199891456" defaultvalue="frmcitihelpsurveyC" value="frmcitihelpsurveyC">
                             <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
-                                    $('#form_id').attr('value', 'frmcitihelpsurveyC');
+                                $('#form_id').attr('value', 'frmcitihelpsurveyC');
                                 });
-                            </script>
+                        </script>
                         </li>
                         <li>
-                            <script src="/formbuilder/js/createJSON.js"></script>
-                            <div id="submitcallclk">
-                                <button type="image" class="submitBtn sumitclk" hiddenid="submit"><input type="hidden" id="PG" value="false"><input type="hidden" id="clicktocall" value="false"><img class="submitImg" hiddenid="submit" id="submit-image-1568199904101" src="https://www.online.citibank.co.in/formbuilder/images/submitbtn.jpg" name="submit-image-1568199904101" type="image"></button>
-                            </div>
+                        <script src="/formbuilder/js/createJSON.js"></script>
+                        <div id="submitcallclk">
+                                     <button type="image" class="submitBtn sumitclk" hiddenid="submit"><input type="hidden" id="PG" value="false"><input type="hidden" id="clicktocall" value="false"><img class="submitImg" hiddenid="submit" id="submit-image-1568199904101" src="https://www.online.citibank.co.in/formbuilder/images/submitbtn.jpg" name="submit-image-1568199904101" type="image"></button>
+                        </div>
                         </li>
                         <li>
-                            <input type="hidden" class="txtfield" id="externalOfferCode" name="hiddenfield-hiddenfield-1568199909760" defaultvalue="externalOfferCode" value="externalOfferCode">
-                            <script type="text/javascript">
+<input type="hidden" class="txtfield" id="externalOfferCode" name="hiddenfield-hiddenfield-1568199909760" defaultvalue="externalOfferCode" value="externalOfferCode">
+                        <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
-                                  //  $('#externalOfferCode').attr('value', 'externalOfferCode');
+                                $('#externalOfferCode').attr('value', 'externalOfferCode');
                                 });
-                            </script>
+                        </script>
                         </li>
-                    </ul>
-					<ul class="sortable2 section10">
+                        </ul>
+			<ul class="sortable2 section10">
                         <li>
-                           <div class="chat_icon">
-                               <img class='active' src="images/img/chat-icon.png" alt="">
-								<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
-                           </div>
-                            <div class="qus_div">
-                                <p>Your feedback is duly noted and we will continue to improve. Please try these alternatives:</p>
-                            </div>
+                        <div class="chat_icon">
+                        <img class='active' src="images/img/chat-icon.png" alt="">
+			<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
+                        </div>
+                        <div class="qus_div">
+                        <p>Your feedback is duly noted and we will continue to improve. Please try these alternatives:</p>
+                        </div>
                         </li>
                         <li>
-                            <div class="blk_div chat-ans url-list-block">
-                               <ul class='url-list'>
+                        <div class="blk_div chat-ans url-list-block">
+                        <ul class='url-list'>
 									<!-- <li class='pointer link-search' style='text-align: center;padding: 5px 15px;'>Try using other keywords in the search bar</li> -->
 									
 									<li class='pointer' style='text-align: center;'><a href='https://www.online.citibank.co.in/customerservice/home.htm' onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;">Visit Customer service Home</a></li>
 									<li class='pointer' style='text-align: center;'><a href='https://chat.citibank.co.in/IN/WebChat/' onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;">Chat now with Citi</a></li>
-									
-								</ul>
-                                
-                            </div>
+			</ul>
+                        </div>
                         </li>
-                    </ul>
-                    <div class="clear"></div>
-                    
-                    <ul class="sortable5">
+                        </ul>
+		        <div class="clear"></div>
+                        <ul class="sortable5">
                         <li>
-                            <input type="hidden" class="txtfield" id="Creative" name="hiddenfield-hiddenfield-1568200098146" defaultvalue="Creative" value="Creative">
-                            <script type="text/javascript">
+                        <input type="hidden" class="txtfield" id="Creative" name="hiddenfield-hiddenfield-1568200098146" defaultvalue="Creative" value="Creative">
+                        <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
-                                  //  $('#Creative').attr('value', 'Creative');
+                                $('#Creative').attr('value', 'Creative');
                                 });
-                            </script>
+                        </script>
                         </li>
                         <li>
-                            <input type="hidden" class="txtfield" id="Section" name="hiddenfield-hiddenfield-1568200103726" defaultvalue="Section" value="Section">
-                            <script type="text/javascript">
+                        <input type="hidden" class="txtfield" id="Section" name="hiddenfield-hiddenfield-1568200103726" defaultvalue="Section" value="Section">
+                        <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
-                                 ///   $('#Section').attr('value', 'Section');
+                                $('#Section').attr('value', 'Section');
                                 });
-                            </script>
+                        </script>
                         </li>
                         <li>
-                            <input type="hidden" class="txtfield" id="Campaign_Code" name="hiddenfield-hiddenfield-1568200108065" defaultvalue="Campaign_Code" value="Campaign_Code">
-                            <script type="text/javascript">
+<input type="hidden" class="txtfield" id="Campaign_Code" name="hiddenfield-hiddenfield-1568200108065" defaultvalue="Campaign_Code" value="Campaign_Code">
+                        <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
-                                  //  $('#Campaign_Code').attr('value', 'Campaign_Code');
+                                $('#Campaign_Code').attr('value', 'Campaign_Code');
                                 });
-                            </script>
+                        </script>
                         </li>
                         <li>
-                            <input type="hidden" class="txtfield" id="Product_Code" name="hiddenfield-hiddenfield-1568200113047" defaultvalue="Product_Code" value="Product_Code">
-                            <script type="text/javascript">
+<input type="hidden" class="txtfield" id="Product_Code" name="hiddenfield-hiddenfield-1568200113047" defaultvalue="Product_Code" value="Product_Code">
+                        <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
-                                  //  $('#Product_Code').attr('value', 'Product_Code');
+                                $('#Product_Code').attr('value', 'Product_Code');
                                 });
-                            </script>
+                        </script>
                         </li>
                         <li>
-                            <input type="hidden" class="txtfield" id="Source_Id" name="hiddenfield-hiddenfield-1568200117347" defaultvalue="internet" value="internet">
-                            <script type="text/javascript">
+                        <input type="hidden" class="txtfield" id="Source_Id" name="hiddenfield-hiddenfield-1568200117347" defaultvalue="internet" value="internet">
+                        <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
-                                    $('#Source_Id').attr('value', 'internet');
+                                $('#Source_Id').attr('value', 'internet');
                                 });
-                            </script>
+                        </script>
                         </li>
 						<!-- <li>
-                            <input type="hidden" class="txtfield" id="status-Id" name=""  value="">
-                            <script type="text/javascript">
+                         <input type="hidden" class="txtfield" id="status-Id" name=""  value="">
+                         <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
-                                    $('#status-Id').attr('value', '');
+                                $('#status-Id').attr('value', '');
                                 });
-                            </script>
-                        </li> -->
-                    </ul>
-                    <div class="clear"></div>
-                    <ul class="sortable5">
-                        <li>
-                            <input type="hidden" class="txtfield" id="Country_Id" name="hiddenfield-hiddenfield-1568200122655" defaultvalue="IN" value="IN">
-                            <script type="text/javascript">
+                         </script>
+                         </li> -->
+                         </ul>
+                         <div class="clear"></div>
+                         <ul class="sortable5">
+                         <li>
+                         <input type="hidden" class="txtfield" id="Country_Id" name="hiddenfield-hiddenfield-1568200122655" defaultvalue="IN" value="IN">
+                         <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
-                                    $('#Country_Id').attr('value', 'IN');
+                                $('#Country_Id').attr('value', 'IN');
                                 });
-                            </script>
+                        </script>
                         </li>
                         <li>
-                            <input type="hidden" class="txtfield" id="Lead_Type" name="hiddenfield-hiddenfield-1568200127834" defaultvalue="Lead_Type" value="Lead_Type">
-                            <script type="text/javascript">
+                        <input type="hidden" class="txtfield" id="Lead_Type" name="hiddenfield-hiddenfield-1568200127834" defaultvalue="Lead_Type" value="Lead_Type">
+                        <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
-                                    $('#Lead_Type').attr('value', 'CitiHelp');
+                                $('#Lead_Type').attr('value', 'CitiHelp');
                                 });
-                            </script>
+                        </script>
                         </li>
                         <li>
-                            <input type="hidden" class="txtfield" id="timestamp" name="hiddenfield-hiddenfield-1568200135399" defaultvalue="timestamp" value="timestamp">
-                            <script type="text/javascript">
+                        <input type="hidden" class="txtfield" id="timestamp" name="hiddenfield-hiddenfield-1568200135399" defaultvalue="timestamp" value="timestamp">
+                        <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
                                    // $('#timestamp').attr('value', 'timestamp');
                                 });
-                            </script>
+                        </script>
                         </li>
-                       <!--  <li>
-                            <input type="hidden" class="txtfield" id="ip" name="hiddenfield-hiddenfield-1568200140266" defaultvalue="ip" value="ip">
-                            <script type="text/javascript">
+                        <!--  <li>
+                        <input type="hidden" class="txtfield" id="ip" name="hiddenfield-hiddenfield-1568200140266" defaultvalue="ip" value="ip">
+                        <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
                                    // $('#ip').attr('value', 'ip');
                                 });
-                            </script>
+                        </script>
                         </li> -->
                         <li>
                             <input type="hidden" class="txtfield" id="Agency_Code" name="hiddenfield-hiddenfield-1568200145975" defaultvalue="Agency_Code" value="Agency_Code">
@@ -3779,27 +3782,28 @@ $(document).ready(function () {
      if(visitedVal == undefined || visitedVal == ""){
         $('.dealOverlay').show();
      }else{
-         $('.dealOverlay').hide();
+  $('.dealOverlay').hide();
      }*/
-     $('.dealOverlay').show();
-     $('.dealIcon').click(function () {
+  $('.dealOverlay').show();
+  $('.dealIcon').click(function () {
          $('.dealOverlay').show();
-         $("html, body").animate({ scrollTop: 0 }, 1000);
+  $("html, body").animate({ scrollTop: 0 }, 1000);
      });
-     $('.appClose').click(function () {
+	
+  $('.appClose').click(function () {
          $('.dealOverlay').hide();
         // localStorage.setItem("Visited","True");
      });
   $(".amazon-map1").click(function () {
      setTimeout(function() { 
-     $(".appClose").trigger("click");
+  $(".appClose").trigger("click");
     }, 500);
 });
  });
 </script>
 <script>
   	$(document).ready(function(){
-		$('.s3 .ckc-search-result').remove();
+	$('.s3 .ckc-search-result').remove();
 });
 </script>
 <script type="text/javascript">
@@ -3809,6 +3813,6 @@ window.open('/special-offers/offer/index.html?cat=Shopping_and_Lifestyle&id=72&e
 });
 };
 </script>
-    </body>
-    </html>
+</body>
+</html>
 														 
