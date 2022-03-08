@@ -3547,22 +3547,23 @@ jQuery(document).ready(function($){
 									<span style='display: table-cell;vertical-align: middle; padding-bottom:0px'><a class='pointer exit-cta' href='https://www.online.citibank.co.in' title='Home Page'>Citi Homepage</a></span></li>
 									
 									<li style='display: table-row; '><a  style='display: table-cell;padding-right: 5px;'href='https://www.online.citibank.co.in/portal/cards/MGM/MGM-Referal-Exist.html?site=PORTAL&creative=NGX&section=INHOMTT&agencyCode=XER&campaignCode=&productCode=&eOfferCode=CITIHELPSURV' title='Refer and earn upto Rs.9999'><img  src='citihelp/img/people.png'></a><span style='display: table-cell;vertical-align: middle;padding-bottom:0px'><a href='https://www.online.citibank.co.in/portal/cards/MGM/MGM-Referal-Exist.html?site=PORTAL&creative=NGX&section=INHOMTT&agencyCode=XER&campaignCode=&productCode=&eOfferCode=CITIHELPSURV' title='Refer and earn upto Rs.9999'>Refer and earn upto Rs.9999</a></span></li>
-								</ul>
-							</div>
+			</ul>
+			</div>
                         </li>
-                    </ul>
-					<div class="clear"></div>
-                    <ul class="sortable2 section9 scrollto"> 
+                        </ul>
+			<div class="clear"></div>
+                        <ul class="sortable2 section9 scrollto"> 
                         <li>
-                           <div class="chat_icon">
-                               <img class='active' src="images/img/chat-icon.png" alt="">
-								<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
-                           </div>
-                            <div class="qus_div" label="&amp;lt;p&amp;gt;Some top queries users searched for on Citi Help are below&amp;lt;/p&amp;gt;" type="label" id="label-label-1588075182103" name="label-label-1588075182103" visibility="show">
-                                <div id="div-label-label-1588075182103">
-                                    <p>Some top queries users searched for on Citi Help are below</p>
-                                </div>
-                                <script type="text/javascript">
+                        <div class="chat_icon">
+<img class='active' src="images/img/chat-icon.png" alt="">
+<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
+                         </div>
+                         <div class="qus_div" 
+label="&amp;lt;p&amp;gt;Some top queries users searched for on Citi Help are below&amp;lt;/p&amp;gt;" type="label" id="label-label-1588075182103" name="label-label-1588075182103" visibility="show">
+                          <div id="div-label-label-1588075182103">
+                          <p>Some top queries users searched for on Citi Help are below</p>
+                          </div>
+                          <script type="text/javascript">
                                     $(function() {
                                         function htmlDecode(input) {
                                             var e = document.createElement('div');
@@ -3572,49 +3573,98 @@ jQuery(document).ready(function($){
                                         var decodeData = htmlDecode("&lt;p&gt;Some top queries users searched for on Citi Help are below&lt;/p&gt;");
                                         $('#div-label-label-1588075182103').html(decodeData);
                                     });
-                                </script>
-                            </div>
+                        </script>
+                        </div>
                         </li>
                         <li>
-                            <div class="blk_div chat-ans">
-                                <span class='chat-radio'>
-                            <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588075204880" label="FAQs on Moratorium" value="FAQs on Moratorium" data-url="https://www.online.citibank.co.in/citihelp/COVID-19/Moratorium-FAQs.htm?eOfferCode=INHelpfb" data-reference='FAQs on Moratorium' visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')" error="Please choose one option" oninvalid="setCustomValidity('Please choose one option')"><span>FAQs on Moratorium</span></label>
-                            </span>
-                                <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588075204880" label="Creating User ID and Password" value="Creating User ID and Password" data-url="https://www.citibank.co.in/ssjsps/ssindexmidssi.jsp?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Creating User ID and Password</span></label>
-                               </span>
-                               <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588075204880" label="Digital banking - banking safely from home" value="Digital banking - banking safely from home" data-url="https://www.online.citibank.co.in/citihelp/topics/stay-safe-bank-from-home/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>	Digital banking - banking safely from home </span></label>
-                               </span>
-                               <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588075204880" label="Change your address" value='Change your address' data-url="https://www.online.citibank.co.in/portal/blogs/change-address/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Change your address</span></label>
-                               </span>
-                               <span class='chat-radio'>
-                                <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588075204880" label="Redeeming Credit Card Rewards points" value='Redeeming Credit Card Rewards points' data-url="https://www.online.citibank.co.in/portal/blogs/credit-card-rewards/credit-card-rewards-blog.htm?source=CHS&eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Redeeming Credit Card Rewards points</span></label>
+                        <div class="blk_div chat-ans">
+                        <span class='chat-radio'>
+                        <label><input type="radio" 
+class="radiobttn btnlink" id="Q4_issuefaced" 
+name="radioButton-radio-group-1588075204880"
+label="FAQs on Moratorium" 
+value="FAQs on Moratorium" 
+data-url="https://www.online.citibank.co.in/citihelp/COVID-19/Moratorium-FAQs.htm?eOfferCode=INHelpfb"
+data-reference='FAQs on Moratorium'
+visibility="show"
+onclick="customRadioBtnValidity('Q4_issuefaced')"
+error="Please choose one option" 
+oninvalid="setCustomValidity('Please choose one option')"><span>FAQs on Moratorium</span></label>
                             </span>
                             <span class='chat-radio'>
-                                <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588075204880" label="Paying your Utility Bills" value='Paying your Utility Bills' data-url="https://www.online.citibank.co.in/portal/blogs/Utility-Bill-Payments/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Paying your Utility Bills</span></label>
+                            <label><input type="radio"
+class="radiobttn btnlink" id="Q4_issuefaced"
+name="radioButton-radio-group-1588075204880" 
+label="Creating User ID and Password" 
+value="Creating User ID and Password" 
+data-url="https://www.citibank.co.in/ssjsps/ssindexmidssi.jsp?eOfferCode=INHelpfb" visibility="show"
+onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Creating User ID and Password</span></label>
+                               </span>
+                               <span class='chat-radio'>
+                               <label><input type="radio" 
+class="radiobttn btnlink" id="Q4_issuefaced" 
+name="radioButton-radio-group-1588075204880" 
+label="Digital banking - banking safely from home"
+value="Digital banking - banking safely from home"
+data-url="https://www.online.citibank.co.in/citihelp/topics/stay-safe-bank-from-home/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>	
+Digital banking - banking safely from home </span></label>
+                               </span>
+                               <span class='chat-radio'>
+                               <label><input type="radio"
+class="radiobttn btnlink" id="Q4_issuefaced" 
+name="radioButton-radio-group-1588075204880"
+label="Change your address" value='Change your address' 
+data-url="https://www.online.citibank.co.in/portal/blogs/change-address/index.htm?eOfferCode=INHelpfb" visibility="show"
+onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Change your address</span></label>
+                               </span>
+                               <span class='chat-radio'>
+                               <label><input type="radio"
+class="radiobttn btnlink" id="Q4_issuefaced" 
+name="radioButton-radio-group-1588075204880"
+label="Redeeming Credit Card Rewards points"
+value='Redeeming Credit Card Rewards points'
+data-url="https://www.online.citibank.co.in/portal/blogs/credit-card-rewards/credit-card-rewards-blog.htm?source=CHS&eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Redeeming Credit Card Rewards points</span></label>
                             </span>
                             <span class='chat-radio'>
-                                <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588075204880" label="Credit Card application status" value='Credit Card application status' data-url="https://www.online.citibank.co.in/citihelp/topics/credit-card/track-application/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Credit Card application status</span></label>
+                            <label><input type="radio"
+class="radiobttn btnlink" id="Q4_issuefaced"
+name="radioButton-radio-group-1588075204880" 
+label="Paying your Utility Bills"
+value='Paying your Utility Bills'
+data-url="https://www.online.citibank.co.in/portal/blogs/Utility-Bill-Payments/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Paying your Utility Bills</span></label>
                             </span>
                             <span class='chat-radio'>
-                                <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588075204880" label="Disputing card transaction" value='Disputing card transaction' data-url="https://www.online.citibank.co.in/citihelp/topics/credit-card/track-application/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Disputing card transaction</span></label>
+                            <label><input type="radio" 
+class="radiobttn btnlink" id="Q4_issuefaced" 
+name="radioButton-radio-group-1588075204880" 
+label="Credit Card application status" 
+value='Credit Card application status'
+data-url="https://www.online.citibank.co.in/citihelp/topics/credit-card/track-application/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Credit Card application status</span></label>
+                            </span>
+                            <span class='chat-radio'>
+                            <label><input type="radio"
+class="radiobttn btnlink" id="Q4_issuefaced"
+name="radioButton-radio-group-1588075204880" 
+label="Disputing card transaction" 
+value='Disputing card transaction' 
+data-url="https://www.online.citibank.co.in/citihelp/topics/credit-card/track-application/index.htm?eOfferCode=INHelpfb"
+visibility="show"
+onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Disputing card transaction</span></label>
                             </span>
                             <span class='chat-radio'>
                                 <label><input type="radio" class="radiobttn" id="Q4_issuefaced" name="radioButton-radio-group-1588075204880" label="These didn't answer my question" value="These did not answer my question" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my question</span></label>
                             </span>
                                 
                             </div>
-                        </li>
-                    </ul>
-                    <div class="clear"></div>
-                    <ul class="sortable1 textbox2">
-                        <li>
+                            </li>
+                            </ul>
+                            <div class="clear"></div>
+                            <ul class="sortable1 textbox2">
+                            <li>
                             <div>
-                                <div id="div-textField-text-1568196126731">
-                                    <p class="submit-specify">Please mention</p>
-                                </div>
+                            <div id="div-textField-text-1568196126731">
+                            <p class="submit-specify">Please mention</p>
+                            </div>
                                 <!-- <script type="text/javascript">
                                     $(function() {
                                         function htmlDecode(input) {
@@ -3626,14 +3676,29 @@ jQuery(document).ready(function($){
                                         $('#div-textField-text-1568196126731').html(decodeData);
                                     });
                                 </script> -->
-                                <input class="txtfield" position="above" id="Q3d" pattern="^(?!\s*$)[a-zA-Z0-9\s]{1,100}$" name="textField-text-1588074081572" type="text" maxlength="100"  visibility="show" error="Please specify the reason" title="Please specify the reason" oninvalid="setCustomValidity('Please specify the reason')" onchange="setCustomValidity('')">
+                                <input class="txtfield" 
+				 position="above" id="Q3d"
+				 pattern="^(?!\s*$)[a-zA-Z0-9\s]{1,100}$" 
+				 name="textField-text-1588074081572"
+				 type="text" 
+				 maxlength="100" 
+				 visibility="show"
+				 error="Please specify the reason" 
+				 title="Please specify the reason" 
+				 oninvalid="setCustomValidity('Please specify the reason')"
+				 onchange="setCustomValidity('')">
                         </div>
                         </li>
                         </ul>
                         <ul class="sortable3 chat-cta">
                         <li>
-                            <input type="hidden" class="txtfield" id="form_id" name="hiddenfield-hiddenfield-1568199891456" defaultvalue="frmcitihelpsurveyC" value="frmcitihelpsurveyC">
-                            <script type="text/javascript">
+                            <input type="hidden"
+		             class="txtfield"
+			     id="form_id"
+		             name="hiddenfield-hiddenfield-1568199891456"
+			     defaultvalue="frmcitihelpsurveyC" 
+			     value="frmcitihelpsurveyC">
+                        <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
                                 $('#form_id').attr('value', 'frmcitihelpsurveyC');
@@ -3643,11 +3708,24 @@ jQuery(document).ready(function($){
                         <li>
                         <script src="/formbuilder/js/createJSON.js"></script>
                         <div id="submitcallclk">
-                                     <button type="image" class="submitBtn sumitclk" hiddenid="submit"><input type="hidden" id="PG" value="false"><input type="hidden" id="clicktocall" value="false"><img class="submitImg" hiddenid="submit" id="submit-image-1568199904101" src="https://www.online.citibank.co.in/formbuilder/images/submitbtn.jpg" name="submit-image-1568199904101" type="image"></button>
+                                     <button type="image" 
+				      class="submitBtn sumitclk" 
+				      hiddenid="submit"><input 
+				      type="hidden" id="PG" value="false"><input 
+				      type="hidden" id="clicktocall" value="false"><img
+				      class="submitImg" hiddenid="submit"
+				      id="submit-image-1568199904101" src="https://www.online.citibank.co.in/formbuilder/images/submitbtn.jpg" 
+				      name="submit-image-1568199904101" 
+				      type="image"></button>
                         </div>
                         </li>
                         <li>
-<input type="hidden" class="txtfield" id="externalOfferCode" name="hiddenfield-hiddenfield-1568199909760" defaultvalue="externalOfferCode" value="externalOfferCode">
+                        <input type="hidden"
+                                      class="txtfield"
+                                      id="externalOfferCode"
+                                      name="hiddenfield-hiddenfield-1568199909760" 
+                                      defaultvalue="externalOfferCode"
+                                      value="externalOfferCode">
                         <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
@@ -3669,10 +3747,17 @@ jQuery(document).ready(function($){
                         <li>
                         <div class="blk_div chat-ans url-list-block">
                         <ul class='url-list'>
-									<!-- <li class='pointer link-search' style='text-align: center;padding: 5px 15px;'>Try using other keywords in the search bar</li> -->
-									
-									<li class='pointer' style='text-align: center;'><a href='https://www.online.citibank.co.in/customerservice/home.htm' onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;">Visit Customer service Home</a></li>
-									<li class='pointer' style='text-align: center;'><a href='https://chat.citibank.co.in/IN/WebChat/' onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;">Chat now with Citi</a></li>
+	<!-- <li class='pointer link-search' style='text-align: center;padding: 5px 15px;'>Try using other keywords in the search bar</li> -->
+		        <li class='pointer'
+			 style='text-align: center;'><a
+			 href='https://www.online.citibank.co.in/customerservice/home.htm' 
+			 onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+		>Visit Customer service Home</a></li>
+			<li class='pointer'
+			 style='text-align: center;'><a
+			 href='https://chat.citibank.co.in/IN/WebChat/' 
+			 onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+		>Chat now with Citi</a></li>
 			</ul>
                         </div>
                         </li>
@@ -3680,7 +3765,12 @@ jQuery(document).ready(function($){
 		        <div class="clear"></div>
                         <ul class="sortable5">
                         <li>
-                        <input type="hidden" class="txtfield" id="Creative" name="hiddenfield-hiddenfield-1568200098146" defaultvalue="Creative" value="Creative">
+                        <input type="hidden"
+			       class="txtfield" 
+			       id="Creative"
+			       name="hiddenfield-hiddenfield-1568200098146"
+			       defaultvalue="Creative" 
+			       value="Creative">
                         <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
@@ -3689,7 +3779,12 @@ jQuery(document).ready(function($){
                         </script>
                         </li>
                         <li>
-                        <input type="hidden" class="txtfield" id="Section" name="hiddenfield-hiddenfield-1568200103726" defaultvalue="Section" value="Section">
+                        <input type="hidden" 
+			       class="txtfield"
+			       id="Section" 
+			       name="hiddenfield-hiddenfield-1568200103726"
+			       defaultvalue="Section"
+			       value="Section">
                         <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
@@ -3698,7 +3793,11 @@ jQuery(document).ready(function($){
                         </script>
                         </li>
                         <li>
-<input type="hidden" class="txtfield" id="Campaign_Code" name="hiddenfield-hiddenfield-1568200108065" defaultvalue="Campaign_Code" value="Campaign_Code">
+<input type="hidden"
+       class="txtfield" id="Campaign_Code"
+       name="hiddenfield-hiddenfield-1568200108065" 
+       defaultvalue="Campaign_Code" 
+       value="Campaign_Code">
                         <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
@@ -3707,7 +3806,12 @@ jQuery(document).ready(function($){
                         </script>
                         </li>
                         <li>
-<input type="hidden" class="txtfield" id="Product_Code" name="hiddenfield-hiddenfield-1568200113047" defaultvalue="Product_Code" value="Product_Code">
+<input type="hidden" 
+       class="txtfield" 
+       id="Product_Code"
+       name="hiddenfield-hiddenfield-1568200113047"
+       defaultvalue="Product_Code"
+       value="Product_Code">
                         <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
@@ -3716,7 +3820,12 @@ jQuery(document).ready(function($){
                         </script>
                         </li>
                         <li>
-                        <input type="hidden" class="txtfield" id="Source_Id" name="hiddenfield-hiddenfield-1568200117347" defaultvalue="internet" value="internet">
+                        <input type="hidden"
+			       class="txtfield"
+			       id="Source_Id" 
+			       name="hiddenfield-hiddenfield-1568200117347" 
+			       defaultvalue="internet" 
+			       value="internet">
                         <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
@@ -3737,7 +3846,12 @@ jQuery(document).ready(function($){
                          <div class="clear"></div>
                          <ul class="sortable5">
                          <li>
-                         <input type="hidden" class="txtfield" id="Country_Id" name="hiddenfield-hiddenfield-1568200122655" defaultvalue="IN" value="IN">
+                         <input type="hidden"
+				class="txtfield"
+				id="Country_Id"
+				name="hiddenfield-hiddenfield-1568200122655" 
+				defaultvalue="IN" 
+				value="IN">
                          <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
@@ -3746,7 +3860,12 @@ jQuery(document).ready(function($){
                         </script>
                         </li>
                         <li>
-                        <input type="hidden" class="txtfield" id="Lead_Type" name="hiddenfield-hiddenfield-1568200127834" defaultvalue="Lead_Type" value="Lead_Type">
+                        <input type="hidden"
+			       class="txtfield" 
+			       id="Lead_Type"
+			       name="hiddenfield-hiddenfield-1568200127834"
+			       defaultvalue="Lead_Type" 
+			       value="Lead_Type">
                         <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
@@ -3755,7 +3874,12 @@ jQuery(document).ready(function($){
                         </script>
                         </li>
                         <li>
-                        <input type="hidden" class="txtfield" id="timestamp" name="hiddenfield-hiddenfield-1568200135399" defaultvalue="timestamp" value="timestamp">
+                        <input type="hidden" 
+			       class="txtfield" 
+			       id="timestamp"
+			       name="hiddenfield-hiddenfield-1568200135399" 
+			       defaultvalue="timestamp" 
+			       value="timestamp">
                         <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
@@ -3764,7 +3888,11 @@ jQuery(document).ready(function($){
                         </script>
                         </li>
                         <!--  <li>
-                        <input type="hidden" class="txtfield" id="ip" name="hiddenfield-hiddenfield-1568200140266" defaultvalue="ip" value="ip">
+                        <input type="hidden" 
+                         class="txtfield"
+                         id="ip"
+                         name="hiddenfield-hiddenfield-1568200140266"
+                         defaultvalue="ip" value="ip">
                         <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
@@ -3773,69 +3901,82 @@ jQuery(document).ready(function($){
                         </script>
                         </li> -->
                         <li>
-                            <input type="hidden" class="txtfield" id="Agency_Code" name="hiddenfield-hiddenfield-1568200145975" defaultvalue="Agency_Code" value="Agency_Code">
+                            <input type="hidden"
+				   class="txtfield"
+				   id="Agency_Code" 
+				   name="hiddenfield-hiddenfield-1568200145975"
+				   defaultvalue="Agency_Code" 
+				   value="Agency_Code">
                             <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
                                 //    $('#Agency_Code').attr('value', 'Agency_Code');
                                 });
-                            </script>
-                        </li>
+                    </script>
+                    </li>
                     </ul>
                     <div class="clear"></div>
                     <ul class="sortable5">
-                        <li>
-                            <input type="hidden" class="txtfield" id="Site" name="hiddenfield-hiddenfield-1568200499281" defaultvalue="Site" value="Site">
+                    <li>
+                            <input type="hidden"
+				   class="txtfield"
+				   id="Site"
+				   name="hiddenfield-hiddenfield-1568200499281" 
+				   defaultvalue="Site" 
+				   value="Site">
                             <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
                                     $('#Site').attr('value', 'Site');
                                 });
                             </script>
-                        </li>
-						<li>
-                            <input type="hidden" class="txtfield" id="ratingtype" name="hiddenfield-hiddenfield-1575549806188" value="">
+                            </li>
+			    <li>
+                            <input type="hidden" 
+				   class="txtfield" 
+				   id="ratingtype"
+				   name="hiddenfield-hiddenfield-1575549806188" 
+				   value="">
                             
-                        </li>
+                            </li>
 						
-                    </ul>
+                            </ul>
 
                     <div class="clear"></div>
-                    <div id="responseMsg" style="color: red;font-family: interstate,arial,sans-serif;font-size: 18px;text-align:center;"></div>
-                </form>
-            </div>
-        </div>
-    </div>
-
-
-
- 
-        <div id="dwn-popup" class="popup_dwn" style="display: none;
-background: #FFF;padding: 20px 7px 30px 30px;">
-		<!-- <div class="closebtnsec">			
-			<img src="images/close.png" class="close-btn" alt="" />
-		</div>	 -->	
-		<div class="" style="text-align:center;">
-			<h3>Important Notice</h3>
+                    <div id="responseMsg" 
+			 style="color: red;font-family: interstate,arial,sans-serif;font-size: 18px;text-align:center;"></div>
+                    </form>
+                    </div>
+                    </div>
+                    </div>
+                    <div id="dwn-popup" 
+			 class="popup_dwn"
+			 style="display: none; background: #FFF;padding: 20px 7px 30px 30px;">
+		    <!-- <div class="closebtnsec">			
+	<img src="images/close.png" class="close-btn" alt="" />
+		    </div>	 -->	
+		    <div class="" style="text-align:center;">
+	            <h3>Important Notice</h3>
 
 					<p>Due to a scheduled maintenance activity between 4 AM to 8 AM IST on 16th Feb 2020, IMPS, UPI (Citi Mobile and 3rd party application) will be unavailable and processing of NEFT transactions will be delayed. We sincerely regret any inconvenience caused</p>
-		</div>
-	</div>
+		     </div>
+	             </div>
                     
-    <!-- Amazon Start -->
+                     <!-- Amazon Start -->
 
-  <!--<div class="appclusive">
+                     <!--<div class="appclusive">
 			    
-			    <div class="dealOverlay">
-			        <div class="appdeal">
-                        <img src="/images/app-close.png" class="appClose" alt="">
-                        <div class="col_lft">
-			                <img src="/images/pop-up-banner.jpg" alt="" class="popBan" usemap="#amazon-map">
-			            </div>
-			            
-			        </div>
-			    </div>
-			</div>  -->
+	             <div class="dealOverlay">
+	             <div class="appdeal">
+       <img src="/images/app-close.png" 
+        class="appClose" alt="">
+                     <div class="col_lft">
+       <img src="/images/pop-up-banner.jpg" alt=""
+        class="popBan" usemap="#amazon-map">
+		 </div>
+	         </div>
+		 </div>
+	         </div>  -->
 
   <!-- Amazon End -->
     
