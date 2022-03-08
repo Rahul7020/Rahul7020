@@ -332,22 +332,22 @@ document.querySelector('body').dispatchEvent(HomeBanner<<1/2/3/4>>SecondaryCTACl
   <![if !IE]>
   <![endif]>
   <link href="https://plus.google.com/110416036191994183705" rel="publisher" />
-    <!--[if IE]>
-    <link href="/css/iestyle.css" rel="stylesheet" type="text/css">
-      <![endif]-->
-      <link href="/css/flexslider.css" rel="stylesheet" type="text/css">
+        <!--[if IE]>
+        <link href="/css/iestyle.css" rel="stylesheet" type="text/css">
+        <![endif]-->
+        <link href="/css/flexslider.css" rel="stylesheet" type="text/css">
         <link href="/css/jquery.fancybox.css" rel="stylesheet" type="text/css">
-          <link href="/credit-card/images/overviewBanner/jquery.fancybox1.css" rel="stylesheet" type="text/css">
-            <script type="text/javascript">var type = 'home', pageTitle = "Home", c3po = null;
+        <link href="/credit-card/images/overviewBanner/jquery.fancybox1.css" rel="stylesheet" type="text/css">
+        <script type="text/javascript">var type = 'home', pageTitle = "Home", c3po = null;
 </script>
 <link href="/customerservice/css/jquery.mCustomScrollbar.css" rel="stylesheet">
-	  <script src="/customerservice/js/jquery.mCustomScrollbar.min.js"></script>
+        <script src="/customerservice/js/jquery.mCustomScrollbar.min.js"></script>
         <script type="text/javascript" src="/js/common.js"></script>
-          <script type="text/javascript" src="/js/response.min.js"></script>
-            <script type="text/javascript" src="/js/jquery.flexslider.js"></script>
-              <script type="text/javascript" src="/js/home.js"></script>
-                <script type="text/javascript" src="/js/home-script2.js"></script>
-                  <script type="text/javascript" src="/credit-card/images/overviewBanner/jquery.fancybox1.js?v=2.1.5"></script>
+        <script type="text/javascript" src="/js/response.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.flexslider.js"></script>
+        <script type="text/javascript" src="/js/home.js"></script>
+        <script type="text/javascript" src="/js/home-script2.js"></script>
+        <script type="text/javascript" src="/credit-card/images/overviewBanner/jquery.fancybox1.js?v=2.1.5"></script>
        
 <style type="text/css">
 .marketProductHldr{top:30px;}  
@@ -978,7 +978,7 @@ z-index: 99;
    
       <style>
       #html5-lightbox-box {
-    width: 900px !important;
+width: 900px !important;
 height: 520px !important;
 margin: 87px auto 0 !important;
 }
@@ -1562,7 +1562,7 @@ top.location = self.location ;
     </script>
     <script type="text/javascript">
     $(document).ready(function() {
-		var url=location.href;
+        var url=location.href;
         var value1=url.search('iframe');
         var value2=url.search('script');
         var value3=url.search('<');
@@ -1586,489 +1586,651 @@ if(top.location.protocol == "http:")
 
     }
 }
-    </script>
-
-                    
-        
-                    
-                    
-                    
-                    
-                    </head>
-  <body  onload="showPage();lms();" class="ng-scope" ng-app="searchApp">
-      <!--<div class="bgOverlay">
-    <div class="popupCont">
-       <img src="/portal/images/popup-close.png" class="closeIconBtn" alt="">
-       <img src="/portal/images/diwali-popup.png" class="popImg" alt="">
-        <a href="/card-offers/youtube-link-disclaimer.htm?eOfferCode=INCITIYOTUDISMER" target="_blank"><img src="/portal/images/popup-CTA.png" alt=""></a>
-    </div>
-</div>-->
-  	<div id="errorpage"></div>
-    <div id="realpage" style="visibility:hidden;">
-                          <div class="mboxDefault">
-                            <!-- Mbox content start -->
-                              <!-- Mbox content end -->
-                                </div>
-                             
-                    <div id="container">
-                      <div id="header">
-                        <script type="text/javascript" src="/js/plugins/header.js"></script>
-                          </div>
-                          <div class="contentBody">
-                             <div class="WorkAreaHldr slider">
-                              <!-- Citi Code for banner/Tiles -->
-                                <div class="bannerRotate flexslider">
-                                  <ul class="slides">
-								
-								 <li>
-                                                    <img src="/images/PC/home-banner-02.jpg" data-src320="/images/mobile/home-banner-02.jpg"  data-src480="/images/mobile/home-banner-02.jpg"  data-src481="/images/mobile/home-banner-02.jpg" data-src641="/images/tablet/home-banner-02_p.jpg" data-src800="/images/tablet/home-banner-02_l.jpg" data-src1025="/images/PC/home-banner-02.jpg" alt="10% Instant Savings* on Myntra with Citi Cards" 
-													class="bannerImg activeHomeBG"/>
-                                                      <div class="marketOfferContent">
-                                                        <div class="offerContTopHldr blueTxt">
+</script>                   
+</head>
+<body  onload="showPage();lms();"
+   class="ng-scope" ng-app="searchApp">
+            <!--<div class="bgOverlay">
+            <div class="popupCont">
+ <img src="/portal/images/popup-close.png" class="closeIconBtn" alt="">
+ <img src="/portal/images/diwali-popup.png" class="popImg" alt="">
+ <a href="/card-offers/youtube-link-disclaimer.htm?eOfferCode=INCITIYOTUDISMER" 
+    target="_blank"><img src="/portal/images/popup-CTA.png" alt=""></a>
+            </div>
+            </div>-->
+  	    <div id="errorpage"></div>
+            <div id="realpage" style="visibility:hidden;">
+            <div class="mboxDefault">
+ <!-- Mbox content start -->
+ <!-- Mbox content end -->
+            </div> 
+            <div id="container">
+            <div id="header">
+            <script type="text/javascript" src="/js/plugins/header.js"></script>
+            </div>
+            <div class="contentBody">
+            <div class="WorkAreaHldr slider">
+ <!-- Citi Code for banner/Tiles -->
+            <div class="bannerRotate flexslider">
+            <ul class="slides">
+	    <li>
+ <img src="/images/PC/home-banner-02.jpg" 
+    data-src320="/images/mobile/home-banner-02.jpg"  
+    data-src480="/images/mobile/home-banner-02.jpg" 
+    data-src481="/images/mobile/home-banner-02.jpg" 
+    data-src641="/images/tablet/home-banner-02_p.jpg"
+    data-src800="/images/tablet/home-banner-02_l.jpg"
+    data-src1025="/images/PC/home-banner-02.jpg"
+    alt="10% Instant Savings* on Myntra with Citi Cards" 
+    class="bannerImg activeHomeBG"/>
+                       <div class="marketOfferContent">
+                       <div class="offerContTopHldr blueTxt">
                                                           
-														  </div>
-                                          <p style="position:relative;" class="learnMoreBtn lrnHpBtn last"><a data-ctaname="Knowmore" data-ctatype="Button" data-ctaposition="Middle" target="_blank" href="/special-offers/offer/index.html?cat=Shopping_and_Lifestyle&id=92&eOfferCode=INHPS104032022"  class="greyBtn orangeBtnGrad thirdbanner" title="KNOW MORE">KNOW MORE</a></p>
+		       </div>
+<p style="position:relative;" 
+   class="learnMoreBtn lrnHpBtn last"><a
+					 data-ctaname="Knowmore"
+					 data-ctatype="Button" 
+					 data-ctaposition="Middle" 
+					 target="_blank" 
+					 href="/special-offers/offer/index.html?cat=Shopping_and_Lifestyle&id=92&eOfferCode=INHPS104032022" 
+					 class="greyBtn orangeBtnGrad thirdbanner" title="KNOW MORE">KNOW MORE</a></p>
                                         
 														
-															</div>
-								</li>
+		        </div>
+			</li>
 								   
-								<li class="banner_active">
-										<img src="/images/PC/home-banner-03.jpg" data-src320="/images/mobile/home-banner-03.jpg"  data-src480="/images/mobile/home-banner-03.jpg"  data-src481="/images/mobile/home-banner-03.jpg"   data-src641="/images/tablet/home-banner-03_p.jpg" data-src800="/images/tablet/home-banner-03_l.jpg" data-src1025="/images/PC/home-banner-03.jpg"  alt="Apply now and get ₹3000 cashback with Citi Credit Card!" class="bannerImg activeHomeBG"/>
-										<div class="marketOfferContent">
-											<div class="offerContTopHldr blueTxt">
-											
-											 </div>
-										<!--<p style="position:relative;" class="learnMoreBtn lrnHpBtn last"><a href="javascript:;" class="greyBtn orangeBtnGrad eighthbanner visible-desktop overlay-login" title="LOGIN NOW">LOGIN NOW</a><a style="position:absolute;left:23%" href="/portal/newgen/cards/tab/apply-now.htm?site=PORTAL&creative=NGX&agencyCode=XER&eOfferCode=INHPS223022022&Couponcode=CITI3000" target="_blank" class="greyBtn orangeBtnGrad seventhbanner" title="APPLY NOW">APPLY NOW</a></p>-->
-						<p data-ctaname="Apply now" data-ctatype="Button" data-ctaposition="Middle" style="position:relative;" class="learnMoreBtn lrnHpBtn last"><a href="/portal/newgen/cards/tab/apply-now.htm?site=PORTAL&creative=NGX&agencyCode=XER&eOfferCode=INHPS204032022&Couponcode=CITI3000" target="_blank" class="greyBtn orangeBtnGrad firstbanner" title="APPLY NOW">APPLY NOW</a></p>
-                                              <!--<p style="position:relative;" class="learnMoreBtn lrnHpBtn last"><a style="display:inline-block !important;" href="https://www.online.citibank.co.in/citilogin1.htm?eOfferCode=INHPS03102020" target="_blank" class="visible-tablet visible-phone greyBtn orangeBtnGrad eighthbanner" title="LOGIN NOW">LOGIN NOW</a></p>-->
-										</div>
-								</li>	                              
-                                 
-									 <li class="banner_active">
-										<img src="/images/PC/home-banner-01.jpg" data-src320="/images/mobile/home-banner-01.jpg"  data-src480="/images/mobile/home-banner-01.jpg"  data-src481="/images/mobile/home-banner-01.jpg"   data-src641="/images/tablet/home-banner-01_p.jpg" data-src800="/images/tablet/home-banner-01_l.jpg" data-src1025="/images/PC/home-banner-01.jpg"  alt="Invest in your dreams with Citi" class="bannerImg activeHomeBG"/>
-										<div class="marketOfferContent">
-											<div class="offerContTopHldr blueTxt">
-											
-											 </div>
-									
-						<p style="position:relative;" class="learnMoreBtn lrnHpBtn last"><a data-ctaname="Invest Now" data-ctatype="Button" data-ctaposition="Middle" href="https://www.citibank.co.in/ibank/login/IQPin1.jsp?dOfferCode=IRMINVPRT&eOfferCode=INHPS303022022" target="_blank" class="greyBtn orangeBtnGrad eighthbanner" title="INVEST NOW">INVEST NOW</a>
-                                          <!-- <a style="position:absolute;left:0;background: transparent;" href="https://www.online.citibank.co.in/products-services/investment/citi-wealth-insights/podcast/index.htm?eOfferCode=INHPS426032021" target="_blank" class="greyBtn orangeBtnGrad Fourtbanner" title="Play now">Play now</a></p>-->
-                                          
-                                       
-										</div>
-								</li> 
-										
-                                       
-								<li>
-                                                    <img src="/images/PC/home-banner-04.jpg" data-src320="/images/mobile/home-banner-04.jpg"  data-src480="/images/mobile/home-banner-04.jpg"  data-src481="/images/mobile/home-banner-04.jpg"   data-src641="/images/tablet/home-banner-04_p.jpg" data-src800="/images/tablet/home-banner-04_l.jpg" data-src1025="/images/PC/home-banner-04.jpg" alt="Convert spends on your Credit Card into affordable EMIs"/>
-                                                      <div class="marketOfferContent">
-                                                        <div class="offerContTopHldr blueTxt">
-                                                          
-														  </div>
-                                <p style="position:relative;" class="learnMoreBtn lrnHpBtn last">   <a data-ctaname="Convert now" data-ctatype="Button" data-ctaposition="Middle" href="https://citi.asia/convertemi" class="greyBtn orangeBtnGrad Fourtbanner" title="CONVERT NOW" target="_blank">CONVERT NOW</a></p> 
-                              <!--<p style="position:relative;" class="learnMoreBtn lrnHpBtn last"><a data-ctaname="booknow" data-ctatype="Button" data-ctaposition="Middle" href="#inline6"  class="greyBtn orangeBtnGrad fourthbanner welcomemgm" title="booknow">Book Now</a> </p>  -->
-														 
-															</div>
-								</li>		
-								
-								
-								</ul>
-								</div>
-								
-								<div class="offerContentList">
-								  <ul>
-											<li>
-													<div class="topArrow"></div>
-													  <a data-bannername="Banner 1:04032022:INHPS104032022" data-bannertype="carousel"  data-bannerposition="Middle" href="javascript:;" title="10% Instant Savings* on Myntra with Citi Cards">
-														<span class="offerListHdr">10% Instant Savings* on Myntra with Citi Cards</span>
-														  </a>
-											</li>	 	
-										
-                                         
-                                             <li>
-													<div class="topArrow"></div>
-													  <a data-bannername="Banner 2:04032022:INHPS204032022" data-bannertype="carousel"  data-bannerposition="Middle" href="javascript:;" title="Apply now and get ₹3000 cashback with Citi Credit Card!">
-										<span class="offerListHdr">Apply now and get ₹3000 cashback with Citi Credit Card!</span>
-														  </a>
-											</li>
-                                       
-                                            	 <li>
-													<div class="topArrow"></div>
-													<a data-bannername="Banner 3:03022022:INHPS303022022" data-bannertype="carousel"  data-bannerposition="Middle" href="javascript:;" class="active" title="Invest in your dreams with Citi">
-														<span class="offerListHdr">Invest in your dreams with Citi</span>
-														  </a>
-											</li> 
-                                     	
-											
-
-											
-											<li>
-											  <div class="topArrow"></div>
-												<a data-bannername="Banner 4:04032022:INHPS404032022" data-bannertype="carousel"  data-bannerposition="Middle" href="javascript:;" title="Convert spends on your Credit Card into affordable EMIs">
-											<span class="offerListHdr cif1">Convert spends on your Credit Card into affordable EMIs</span>
-													</a>
-											</li>											
-                                     
-								  	 	
-										
-											
-                                        	
-                              </ul>
-                              </div> 
- 
-                              <!-- Citi code for banners/tile text ends here-->
+			<li class="banner_active">
+<img src="/images/PC/home-banner-03.jpg" 
+     data-src320="/images/mobile/home-banner-03.jpg"  
+     data-src480="/images/mobile/home-banner-03.jpg"  
+     data-src481="/images/mobile/home-banner-03.jpg"  
+     data-src641="/images/tablet/home-banner-03_p.jpg" 
+     data-src800="/images/tablet/home-banner-03_l.jpg"
+     data-src1025="/images/PC/home-banner-03.jpg"  
+     alt="Apply now and get ₹3000 cashback with Citi Credit Card!"
+     class="bannerImg activeHomeBG"/>
+					       <div class="marketOfferContent">
+					       <div class="offerContTopHldr blueTxt">
+					       </div>
+<!--<p style="position:relative;" class="learnMoreBtn lrnHpBtn last"><a href="javascript:;"
+ class="greyBtn orangeBtnGrad eighthbanner visible-desktop overlay-login" 
+ title="LOGIN NOW">LOGIN NOW</a><a style="position:absolute;left:23%" 
+ href="/portal/newgen/cards/tab/apply-now.htm?site=PORTAL&creative=NGX&agencyCode=XER&eOfferCode=INHPS223022022&Couponcode=CITI3000"
+ target="_blank" class="greyBtn orangeBtnGrad seventhbanner"
+ title="APPLY NOW">APPLY NOW</a></p>-->
+						<p data-ctaname="Apply now"
+						   data-ctatype="Button" 
+						   data-ctaposition="Middle" 
+						   style="position:relative;" 
+						   class="learnMoreBtn lrnHpBtn last"><a
+						   href="/portal/newgen/cards/tab/apply-now.htm?site=PORTAL&creative=NGX&agencyCode=XER&eOfferCode=INHPS204032022&Couponcode=CITI3000"
+target="_blank" class="greyBtn orangeBtnGrad firstbanner"
+title="APPLY NOW">APPLY NOW</a></p>
+<!--<p style="position:relative;" 
+ class="learnMoreBtn lrnHpBtn last"><a style="display:inline-block !important;"
+ href="https://www.online.citibank.co.in/citilogin1.htm?eOfferCode=INHPS03102020" 
+ target="_blank" class="visible-tablet visible-phone greyBtn orangeBtnGrad eighthbanner"
+ title="LOGIN NOW">LOGIN NOW</a></p>-->
+			</div>
+			</li>	                              
+                        <li class="banner_active">
+<img src="/images/PC/home-banner-01.jpg" 
+ data-src320="/images/mobile/home-banner-01.jpg"  
+ data-src480="/images/mobile/home-banner-01.jpg" 
+ data-src481="/images/mobile/home-banner-01.jpg"  
+ data-src641="/images/tablet/home-banner-01_p.jpg"
+ data-src800="/images/tablet/home-banner-01_l.jpg"
+ data-src1025="/images/PC/home-banner-01.jpg"  
+ alt="Invest in your dreams with Citi"
+ class="bannerImg activeHomeBG"/>
+	        	<div class="marketOfferContent">
+			<div class="offerContTopHldr blueTxt">
+		        </div>
+<p style="position:relative;"
+ class="learnMoreBtn lrnHpBtn last"><a 
+ data-ctaname="Invest Now" 
+ data-ctatype="Button" 
+ data-ctaposition="Middle"
+ href="https://www.citibank.co.in/ibank/login/IQPin1.jsp?dOfferCode=IRMINVPRT&eOfferCode=INHPS303022022" 
+ target="_blank" 
+ class="greyBtn orangeBtnGrad eighthbanner" 
+ title="INVEST NOW">INVEST NOW</a>
+<!-- <a style="position:absolute;left:0;background: transparent;" 
+ href="https://www.online.citibank.co.in/products-services/investment/citi-wealth-insights/podcast/index.htm?eOfferCode=INHPS426032021" 
+ target="_blank" class="greyBtn orangeBtnGrad Fourtbanner" title="Play now">Play now</a></p>-->
+                         </div>
+			 </li> 
+			 <li>
+<img src="/images/PC/home-banner-04.jpg" 
+ data-src320="/images/mobile/home-banner-04.jpg" 
+ data-src480="/images/mobile/home-banner-04.jpg"  
+ data-src481="/images/mobile/home-banner-04.jpg"  
+ data-src641="/images/tablet/home-banner-04_p.jpg"
+ data-src800="/images/tablet/home-banner-04_l.jpg"
+ data-src1025="/images/PC/home-banner-04.jpg"
+ alt="Convert spends on your Credit Card into affordable EMIs"/>
+                         <div class="marketOfferContent">
+                         <div class="offerContTopHldr blueTxt">
+                         </div>
+<p style="position:relative;" 
+ class="learnMoreBtn lrnHpBtn last"> 
+<a data-ctaname="Convert now" 
+ data-ctatype="Button"
+ data-ctaposition="Middle"
+ href="https://citi.asia/convertemi" 
+ class="greyBtn orangeBtnGrad Fourtbanner"
+ title="CONVERT NOW" 
+ target="_blank">CONVERT NOW</a></p> 
+<!--<p style="position:relative;"
+ class="learnMoreBtn lrnHpBtn last"><a
+ data-ctaname="booknow" data-ctatype="Button" 
+ data-ctaposition="Middle" href="#inline6" 
+ class="greyBtn orangeBtnGrad fourthbanner welcomemgm" title="booknow">Book Now</a> </p>  -->
+			 </div>
+			 </li>		
+			 </ul>
+			 </div>
+			 <div class="offerContentList">
+			 <ul>
+			 <li>
+			 <div class="topArrow"></div>
+<a data-bannername="Banner 1:04032022:INHPS104032022" 
+ data-bannertype="carousel" 
+ data-bannerposition="Middle" href="javascript:;"
+ title="10% Instant Savings* on Myntra with Citi Cards">
+<span class="offerListHdr">10% Instant Savings* on Myntra with Citi Cards</span>
+			 </a>
+			 </l>
+			 <li>
+			 <div class="topArrow"></div>
+<a data-bannername="Banner 2:04032022:INHPS204032022" 
+   data-bannertype="carousel" 
+   data-bannerposition="Middle"
+   href="javascript:;"
+   title="Apply now and get ₹3000 cashback with Citi Credit Card!">
+<span class="offerListHdr">Apply now and get ₹3000 cashback with Citi Credit Card!</span>
+			  </a>
+			  </li>
+                          <li>
+		          <div class="topArrow"></div>
+<a data-bannername="Banner 3:03022022:INHPS303022022"
+   data-bannertype="carousel" 
+   data-bannerposition="Middle"
+   href="javascript:;"
+   class="active" 
+   title="Invest in your dreams with Citi">
+<span class="offerListHdr">Invest in your dreams with Citi</span>
+			  </a>
+			  </li> 
+                          <li>
+		          <div class="topArrow"></div>
+<a data-bannername="Banner 4:04032022:INHPS404032022"
+   data-bannertype="carousel" 
+   data-bannerposition="Middle" 
+   href="javascript:;"
+   title="Convert spends on your Credit Card into affordable EMIs">
+<span class="offerListHdr cif1">Convert spends on your Credit Card into affordable EMIs</span>
+			        </a>
+		        	</li>											
+                                </ul>
+                                </div> 
+  <!-- Citi code for banners/tile text ends here-->
                                 </div>
                                 <div class="marketProductHldr">
-                                  <div class="marketSignHolder hidden-phone">
-                                    <div class="signOnGroupHldr visible-desktop rounded">
-                                      <div class="signOnAccount">
-                                        <p>WELCOME TO CITIBANK ONLINE:</p>
-                                          <p>
-                                          <a data-ctaname="LoginNow" data-ctatype="Button" data-ctaposition="Top" href="javascript:;" title="LOGIN NOW" id="loginId" class="hidden-phone visible-dektop loginnowlink overlay-login">
-                                            <img src="/images/login.png" width="171" height="26" alt="LOGIN NOW" title="LOGIN NOW" />
-                                              </a>
-                                              <a href="#appsignonpop" title="LOGIN NOW" class="visible-phone loginnowlink">
-                                                <img src="/images/login.png" width="171" height="26" alt="LOGIN NOW" title="LOGIN NOW" />
-                                                  </a>
-                                                  </p>
-                                                  </div>
+                                <div class="marketSignHolder hidden-phone">
+                                <div class="signOnGroupHldr visible-desktop rounded">
+                                <div class="signOnAccount">
+<p>WELCOME TO CITIBANK ONLINE:</p>
+                              <p>
+                              <a data-ctaname="LoginNow"
+				 data-ctatype="Button"
+				 data-ctaposition="Top" 
+				 href="javascript:;" 
+				 title="LOGIN NOW" 
+				 id="loginId"
+				 class="hidden-phone visible-dektop loginnowlink overlay-login">
+<img src="/images/login.png" width="171" height="26"
+                                 alt="LOGIN NOW" title="LOGIN NOW" />
+                                 </a>
+                                 <a href="#appsignonpop" title="LOGIN NOW"
+				    class="visible-phone loginnowlink">
+<img src="/images/login.png" width="171" height="26"
+                                 alt="LOGIN NOW" title="LOGIN NOW" />
+                                 </a>
+                                 </p>
+                                 </div>
+ <!--<div class="signOnAccount new_user">
+ <a data-ctaname="First Time User?
+ Register Now" data-ctatype="Button" data-ctaposition="Top"
+ href="https://www.citibank.co.in/ssjsps/firsttimeuser.jsp" 
+ title="First Time User? Register Now" target="_blank">
+ <img src="/images/First-Time-Login-2.gif" alt="First Time User? Register Now">
+ </a>
+ </div>-->
 												  
-												  <!--<div class="signOnAccount new_user">
-                                                        <a data-ctaname="First Time User? Register Now" data-ctatype="Button" data-ctaposition="Top" href="https://www.citibank.co.in/ssjsps/firsttimeuser.jsp" title="First Time User? Register Now" target="_blank">
-                                                        <img src="/images/First-Time-Login-2.gif" alt="First Time User? Register Now">
-                                                        </a>
-													 </div>-->
-												  
-                                                  <div style="margin-top:10px" class="signOnAccount ex_user">
-                                                    <ul class="signOnLinkList">
-                                                     <li>
-                                                      <a data-ctaname="First Time User? Register Now" data-ctatype="Button" data-ctaposition="Top" href="https://www.citibank.co.in/ssjsps/firsttimeuser.jsp" onclick="return ! window.open(this.href);" title="First Time User? Register Now">First Time User? Register Now</a>
-                                                        </li>
-
-                                                        <li>
-                                                        <a data-ctaname="Forgot User ID / Password" data-ctatype="Button" data-ctaposition="Top" href="https://www.citibank.co.in/ssjsps/retrievelogin.jsp" onclick="return ! window.open(this.href);" title="Forgot User ID / Password">Forgot User ID / Password</a>
-                                                        </li>
-													
-                                                        </ul>
-                                                        <p class="divider">
-                                                        <img width="1" height="1" alt="Spacer" src="/images/spacer.gif">
-                                                        </p>
-                                                        </div>
-														
-														 <div class="signOnAccount">
-														<div class="cS-holderGeneralInfo" style="padding-bottom: 10px">
-                                                        <a data-ctaname="View Video Demos" data-ctatype="Button" data-ctaposition="Top" href="/portal/demo-video.htm?eOfferCode=INHOGLNVD" class="cA-ancLink" style="margin-top:10px" title="View Video Demos">
-                                                        <span class="cS-whiteArrow"></span>
-                                                        <span>View Video Demos</span>
-                                                        </a>
-														
-                                                        </div></div>
-														
-                                                        <div class="signOnAccount">
-                                                        
-                                                        <p>APPLY FOR A NEW PRODUCT:</p>
-                                                        <div class="applyHldr">
-                                                          <div class="applyTxt">Select a Product:</div>
-                                                            <div class="applyDiv">
-                                                              <ul>
-															  <li>
-                                                                    <a data-ctaname="Insurance" data-ctatype="Button" data-ctaposition="Top" href="/products-services/insurance/insurance-form.htm?eOfferCode=LeftNavPanel" title="Insurance">Insurance</a>
-                                                                              </li>
-															      <li class="referearn first fan-pop">
-                                                                      <a data-ctaname=">Refer & Earn – Credit Cards" data-ctatype="Button" data-ctaposition="Top" class="welcom4" href="#inline4">Refer & Earn – Credit Cards
-                                                                        </a>
-                                                                    </li>
-                                                                  <li>
-                                                                  <a data-ctaname="Citigold Account" data-ctatype="Button" data-ctaposition="Top" href="/products-services/banking/citigold/OTA/index.htm?eOfferCode=INHOCGSP" title="Citigold Account"
-                                                                  target="_blank">Citigold Account</a>
-                                                                    </li>
-                                                                    <li>
-                                                                    <a data-ctaname="Citi Priority Account" data-ctatype="Button" data-ctaposition="Top" href="/products-services/banking/citi-priority/contact-us/index.htm?eOfferCode=HPLeftNavDrpDwn"
-                                                                    target="_blank" title="Citi Priority Account">Citi Priority Account</a>
-                                                                      </li>
-                                                                      <li>
-                                                                      <a data-ctaname="Zero Balance Salary Account" data-ctatype="Button" data-ctaposition="Top" href="/portal/suvidha-corporate/index.htm?eOfferCode=HPLeftNavDropDown" title="Zero Balance Salary Account" target="_blank">Zero Balance Salary Account</a>
-                                                                      </li>
-																                                    
-                                                              <li>
-                                                              <a data-ctaname="Credit Cards" data-ctatype="Button" data-ctaposition="Top" href="/portal/newgen/cards/tab/apply-now.htm?cardName=rewardscard&Couponcode=CITI2000&eOfferCode=INHOMLEFTAPPLY"
-                                                              title="Credit Cards" target="_blank">Credit Cards</a>
-                                                                </li>
-                                                                <li>
-                                                                <a data-ctaname="Personal Loans" data-ctatype="Button" data-ctaposition="Top" href="/products-services/loans/ready-cash-personal-loan-form.htm?site=PORTAL&creative=NGX&section=INHOPLTLNDDPRLO&agencyCode=XER&campaignCode=&productCode=&eOfferCode=INHOPLTLNDDPRLO"
-                                                                title="Personal Loans" target="_blank">Personal Loans</a>
-                                                                  </li>
-                                                                
-                                                                    
-                                                                     <!-- <li>
-                                                                      <a href="/products-services/banking/citibanking-account-form.htm?eOfferCode=INHOBATLNDDBAAC" title="Banking Account" target="_blank">Banking Account</a>
-                                                                        </li> -->
-                                                                        <li>
-                                                                        <a data-ctaname="Home Loans" data-ctatype="Button" data-ctaposition="Top" href="/products-services/loans/home-loan-callback.htm?site=PORTAL&creative=NGX&section=INHOHLTLNDDHOLO&agencyCode=XER&campaignCode=&productCode=&eOfferCode=INHOHLTLNDDHOLO"
-                                                                        title="Home Loans" target="_blank">Home Loans</a>
-                                                                          </li>
-                                                                          <li>
-                                                                          <a data-ctaname="Investments" data-ctatype="Button" data-ctaposition="Top" href="/products-services/investments/investments-home.htm?eOfferCode=INHOIVTLNDDINVE" title="Investments">Investments</a>
-                                                                            </li>
-                                                                            
-                                                                              <li>
-                                                                              <a data-ctaname="Loan on your Credit Card" data-ctatype="Button" data-ctaposition="Top" href="https://www.online.citibank.co.in/credit-cards/Citi-Quickcash/personal-loan-on-credit-card?eOfferCode=INCITIPERLOANCC"
-                                                                              title="Loan on your Credit Card" target="_blank">Loan on your Credit Card</a>
-                                                                                </li>
-                                                                                <li>
-                                                                                <a data-ctaname="Ready Credit" data-ctatype="Button" data-ctaposition="Top" href="/products-services/banking/suvidha/ready-credit-callback.htm?site=PORTAL&creative=NGX&section=INHORCTLNDDRECR&agencyCode=XER&campaignCode=&productCode=&eOfferCode=INHORCTLNDDRECR"
-                                                                                target="_blank" title="Ready Credit">Ready Credit</a>
-                                                                                  </li>
-                                                                                  <li>
-                                                                                  <a data-ctaname="CitiBusiness Account" data-ctatype="Button" data-ctaposition="Top" href="/products-services/commercial-bank/citibusiness-account-apply-now.htm?site=PORTAL&creative=NGX&section=INBAACBA30102014HPDD&agencyCode=XER&campaignCode=&productCode=&icid=INBAACBA30102014HPDD"
-                                                                                  target="_blank" title="CitiBusiness Account">CitiBusiness Account</a>
-                                                                                    </li>
-                                                                                    </ul>
-                                                                                    </div>
-                                                                                    </div>
-                                                                                    <p class="divider HmeMarTop">
-                                                                                      <img width="1" height="1" alt="Spacer" src="/images/spacer.gif">
-                                                                                        </p>
-                                                                                        </div>
-																						
-                                                                                        <div class="cS-signOnLinkHldr">
-                                                                                          <div class="cS-holderGeneralInfo">
-                                                                                            <div class="cS-headTxt headTxtPos rounded">
-                                                                                              <a data-ctaname="Fees and Charges" data-ctatype="Button" data-ctaposition="Middle" href="/soc/schedule-of-fees-and-charges.htm?eOfferCode=INHOGNTLNBBFINA" class="cA-ancLink" title="Fees &amp; Charges" target="_blank">
-                                                                                                <span class="cS-whiteArrow"></span>
-                                                                                                  <span>Fees &amp;
+                                  <div style="margin-top:10px" class="signOnAccount ex_user">
+                                  <ul class="signOnLinkList">
+                                  <li>
+<a data-ctaname="First Time User? Register Now"
+   data-ctatype="Button"
+   data-ctaposition="Top"
+   href="https://www.citibank.co.in/ssjsps/firsttimeuser.jsp" 
+   onclick="return ! window.open(this.href);"
+   title="First Time User? Register Now">First Time User? Register Now</a>
+                                  </li>
+                                  <li>
+<a data-ctaname="Forgot User ID / Password"
+   data-ctatype="Button"
+   data-ctaposition="Top" 
+   href="https://www.citibank.co.in/ssjsps/retrievelogin.jsp" 
+   onclick="return ! window.open(this.href);"
+   title="Forgot User ID / Password">Forgot User ID / Password</a>
+                                  </li>
+				  </ul>
+                                  <p class="divider">
+<img width="1" height="1" alt="Spacer" src="/images/spacer.gif">
+                                  </p>
+                                  </div>
+				  <div class="signOnAccount">
+				  <div class="cS-holderGeneralInfo" style="padding-bottom: 10px">
+<a data-ctaname="View Video Demos"
+   data-ctatype="Button" 
+   data-ctaposition="Top" 
+   href="/portal/demo-video.htm?eOfferCode=INHOGLNVD"
+   class="cA-ancLink" 
+   style="margin-top:10px" 
+   title="View Video Demos">
+                                   <span class="cS-whiteArrow"></span>
+                                   <span>View Video Demos</span>
+                                   </a>
+			           </div></div>
+				   <div class="signOnAccount">
+                     <p>APPLY FOR A NEW PRODUCT:</p>
+                                   <div class="applyHldr">
+                                   <div class="applyTxt">Select a Product:</div>
+                                   <div class="applyDiv">
+                                   <ul>
+			           <li>
+<a data-ctaname="Insurance"
+   data-ctatype="Button" 
+   data-ctaposition="Top"
+   href="/products-services/insurance/insurance-form.htm?eOfferCode=LeftNavPanel"
+   title="Insurance">Insurance</a>
+                                   </li>
+		                   <li class="referearn first fan-pop">
+<a data-ctaname=">Refer & Earn – Credit Cards" data-ctatype="Button" data-ctaposition="Top" class="welcom4" href="#inline4">Refer & Earn – Credit Cards
+                                   </a>
+                                   </li>
+                                   <li>
+<a data-ctaname="Citigold Account"
+   data-ctatype="Button"
+   data-ctaposition="Top" 
+   href="/products-services/banking/citigold/OTA/index.htm?eOfferCode=INHOCGSP"
+   title="Citigold Account"
+   target="_blank">Citigold Account</a>
+                                    </li>
+                                    <li>
+<a data-ctaname="Citi Priority Account"
+   data-ctatype="Button"
+   data-ctaposition="Top"
+   href="/products-services/banking/citi-priority/contact-us/index.htm?eOfferCode=HPLeftNavDrpDwn"
+   target="_blank" title="Citi Priority Account">Citi Priority Account</a>
+                                     </li>
+                                     <li>
+<a data-ctaname="Zero Balance Salary Account"
+   data-ctatype="Button"
+   data-ctaposition="Top"
+   href="/portal/suvidha-corporate/index.htm?eOfferCode=HPLeftNavDropDown" 
+   title="Zero Balance Salary Account" 
+   target="_blank">Zero Balance Salary Account</a>
+                                      </li>
+		                      <li>
+<a data-ctaname="Credit Cards" 
+   data-ctatype="Button"
+   data-ctaposition="Top"
+   href="/portal/newgen/cards/tab/apply-now.htm?cardName=rewardscard&Couponcode=CITI2000&eOfferCode=INHOMLEFTAPPLY"
+   title="Credit Cards" target="_blank">Credit Cards</a>
+                                       </li>
+                                       <li>
+<a data-ctaname="Personal Loans" 
+   data-ctatype="Button"
+   data-ctaposition="Top"
+   href="/products-services/loans/ready-cash-personal-loan-form.htm?site=PORTAL&creative=NGX&section=INHOPLTLNDDPRLO&agencyCode=XER&campaignCode=&productCode=&eOfferCode=INHOPLTLNDDPRLO"
+   title="Personal Loans"
+   target="_blank">Personal Loans</a>
+                                       </li>
+                                       <!-- <li>
+<a href="/products-services/banking/citibanking-account-form.htm?eOfferCode=INHOBATLNDDBAAC" title="Banking Account" target="_blank">Banking Account</a>
+                                       </li> -->
+                                       <li>
+<a data-ctaname="Home Loans" 
+   data-ctatype="Button" 
+   data-ctaposition="Top" 
+   href="/products-services/loans/home-loan-callback.htm?site=PORTAL&creative=NGX&section=INHOHLTLNDDHOLO&agencyCode=XER&campaignCode=&productCode=&eOfferCode=INHOHLTLNDDHOLO"
+  title="Home Loans" target="_blank">Home Loans</a>
+                                       </li>
+                                       <li>
+<a data-ctaname="Investments" 
+   data-ctatype="Button" 
+   data-ctaposition="Top"
+   href="/products-services/investments/investments-home.htm?eOfferCode=INHOIVTLNDDINVE"
+   title="Investments">Investments</a>
+                                       </li>
+                                       <li>
+<a data-ctaname="Loan on your Credit Card"
+   data-ctatype="Button"
+   data-ctaposition="Top"
+   href="https://www.online.citibank.co.in/credit-cards/Citi-Quickcash/personal-loan-on-credit-card?eOfferCode=INCITIPERLOANCC"
+   title="Loan on your Credit Card" target="_blank">Loan on your Credit Card</a>
+                                       </li>
+                                       <li>
+<a data-ctaname="Ready Credit"
+   data-ctatype="Button"
+   data-ctaposition="Top"
+   href="/products-services/banking/suvidha/ready-credit-callback.htm?site=PORTAL&creative=NGX&section=INHORCTLNDDRECR&agencyCode=XER&campaignCode=&productCode=&eOfferCode=INHORCTLNDDRECR"
+   target="_blank" title="Ready Credit">Ready Credit</a>
+                                       </li>
+                                       <li>
+<a data-ctaname="CitiBusiness Account"
+   data-ctatype="Button"
+   data-ctaposition="Top"
+   href="/products-services/commercial-bank/citibusiness-account-apply-now.htm?site=PORTAL&creative=NGX&section=INBAACBA30102014HPDD&agencyCode=XER&campaignCode=&productCode=&icid=INBAACBA30102014HPDD"
+   target="_blank" title="CitiBusiness Account">CitiBusiness Account</a>
+                                       </li>
+                                       </ul>
+                                       </div>
+                                       </div>
+                                       <p class="divider HmeMarTop">
+                                       <img width="1" height="1" alt="Spacer" src="/images/spacer.gif">
+                                       </p>
+                                       </div>
+				       <div class="cS-signOnLinkHldr">
+                                       <div class="cS-holderGeneralInfo">
+                                       <div class="cS-headTxt headTxtPos rounded">
+<a data-ctaname="Fees and Charges" 
+   data-ctatype="Button"
+   data-ctaposition="Middle"
+   href="/soc/schedule-of-fees-and-charges.htm?eOfferCode=INHOGNTLNBBFINA"
+   class="cA-ancLink" 
+   title="Fees &amp; Charges" 
+   target="_blank">
+                                       <span class="cS-whiteArrow"></span>
+                                       <span>Fees &amp;
 Charges</span>
-  </a>
-  </div>
-  <p class="divider HmeMarTop" style="margin: 3px 14px 3px!important;">
-                                                                                      <img width="1" height="1" alt="Spacer" src="/images/spacer.gif">
-                                                                                        </p>
-	  
-	  <div class="cS-headTxt headTxtPos rounded">
-                                                 <a data-ctaname="Digital Banking Advisory by IBA" data-ctatype="Button" data-ctaposition="Middle" href="/portal/pdf/digital-banking/IBA-Advisory.pdf" class="cA-ancLink" title="Digital Banking Advisory by IBA" target="_blank">
-                                                                  <span class="cS-whiteArrow"></span>
-                                                          <span>Digital Banking Advisory by IBA</span> </a>       
-                                                          <p class="divider HmeMarTop" img width="1" height="1" alt="Spacer" src="/images/spacer.gif"></p>
-                                                          <a data-ctaname="Safe banking practices: RBI Kehta Hai" data-ctatype="Button" data-ctaposition="Middle" href="/card-offers/rbiorg-disclaimer.htm" class="cA-ancLink" title="Safe banking practices: RBI Kehta Hai" target="_blank">
-                                                                  <span class="cS-whiteArrow"></span>
-                                                          <span style="display:table-cell">Safe banking practices:<br> RBI Kehta Hai</span> </a>                                          
-                                                <!--<p style="font-size:10px;"><span style="padding-left: 3px;" class="cS-whiteArrow"></span><strong><u>Important Communication</u></strong><img src="/images/new-static.png" alt="NEW"></p>-->
-						                        <!--<p style="padding-left: 10px;"><span style="padding-left: 2px;" class="cS-whiteArrow"></span>Changes to your credit card. <br/><a data-ctaname="Click here for more information" data-ctatype="Button" data-ctaposition="Top" style="padding-left: 10px;" href="/credit-card/pdf/finance-charges.pdf" target="_blank"><u>Click here</u></a> for more information</p>--> 
+                                       </a>
+                                       </div>
+  <p class="divider HmeMarTop"
+     style="margin: 3px 14px 3px!important;">
+                                       <img width="1" height="1" alt="Spacer" src="/images/spacer.gif">
+                                       </p>
+	                               <div class="cS-headTxt headTxtPos rounded">
+<a data-ctaname="Digital Banking Advisory by IBA"
+   data-ctatype="Button"
+   data-ctaposition="Middle" 
+   href="/portal/pdf/digital-banking/IBA-Advisory.pdf"
+   class="cA-ancLink" title="Digital Banking Advisory by IBA" 
+   target="_blank">
+                                        <span class="cS-whiteArrow"></span>
+                                        <span>Digital Banking Advisory by IBA</span> </a>       
+                                        <p class="divider HmeMarTop" img width="1" height="1" alt="Spacer" src="/images/spacer.gif"></p>
+<a data-ctaname="Safe banking practices: RBI Kehta Hai"
+   data-ctatype="Button" 
+   data-ctaposition="Middle" 
+   href="/card-offers/rbiorg-disclaimer.htm" 
+   class="cA-ancLink" 
+   title="Safe banking practices: RBI Kehta Hai" 
+   target="_blank">
+                                         <span class="cS-whiteArrow"></span>
+                                         <span style="display:table-cell">Safe banking practices:<br> RBI Kehta Hai</span> </a>                                          
+<!--<p style="font-size:10px;"><span style="padding-left: 3px;" 
+class="cS-whiteArrow"></span><strong><u>Important Communication
+</u></strong><img src="/images/new-static.png" alt="NEW"></p>-->
+ <!--<p style="padding-left: 10px;"><span style="padding-left: 2px;" 
+class="cS-whiteArrow"></span>Changes to your credit card. 
+<br/><a data-ctaname="Click here for more information" 
+data-ctatype="Button" data-ctaposition="Top" style="padding-left: 10px;"
+ href="/credit-card/pdf/finance-charges.pdf" target="_blank"><u>Click here</u></a> for more information</p>--> 
 																								   
-																								  <!--<p style="padding-left:10px;"><ul style="padding-left: 23px;"><li style="display: list-item;color: #fff;overflow: inherit;list-style: disc;"> <a href="/citihelp/COVID-19/Moratorium-FAQs.htm?eOfferCode=INCHPDMORFAQ" class="mouseover" target="_blank" style="color:#fff;font-size:10px;">Moratorium extended for Citi credit cards and loans</a></li></ul> </p>
-																								  
-																								  <p style="padding-left:10px;"><ul style="padding-left: 23px;"><li style="display: list-item;color: #fff;overflow: inherit;list-style: disc;"> <a href="/portal/standalone/COVID-19/RBI-Relief-Package.pdf" class="mouseover" target="_blank" style="color:#fff;font-size:10px;">Notification on Covid-19 Relief Package</a></li></ul> </p>-->
-  
-  </div>
+	 <!--<p style="padding-left:10px;"><ul style="padding-left: 23px;"><li style="display: list-item;color: #fff;overflow: inherit;list-style: disc;"> <a href="/citihelp/COVID-19/Moratorium-FAQs.htm?eOfferCode=INCHPDMORFAQ" class="mouseover" target="_blank" style="color:#fff;font-size:10px;">Moratorium extended for Citi credit cards and loans</a></li></ul> </p>
+         <p style="padding-left:10px;"><ul style="padding-left: 23px;"><li style="display: list-item;color: #fff;overflow: inherit;list-style: disc;"> <a href="/portal/standalone/COVID-19/RBI-Relief-Package.pdf" class="mouseover" target="_blank" style="color:#fff;font-size:10px;">Notification on Covid-19 Relief Package</a></li></ul> </p>-->
+            </div>
   <!-- <p class="divider HmeMarTop" style="margin: 3px 14px 3px!important;">
-    <img width="1" height="1" alt="Spacer" src="/images/spacer.gif">
-      </p> -->
- 
-  </div>
-  </div>
-
-					<div class="announcement-new" style="display:none;">
-                    <p class="divider HmeMarTop" style="margin: 3px 14px 3px!important;">
-    <img width="1" height="1" alt="Spacer" src="/images/spacer.gif">
-</p>  
-				<div class="announcement" style="font-size:10px;">
-				<p>ANNOUNCEMENTS:
-                                                            <img src="/images/imp-blink.gif" alt="IMP">
-                                                              </p>
-				  
-                <span class="cS-whiteArrow"></span>
-				
-                  <span>
-				  
-                  
-<a href="/portal/Standalone/important-notification/downtime-notification.htm?eOfferCode=INSMSDTN" target="_blank" style="color:#fff;">System Downtime: 20<sup>th</sup> Feb, 2022</a></span>					
-                    </div> </div>
-                      <p class="divider HmeMarTop" style="margin: 3px 14px 3px!important;">
-    <img width="1" height="1" alt="Spacer" src="/images/spacer.gif">
+  <img width="1" height="1" alt="Spacer" src="/images/spacer.gif">
+            </p> -->
+            </div>
+            </div>
+            <div class="announcement-new" style="display:none;">
+            <p class="divider HmeMarTop" style="margin: 3px 14px 3px!important;">
+            <img width="1" height="1" alt="Spacer" src="/images/spacer.gif">
+            </p>  
+	    <div class="announcement" style="font-size:10px;">
+	    <p>ANNOUNCEMENTS:
+            <img src="/images/imp-blink.gif" alt="IMP">
+            </p>
+	    <span class="cS-whiteArrow"></span>
+	    <span>
+<a href="/portal/Standalone/important-notification/downtime-notification.htm?eOfferCode=INSMSDTN" 
+   target="_blank"
+   style="color:#fff;">System Downtime: 20<sup>th</sup> Feb, 2022</a></span>					
+            </div> </div>
+            <p class="divider HmeMarTop" style="margin: 3px 14px 3px!important;">
+            <img width="1" height="1" alt="Spacer" src="/images/spacer.gif">
+            </p>
+            <div class="announcement-new-main" style="display:none;">
+	    <div class="announcement" style="font-size:10px;">
+            <span class="cS-whiteArrow"></span>
+            <span>
+<a href="/portal/Standalone/important-notification/downtime-notification.htm?eOfferCode=INCITIDTNOTION"
+   target="_blank"
+   style="color:#fff;border-bottom:1px solid #fff">OTP unavailability - 01<sup>st</sup> Jan 2021</a></span>
+	    </div> </div>		
+            </div> 
+            <div class="aadharNews newsAdHldr rounded News visible-desktop" style="border-radius:0;">
+            <div class="rounded News visible-desktop">
+            <div class="newAddCont">
+            <p style="float:left;">
+ <a data-ctaname="₹3000 Cashback - Limited Period Offer on Citi Credit Cards"
+    data-ctatype="Button" 
+    data-ctaposition="Bottom" 
+    href="/credit-card/instant-approval/card-selection.htm?Couponcode=CITI3000&eOfferCode=INCITIHPBLWLLOGIN"
+    class="" target="_blank">
+ <!-- <img width="209" src="/products-services/banking/images/downloadnow.gif" alt=""> -->
+ <img src="/images/home-LN.gif" title="Apply now for a Citi Credit Card and get 3000 Cashback." alt="Apply now for a Citi Credit Card and get 3000 Cashback.">
+      </a>
       </p>
-                     <div class="announcement-new-main" style="display:none;">
-				<div class="announcement" style="font-size:10px;">
-                <span class="cS-whiteArrow"></span>
-                  <span>
-                  
-				  <a href="/portal/Standalone/important-notification/downtime-notification.htm?eOfferCode=INCITIDTNOTION" target="_blank" style="color:#fff;border-bottom:1px solid #fff">OTP unavailability - 01<sup>st</sup> Jan 2021</a></span>
-					
-                    </div> </div>
-					
-					
-                            </div> 
-                           
-                                                        <div class="aadharNews newsAdHldr rounded News visible-desktop" style="border-radius:0;">
-                                                          <div class="rounded News visible-desktop">
-                                                            <div class="newAddCont">
-                                                              <p style="float:left;">
-                                                                <a data-ctaname="₹3000 Cashback - Limited Period Offer on Citi Credit Cards" data-ctatype="Button" data-ctaposition="Bottom" href="/credit-card/instant-approval/card-selection.htm?Couponcode=CITI3000&eOfferCode=INCITIHPBLWLLOGIN" class="" target="_blank">
-                                                                  <!-- <img width="209" src="/products-services/banking/images/downloadnow.gif" alt=""> -->
-                                                                    <img src="/images/home-LN.gif" title="Apply now for a Citi Credit Card and get 3000 Cashback." alt="Apply now for a Citi Credit Card and get 3000 Cashback.">
-                                                                      </a>
-                                                                      </p>
-                                                                     
-                                                                                                                                                      </div>
-                                                                                                                                                      </div>
-                                                                                                                                                      </div>
-                                                                                                                                                      </div>
-                                                                                                                                                      </div>
-                                                                                                                                                      <div class="visible-phone">
-						  
-                          <ul class="homeTopBtn mobileWrap">
-                            <li class="first applycreditcard">
-                              <a data-ctaname="Apply for a Credit Card – Get ₹3000 Cashback" data-ctatype="Button" data-ctaposition="Middle" href="/portal/newgen/cards/tab/apply-now.htm?cardName=rewardscard&amp;site=PORTAL&amp;creative=NGX&amp;section=INCCOVIMGREWCRD01&amp;agencyCode=XER&amp;campaignCode=&amp;productCode=&amp;eOfferCode=INCCMOBHP&amp;Couponcode=CITI2000"">Apply for a Credit Card – Get ₹3000 Cashback!</a>
+      </div>
+      </div>
+      </div>
+      </div>
+      </div>
+      <div class="visible-phone">
+      <ul class="homeTopBtn mobileWrap">
+      <li class="first applycreditcard">
+<a data-ctaname="Apply for a Credit Card – Get ₹3000 Cashback" 
+   data-ctatype="Button" 
+   data-ctaposition="Middle" 
+   href="/portal/newgen/cards/tab/apply-now.htm?cardName=rewardscard&amp;site=PORTAL&amp;creative=NGX&amp;section=INCCOVIMGREWCRD01&amp;agencyCode=XER&amp;campaignCode=&amp;productCode=&amp;eOfferCode=INCCMOBHP&amp;Couponcode=CITI2000"">Apply for a Credit Card – Get ₹3000 Cashback!</a>
                                 </li>
                                 <li class="applyloan">
-                                  <a data-ctaname="Limited Period Offer! Personal Loans* starting from 9.99% p.a." data-ctatype="Button" data-ctaposition="Middle" href="https://www.online.citibank.co.in/portal/Standalone/Oct17/form-bulider/personal-loan/ready-cash-personal-loan-form.htm?eOfferCode=HPBanner" target="_blank" class="last">Limited Period Offer! Personal Loans* starting from 9.99% p.a.</a><br/>
-                                    </li>
-                                    </ul>
-                                    <ul class="homeTopBtn mobileWrap">
-                            <li class="first applycreditcard">
-                              <a data-ctaname="Apply now for Insurance" data-ctatype="Button" data-ctaposition="Middle" href="/products-services/insurance/insurance-form.htm?eOfferCode=HPMobiletile"  >Apply now for Insurance</a>
+<a data-ctaname="Limited Period Offer! Personal Loans* starting from 9.99% p.a."
+   data-ctatype="Button" 
+   data-ctaposition="Middle"
+   href="https://www.online.citibank.co.in/portal/Standalone/Oct17/form-bulider/personal-loan/ready-cash-personal-loan-form.htm?eOfferCode=HPBanner"
+   target="_blank" class="last">Limited Period Offer! Personal Loans* starting from 9.99% p.a.</a><br/>
+                                 </li>
+                                 </ul>
+                                 <ul class="homeTopBtn mobileWrap">
+                                 <li class="first applycreditcard">
+<a data-ctaname="Apply now for Insurance" 
+   data-ctatype="Button"
+   data-ctaposition="Middle" 
+   href="/products-services/insurance/insurance-for m.htm?eOfferCode=HPMobiletile"  >Apply now for Insurance</a>
                                 </li>
                                 <li class="applyloan">
-                                  <a data-ctaname="Citi Home Loans starting from 6.5% p.a.*" data-ctatype="Button" data-ctaposition="Middle" href="/products-services/loans/home-loan-callback.htm?eOfferCode=HPMobiletile"  class="last">Citi Home Loans starting <br>from 6.5% p.a.*</a><br/>
+<a data-ctaname="Citi Home Loans starting from 6.5% p.a.*" 
+   data-ctatype="Button" 
+   data-ctaposition="Middle" 
+   href="/products-services/loans/home-loan-callback.htm?eOfferCode=HPMobiletile" 
+   class="last">Citi Home Loans starting <br>from 6.5% p.a.*</a><br/>
+                                </li>
+                                </ul>	
+                                <ul style="display:none;" class="homeTopBtn mobileWrap">
+                                <li class="first applycreditcard">
+<a data-ctaname="Benefits worth 4,00,000+ with Citigold. Apply Now!"
+   data-ctatype="Button"
+   data-ctaposition="Middle"
+   href="/products-services/banking/citigold/contact-us/index.htm?eOfferCode=INCITIHPMOB&jump=contactus-form">Benefits worth 4,00,000+ with Citigold. Apply Now!</a>
+                                 </li>
+                                 <li class="applyloan">
+<a data-ctaname="Apply for Citi Priority – Get complimentary* credit car"
+   data-ctatype="Button" 
+   data-ctaposition="Middle" 
+   href="/products-services/banking/citi-priority/contact-us/index.htm?eOfferCode=MobileHPTile"
+   class="last">Apply for Citi Priority – Get complimentary* credit card</a><br/>
+                                  </li>
+                                  </ul>
+                                  <ul class="homeTopBtn mobileWrap">
+                                  <li class="signOn first">
+<a data-ctaname="Sign On" data-ctatype="Button" data-ctaposition="Middle" href="#appsignonpop" class="logOutIcon1 visible-tablet appredirect fancy-openbox">Sign On</a>
+                                  </li>
+                                  <li class="signOn first">
+<a data-ctaname="Sign On"
+ data-ctatype="Button"
+ data-ctaposition="Middle"
+ href="#appsignonpop"
+ class="logOutIcon1 visible-phone appredirect windwosapp fancy-openbox">Sign On</a>
+                                   </li>
+                                   <li class="newuserreg">
+<a data-ctaname="First Time User? Register Now" 
+ data-ctatype="Button"
+ data-ctaposition="Middle"
+ href="https://www.citibank.co.in/ssjsps/ssindexmidssi.jsp" 
+ target="_blank">First Time User?
+                                   <br/>Register Now</a>
+                                   </li>
+                                   </ul>
+       				   <ul class="homeTopBtn mobileWrap">
+                                   <li class="first applycreditcard">
+<a data-ctaname="Citi Mobile view demo videos" 
+   data-ctatype="Button"
+   data-ctaposition="Middle" 
+   href="/portal/Digital-Banking/Always-Teach-Digital/ATD.htm?eOfferCode=CBOLHP"       
+   target="_blank">Citi Mobile <br>– view demo videos</a>
                                     </li>
-                                    </ul>	
-                                    
-                                    <ul style="display:none;" class="homeTopBtn mobileWrap">
-                                      <li class="first applycreditcard">
-                                        <a data-ctaname="Benefits worth 4,00,000+ with Citigold. Apply Now!" data-ctatype="Button" data-ctaposition="Middle" href="/products-services/banking/citigold/contact-us/index.htm?eOfferCode=INCITIHPMOB&jump=contactus-form">Benefits worth 4,00,000+ with Citigold. Apply Now!</a>
-                                          </li>
-                                          <li class="applyloan">
-                                            <a data-ctaname="Apply for Citi Priority – Get complimentary* credit car" data-ctatype="Button" data-ctaposition="Middle" href="/products-services/banking/citi-priority/contact-us/index.htm?eOfferCode=MobileHPTile" class="last">Apply for Citi Priority – Get complimentary* credit card</a><br/>
-                                              </li>
-                                              </ul>
-                                              <ul class="homeTopBtn mobileWrap">
-                                                <li class="signOn first">
-                                                  <a data-ctaname="Sign On" data-ctatype="Button" data-ctaposition="Middle" href="#appsignonpop" class="logOutIcon1 visible-tablet appredirect fancy-openbox">Sign On</a>
-                                                    </li>
-                                                    <li class="signOn first">
-                                                      <a data-ctaname="Sign On" data-ctatype="Button" data-ctaposition="Middle" href="#appsignonpop" class="logOutIcon1 visible-phone appredirect windwosapp fancy-openbox">Sign On</a>
-                                                        </li>
-                                                        <li class="newuserreg">
-                                                          <a data-ctaname="First Time User? Register Now" data-ctatype="Button" data-ctaposition="Middle" href="https://www.citibank.co.in/ssjsps/ssindexmidssi.jsp" target="_blank">First Time User?
-                                                            <br/>Register Now</a>
-                                                            </li>
-                                                           
-                                                            </ul>
-															
-															<ul class="homeTopBtn mobileWrap">
-                                      <li class="first applycreditcard">
-                                        <a data-ctaname="Citi Mobile view demo videos" data-ctatype="Button" data-ctaposition="Middle" href="/portal/Digital-Banking/Always-Teach-Digital/ATD.htm?eOfferCode=CBOLHP" target="_blank">Citi Mobile <br>– view demo videos</a>
-                                          </li>
-                                          <li class="applyloan">
-                                           <a data-ctaname="Offers & Deals" data-ctatype="Button" data-ctaposition="Middle" href="/special-offers/home/index.html?eOfferCode=INDCITISOHI" target="_blank">Offers & Deals<img style="padding-left: 3px;" src="/card-offers/images/new-static.png"></a></a><br>
-                                              </li>
-                                              </ul>
-															<ul class="homeTopBtn">
-                                                            <li class="announcement" style="display: inline-block;font-weight: bold;color: #fff;padding: 10px;text-align:center;margin:0;">
-                                                            
-                                                            <p style="display:none;margin: inherit;">Important Communication<img src="/images/new-static.png" alt="NEW"></p>
-                                                             
-															 <p><a data-ctaname="Digital Banking Advisory by IBA" data-ctatype="Button" data-ctaposition="Middle" style="display: inline-block;padding:0;text-decoration:underline;" href="/portal/pdf/digital-banking/IBA-Advisory.pdf" target="_blank">Digital Banking Advisory by IBA</a></p>
-															 
-															  <!--<p> <a href="/citihelp/COVID-19/Moratorium-FAQs.htm?eOfferCode=INCHPMMORFAQ" target="_blank" style="display: inline-block;padding-bottom:10px;text-decoration:underline;">Moratorium extended for Citi credit cards and loans</a>-->
-															  
-                                                                
-                                                                  
-                                                           
-                                                          
-                                                          <!--<a href="/citihelp/COVID-19/important-notification/index.htm?eOfferCode=INCHPMCOVIDISC" target="_blank" style="display: inline-block;padding:0;text-decoration:underline;">COVID19 Impact - Service Communications</a>-->
-															  </p>
-                                                                
-                                                                </li>
-                                                                </ul> 
-                                                                <ul class="homeTopBtn">
-                                                            <li class="announcement" style="display: inline-block;font-weight: bold;color: #fff;padding: 10px;text-align:center;margin:0;">
-                                                            
-                                                          
-															 
-															  <p> <a data-ctaname="Safe banking practices: RBI Kehta Hai" data-ctatype="Button" data-ctaposition="Middle" href="/card-offers/rbiorg-disclaimer.htm" target="_blank" style="display: inline-block;padding-bottom:10px;text-decoration:underline;">Safe banking practices: RBI Kehta Hai</a>
-															  </p>
-                                                                
-                                                                </li>
-                                                                </ul> 
-															
-														
-													<ul class="homeTopBtn announcement-new" style="display:none">
-                                                            <li class="announcement">
-															
-                                                          <a data-ctaname="ANNOUNCEMENTS" data-ctatype="Button" data-ctaposition="Middle" href="/portal/Standalone/important-notification/downtime-notification.htm?eOfferCode=INSMSDTN" target="_blank"> 
-                                                            <p>ANNOUNCEMENTS:
-                                                            <img src="/images/imp-blink.gif" alt="IMP">
-                                                              </p>
-                                                              <span style="color:#fff;border-bottom:1px solid #fff">
-                                                             System Downtime: 20<sup>th</sup> Feb, 2022</a>
-                                                               
-                                                                </li>
-                                                                </ul> 
-                                                             
-                                             <ul class="homeTopBtn announcement-new-main" style="display:none">
-                                                            <li class="announcement">
-                                                          <a data-ctaname="ANNOUNCEMENTS" data-ctatype="Button" data-ctaposition="bottom" href="/portal/Standalone/important-notification/downtime-notification.htm?eOfferCode=INCITIDTNOTION" target="_blank"> 
-                                                            <p>ANNOUNCEMENTS:
-                                                            <img src="/images/imp-blink.gif" alt="IMP">
-                                                              </p>
-                                                              <span style="color:#fff;">
-                                                             OTP unavailability - 18<sup>th</sup> April 2020</a>
-                                                               
-                                                                </li>
-                                                                </ul> 
-                                                             
-                                                               
-                                                               <ul class="homeTopBtn mobileWrap">
-                                                                                        <li class="referearn first">
-                                                                                          <a data-ctaname="Limited Period Offer: Refer & Earn Cashback up to ₹9,999" data-ctatype="Button" data-ctaposition="Top" class="welcom8" href="#inline8">Limited Period Offer: Refer & Earn<img style="padding-left: 3px;" src="/images/new-static.png" alt="NEW"> <br>Cashback up to ₹9,999
-                                                                                            </a>
-                                                                                            </li>
-                                                                                           
-                                                                                                  </ul>
-                                                                                                  <div class="contactPanel">
-                                                                                                    <!-- <p id="iphoneandpop1">Download the Citi Mobile Smart Banking App</p> -->
-                                                                                                      <div class="appStoreWrap"></div>
-                                                                                                        <ul class="contactPanelList2">
-                                                                                                          <li class="last" style="padding:10px 0">
-                                                                                                            <a style="display:inline" href="https://www.citibank.co.in/ssjsps/forgetuseridmidssi.jsp" title="Forgot User ID" target="_blank"
-                                                                                                            class="forgetpwd">
-                                                                                                              <strong>Forgot User ID</strong>
-                                                                                                                </a> /
-                                                                                                                <a style="display:inline; padding:0" href="https://www.citibank.co.in/ssjsps/forgotpinmidssi.jsp" title="Password" target="_blank">
-                                                                                                                  <strong>Password</strong>
-                                                                                                                  </a>
-                                                                                                                  </li>
-                                                                                                                  
-                                                                                                                    <li class="last">
-                                                                                                                      <a onclick="MM_openBrWindow('/customerservice/citi-asia.htm?eOfferCode=INHOGNCCASKME','','width=760,height=555,top=70,left=125,scrollbars=yes')"
-                                                                                                                      href="JavaScript:void(0)" title="Ask Me" target="_blank" class="panelaskme">
-                                                                                                                        <strong>Ask Me</strong>
-                                                                                                                          </a>
-                                                                                                                          </li>
-                                                                                                                                  <li class="last">
-                                                                                                                                    <a href="/customerservice/branch-atm-locations.htm?eOfferCode=INHOGNCBBBATM" class="atmLocIcon" title="Branch/ATM">
-		<strong>Branch/ATM</strong>
-                </a>
-                </li>
-                </ul>
-                </div>
-                </div>
-                <div class="homeBtmArea visible-phone">
-                <ul>
-                <li class="pullRight">
-                <img src="/images/verisign.png" alt="Verisign" />
-                </li>
-                </ul>
-                </div>
-                <div class="homeBtmArea hidden-phone">
-                <ul class="pullLeft">
-                <li>
-                <img src="/images/verisign.png" alt="Verisign" />
-                </li>
-                </ul>
-                <ul class="pullRight">
-                <li style="display:none;">
+                                    <li class="applyloan">
+<a data-ctaname="Offers & Deals"
+   data-ctatype="Button" 
+   data-ctaposition="Middle"
+   href="/special-offers/home/index.html?eOfferCode=INDCITISOHI" 
+   target="_blank">Offers & Deals<img style="padding-left: 3px;" src="/card-offers/images/new-static.png"></a></a><br>
+                                     </li>
+                                     </ul>
+				     <ul class="homeTopBtn">
+                                     <li class="announcement" style="display: inline-block;font-weight: bold;color: #fff;padding: 10px;text-align:center;margin:0;">
+                                     <p style="display:none;margin: inherit;">Important Communication<img src="/images/new-static.png" alt="NEW"></p>
+                                     <p>
+<a data-ctaname="Digital Banking Advisory by IBA"
+   data-ctatype="Button" 
+   data-ctaposition="Middle" style="display: inline-block;padding:0;text-decoration:underline;" 
+   href="/portal/pdf/digital-banking/IBA-Advisory.pdf"
+   target="_blank">Digital Banking Advisory by IBA</a></p>
+<!--<p> <a href="/citihelp/COVID-19/Moratorium-FAQs.htm?eOfferCode=INCHPMMORFAQ"
+   target="_blank" style="display: inline-block;padding-bottom:10px;text-decoration:underline;">Moratorium extended for Citi credit cards and loans</a>-->
+<!--<a href="/citihelp/COVID-19/important-notification/index.htm?eOfferCode=INCHPMCOVIDISC" 
+   target="_blank" style="display: inline-block;padding:0;text-decoration:underline;">COVID19 Impact - Service Communications</a>-->
+				     </p>
+                                     </li>
+                                     </ul> 
+                                     <ul class="homeTopBtn">
+                                     <li class="announcement"
+   style="display: inline-block;font-weight: bold;color: #fff;padding: 10px;text-align:center;margin:0;">
+<p> <a data-ctaname="Safe banking practices: RBI Kehta Hai" 
+       data-ctatype="Button" data-ctaposition="Middle"
+       href="/card-offers/rbiorg-disclaimer.htm"
+       target="_blank" style="display: inline-block;padding-bottom:10px;text-decoration:underline;">Safe banking practices: RBI Kehta Hai</a>
+				      </p>  
+                                      </li>
+                                      </ul> 
+				      <ul class="homeTopBtn announcement-new" style="display:none">
+                                      <li class="announcement">
+<a data-ctaname="ANNOUNCEMENTS" 
+   data-ctatype="Button"
+   data-ctaposition="Middle" 
+   href="/portal/Standalone/important-notification/downtime-notification.htm?eOfferCode=INSMSDTN" target="_blank"> 
+                                      <p>ANNOUNCEMENTS:
+                                      <img src="/images/imp-blink.gif" alt="IMP">
+                                      </p>
+                                      <span style="color:#fff;border-bottom:1px solid #fff">
+   System Downtime: 20<sup>th</sup> Feb, 2022</a>
+                                      </li>
+                                      </ul> 
+                                      <ul class="homeTopBtn announcement-new-main" style="display:none">
+                                      <li class="announcement">
+<a data-ctaname="ANNOUNCEMENTS"
+   data-ctatype="Button"
+   data-ctaposition="bottom"
+   href="/portal/Standalone/important-notification/downtime-notification.htm?eOfferCode=INCITIDTNOTION"
+   target="_blank"> 
+<p>ANNOUNCEMENTS:
+<img src="/images/imp-blink.gif" alt="IMP">
+                                       </p>
+                                       <span style="color:#fff;">
+  OTP unavailability - 18<sup>th</sup> April 2020</a>
+                                       </li>
+                                       </ul> 
+                                       <ul class="homeTopBtn mobileWrap">
+                                       <li class="referearn first">
+<a data-ctaname="Limited Period Offer: Refer & Earn Cashback up to ₹9,999" 
+   data-ctatype="Button"
+   data-ctaposition="Top"
+   class="welcom8" href="#inline8">Limited Period Offer: Refer & Earn<img style="padding-left: 3px;" src="/images/new-static.png" alt="NEW"> <br>Cashback up to ₹9,999
+                                       </a>
+                                       </li>
+                                       </ul>
+                                       <div class="contactPanel">
+                                       <!-- <p id="iphoneandpop1">Download the Citi Mobile Smart Banking App</p>
+				       <ul class="contactPanelList2">
+                                       <li class="last" style="padding:10px 0"> 
+<a style="display:inline" href="https://www.citibank.co.in/ssjsps/forgetuseridmidssi.jsp" title="Forgot User ID" target="_blank"
+   class="forgetpwd">
+                                       <strong>Forgot User ID</strong>
+                                       </a> /
+<a style="display:inline; padding:0"
+   href="https://www.citibank.co.in/ssjsps/forgotpinmidssi.jsp" title="Password" target="_blank">
+                                       <strong>Password</strong>
+                                       </a>
+                                       </li>
+                                       <li class="last">
+<a onclick="MM_openBrWindow('/customerservice/citi-asia.htm?eOfferCode=INHOGNCCASKME','','width=760,height=555,top=70,left=125,scrollbars=yes')"
+   href="JavaScript:void(0)" title="Ask Me" target="_blank" class="panelaskme">
+                                      <strong>Ask Me</strong>
+                                      </a>
+                                      </li>
+                                      <li class="last">
+<a href="/customerservice/branch-atm-locations.htm?eOfferCode=INHOGNCBBBATM"
+   class="atmLocIcon" title="Branch/ATM">
+		                      <strong>Branch/ATM</strong>
+                                      </a>
+                                      </li>
+                                      </ul>
+                                      </div>
+                                      </div>
+                                      <div class="homeBtmArea visible-phone">
+                                      <ul>
+                                      <li class="pullRight">
+                                      <img src="/images/verisign.png" alt="Verisign" />
+                                      </li>
+                                      </ul>
+                                      </div>
+                                      <div class="homeBtmArea hidden-phone">
+                                      <ul class="pullLeft">
+                                      <li>
+                                      <img src="/images/verisign.png" alt="Verisign" />
+                                      </li>
+                                      </ul>
+                                      <ul class="pullRight">
+                                      <li style="display:none;">
   <a href="/products-services/banking/citi-priority/contact-us/index.htm?eOfferCode=HPFootr" 
   title="Complimentary* Citi Rewards Credit Card, only with Citi Priority" target="_blank">					
     <img src="/images/citi-priority-card.gif" alt="Complimentary* Citi Rewards Credit Card, only with Citi Priority" />
@@ -2155,35 +2317,35 @@ Charges</span>
                                                 </map>																	<!--LeftNavSections ->
                 <!--Banner section -->		
 																						<div id="inline6" style="display:none;">
-                                                                              <img src="/images/MGM-overlay.jpg" alt="Do you have a Citibank Credit Card / Savings account?" usemap="#Map6" />
-                                                                                </div>
-																					<map name="Map6" id="Map6">
-                                                                                      <area alt="YES" title="YES" onclick="$.fancybox.close();" href="/credit-card/referral/existing/mgm-referral.htm?section=MGM&campaignCode=creditcards7&eOfferCode=INHPS416022022"
-                                                                                      shape="rect" coords="46,86,136,115" target="_blank" />
-                                                                                        <area alt="NO" title="NO" onclick="$.fancybox.close();" href="/credit-card/referral/new/mgm-referral.htm?section=MGM&campaignCode=CardNTB1&eOfferCode=INHPS416022022"
-                                                                                        shape="rect" coords="158,86,249,115" target="_blank" />
-                                                                                          </map>																	<!-- Banner Sections -->	
-                                                                                        
-                                                                                         <!--Mob Banner section -->		
+																						<img src="/images/MGM-overlay.jpg" alt="Do you have a Citibank Credit Card / Savings account?" usemap="#Map6" />
+        </div>
+																					<map           name="Map6" id="Map6">
+<area alt="YES" title="YES" onclick="$.fancybox.close();" 
+      href="/credit-card/referral/existing/mgm-referral.htm?section=MGM&campaignCode=creditcards7&eOfferCode=INHPS416022022"
+      shape="rect" coords="46,86,136,115" target="_blank" /> 
+<area alt="NO" title="NO" onclick="$.fancybox.close();"
+      href="/credit-card/referral/new/mgm-referral.htm?section=MGM&campaignCode=CardNTB1&eOfferCode=INHPS416022022"
+      shape="rect" coords="158,86,249,115" target="_blank" /
+      </map>
+	                                                      <!-- Banner Sections -->	
+                                                              <!--Mob Banner section -->		
 																						<div id="inline8" style="display:none;">
-                                                                              <img src="/images/MGM-overlay.jpg" alt="Do you have a Citibank Credit Card / Savings account?" usemap="#Map8" />
-                                                                                </div>
-																					<map name="Map8" id="Map8">
-                                                                                      <area alt="YES" title="YES" onclick="$.fancybox.close();" href="https://www.online.citibank.co.in/credit-card/referral/existing/mgm-referral.htm?section=MGM&campaignCode=creditcards7&eOfferCode=MobileHPBanner"
-                                                                                      shape="rect" coords="46,86,136,115" target="_blank" />
-                                                                                        <area alt="NO" title="NO" onclick="$.fancybox.close();" href="https://www.online.citibank.co.in/credit-card/referral/new/mgm-referral.htm?section=MGM&campaignCode=CardNTB1&eOfferCode=MobileHPBanner"
-                                                                                        shape="rect" coords="158,86,249,115" target="_blank" />
-                                                                                          </map>																	<!-- Mob Banner Sections -->	
+        <img src="/images/MGM-overlay.jpg" alt="Do you have a Citibank Credit Card / Savings account?" usemap="#Map8" />
+        </div>
+	<map name="Map8" id="Map8">
+ <area alt="YES" title="YES" onclick="$.fancybox.close();" 
+       href="https://www.online.citibank.co.in/credit-card/referral/existing/mgm-referral.htm?section=MGM&campaignCode=creditcards7&eOfferCode=MobileHPBanner"
+       shape="rect" coords="46,86,136,115" target="_blank" />
+ <area alt="NO" title="NO" onclick="$.fancybox.close();" 
+       href="https://www.online.citibank.co.in/credit-card/referral/new/mgm-referral.htm?section=MGM&campaignCode=CardNTB1&eOfferCode=MobileHPBanner"
+       shape="rect" coords="158,86,249,115" target="_blank" />
+ </map>
+							    <!-- Mob Banner Sections -->	
                                                                                         
-                                                                                        
-                                                                                        
-
-																						
-                                                                                          <script>
-                                                                                         
-                                                                                          var vaurl = 'https://asia.citi.com/citidesk/bot.htm?isJSEnabled=1&businessArea=Root&channel=Root';
+<script>
+ var vaurl = 'https://asia.citi.com/citidesk/bot.htm?isJSEnabled=1&businessArea=Root&channel=Root';
 $(document).ready(function(){
-  $(".icon-launch").bind("click", function() {
+$(".icon-launch").bind("click", function() {
     openBot();
   }
                         );
