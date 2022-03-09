@@ -363,7 +363,7 @@ a.helpclick{
 } 
 .closemodal{
 	width: 16px;
-    height: 16px;
+        height: 16px;
 }
 .icon-launch{
 	display:none;
@@ -684,7 +684,7 @@ height: 337px;
     width: 185px !important;
   }
 .cm_heading {
-  font-size: 12px !important;
+    font-size: 12px !important;
 }
 @media only screen and (max-width: 320px) {
   .device-view, .seventhbanner{display:none!important;}
@@ -963,7 +963,9 @@ z-index: 99;
   margin-top: 25% !important;
 }
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
-.chatbot_div, .chatbot_div #userForm{height: 100vh !important;}
+.chatbot_div, 
+.chatbot_div
+#userForm{height: 100vh !important;}
 .section5{margin-bottom:30px;}
 #userForm{padding-bottom:40px;}
 }
@@ -2036,7 +2038,9 @@ data-ctatype="Button" data-ctaposition="Top" style="padding-left: 10px;"
     href="/credit-card/instant-approval/card-selection.htm?Couponcode=CITI3000&eOfferCode=INCITIHPBLWLLOGIN"
     class="" target="_blank">
  <!-- <img width="209" src="/products-services/banking/images/downloadnow.gif" alt=""> -->
- <img src="/images/home-LN.gif" title="Apply now for a Citi Credit Card and get 3000 Cashback." alt="Apply now for a Citi Credit Card and get 3000 Cashback.">
+ <img src="/images/home-LN.gif"
+  title="Apply now for a Citi Credit Card and get 3000 Cashback."
+  alt="Apply now for a Citi Credit Card and get 3000 Cashback.">
       </a>
       </p>
       </div>
@@ -2132,7 +2136,8 @@ data-ctatype="Button" data-ctaposition="Top" style="padding-left: 10px;"
                                      <p>
 <a data-ctaname="Digital Banking Advisory by IBA"
    data-ctatype="Button" 
-   data-ctaposition="Middle" style="display: inline-block;padding:0;text-decoration:underline;" 
+   data-ctaposition="Middle"
+   style="display: inline-block;padding:0;text-decoration:underline;" 
    href="/portal/pdf/digital-banking/IBA-Advisory.pdf"
    target="_blank">Digital Banking Advisory by IBA</a></p>
 <!--<p> <a href="/citihelp/COVID-19/Moratorium-FAQs.htm?eOfferCode=INCHPMMORFAQ"
@@ -2192,24 +2197,33 @@ data-ctatype="Button" data-ctaposition="Top" style="padding-left: 10px;"
                                        <!-- <p id="iphoneandpop1">Download the Citi Mobile Smart Banking App</p>
 				       <ul class="contactPanelList2">
                                        <li class="last" style="padding:10px 0"> 
-<a style="display:inline" href="https://www.citibank.co.in/ssjsps/forgetuseridmidssi.jsp" title="Forgot User ID" target="_blank"
+<a style="display:inline"
+   href="https://www.citibank.co.in/ssjsps/forgetuseridmidssi.jsp"
+   title="Forgot User ID"
+   target="_blank"
    class="forgetpwd">
                                        <strong>Forgot User ID</strong>
                                        </a> /
 <a style="display:inline; padding:0"
-   href="https://www.citibank.co.in/ssjsps/forgotpinmidssi.jsp" title="Password" target="_blank">
+   href="https://www.citibank.co.in/ssjsps/forgotpinmidssi.jsp"
+   title="Password" 
+   target="_blank">
                                        <strong>Password</strong>
                                        </a>
                                        </li>
                                        <li class="last">
 <a onclick="MM_openBrWindow('/customerservice/citi-asia.htm?eOfferCode=INHOGNCCASKME','','width=760,height=555,top=70,left=125,scrollbars=yes')"
-   href="JavaScript:void(0)" title="Ask Me" target="_blank" class="panelaskme">
+   href="JavaScript:void(0)" 
+   title="Ask Me"
+   target="_blank"
+   class="panelaskme">
                                       <strong>Ask Me</strong>
                                       </a>
                                       </li>
                                       <li class="last">
 <a href="/customerservice/branch-atm-locations.htm?eOfferCode=INHOGNCBBBATM"
-   class="atmLocIcon" title="Branch/ATM">
+   class="atmLocIcon"
+   title="Branch/ATM">
 		                      <strong>Branch/ATM</strong>
                                       </a>
                                       </li>
@@ -2232,24 +2246,32 @@ data-ctatype="Button" data-ctaposition="Top" style="padding-left: 10px;"
                                       <ul class="pullRight">
                                       <li style="display:none;">
   <a href="/products-services/banking/citi-priority/contact-us/index.htm?eOfferCode=HPFootr" 
-  title="Complimentary* Citi Rewards Credit Card, only with Citi Priority" target="_blank">					
-    <img src="/images/citi-priority-card.gif" alt="Complimentary* Citi Rewards Credit Card, only with Citi Priority" />
+    title="Complimentary* Citi Rewards Credit Card, only with Citi Priority"
+    target="_blank">					
+    <img src="/images/citi-priority-card.gif" 
+     alt="Complimentary* Citi Rewards Credit Card, only with Citi Priority" />
                 </a>
                 </li>
                 <li>
-                <a href="#inline2" class="welcom" title="Refer your friends and family for a Citi Credit Card.">
-                <img src="/images/MGM-festive-refer.gif" alt="Refer your friends and family for a Citi Credit Card." />
+                <a href="#inline2"
+		   class="welcom"
+		   title="Refer your friends and family for a Citi Credit Card.">
+                <img src="/images/MGM-festive-refer.gif"
+		 alt="Refer your friends and family for a Citi Credit Card." />
                 </a>
                 </li>
                 <li>
   <a href="https://www.online.citibank.co.in/portal/newgen/cards/tab/apply-now.htm?Couponcode=CITI2000&eOfferCode=INHOMPSM1000"
-  title="Apply for a Citi Credit Card and get cashback." target="_blank">					
-    <img src="/images/citi-creditcard.jpg" alt="Apply for a Citi Credit Card and get cashback." />
+     title="Apply for a Citi Credit Card and get cashback." 
+     target="_blank">					
+    <img src="/images/citi-creditcard.jpg"
+     alt="Apply for a Citi Credit Card and get cashback." />
                 </a>
                 </li>
                 <li>
   <a href="/customerservice/branch-atm-locations.htm?eOfferCode=INHOGNCBBBATM" title="Branch/ATM">
-                  <img src="/images/branch-atm.png" alt="Branch/ATM" />
+                  <img src="/images/branch-atm.png"
+		   alt="Branch/ATM" />
                 </a>
                 </li>
                 </ul>
@@ -2267,8 +2289,11 @@ data-ctatype="Button" data-ctaposition="Top" style="padding-left: 10px;"
                 <div id="imgtext">
                 <div class="closeic" onclick="off()"><img src="/images/close-x-round.png" title="Close" alt="Close"></div>
                 <img src="/images/diwali2021.jpg" width="100%" height="auto"/>
-  <div><a class="knowmore" onclick="off()" href="/special-offers/home/index.html?eOfferCode=INHOSOTTNSPOF"
-  title="Click Here for Citi Offers" target="_blank">Click Here for Citi Offers</a></div>
+  <div><a class="knowmore" 
+          onclick="off()"
+          href="/special-offers/home/index.html?eOfferCode=INHOSOTTNSPOF"
+          title="Click Here for Citi Offers"
+	  target="_blank">Click Here for Citi Offers</a></div>
                                           </div>
                                           </div>--> 
                                           <div class="TermsAndConditionsdis">
@@ -2330,7 +2355,9 @@ data-ctatype="Button" data-ctaposition="Top" style="padding-left: 10px;"
 	                                                      <!-- Banner Sections -->	
                                                               <!--Mob Banner section -->		
 																						<div id="inline8" style="display:none;">
-        <img src="/images/MGM-overlay.jpg" alt="Do you have a Citibank Credit Card / Savings account?" usemap="#Map8" />
+        <img src="/images/MGM-overlay.jpg" 
+	     alt="Do you have a Citibank Credit Card / Savings account?" 
+	     usemap="#Map8" />
         </div>
 	<map name="Map8" id="Map8">
  <area alt="YES" title="YES" onclick="$.fancybox.close();" 
@@ -2471,19 +2498,21 @@ function speedbump(url) {
   }
 }
 </script>
-  <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"> 
-    </script>
-    <noscript>
-    <div style="display:inline;">
-      <img height="1" width="1" style="border-style:none;" alt="Googleadservices" src="https://www.googleadservices.com/pagead/conversion/957553872/?label=GK6xCLDfhgMQ0LnMyAM&amp;guid=ON&amp;script=0"
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"> 
+</script>
+<noscript>
+<div style="display:inline;">
+      <img height="1" width="1" style="border-style:none;"
+	   alt="Googleadservices"
+	   src="https://www.googleadservices.com/pagead/conversion/957553872/?label=GK6xCLDfhgMQ0LnMyAM&amp;guid=ON&amp;script=0"
       />
         </div>
         <div itemscope itemtype="http://schema.org/LocalBusiness">
-          <span itemprop="name">Citibank N.A</span>
-            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-              <span itemprop="addressLocality">Mumbai</span>,
-                <span itemprop="addressRegion">Maharashtra </span>
-                  </div>
+        <span itemprop="name">Citibank N.A</span>
+        <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <span itemprop="addressLocality">Mumbai</span>,
+        <span itemprop="addressRegion">Maharashtra </span>
+        </div>
                 Phone:
 <span itemprop="telephone">02228232484</span>
   </div>
@@ -2491,8 +2520,8 @@ function speedbump(url) {
   <script type="text/javascript">
     $(document).ready(function () {
     $(".welcom").click(function () {
-      $('#inline2').addClass('divshowing');
-      $.fancybox.open([
+    $('#inline2').addClass('divshowing');
+    $.fancybox.open([
         {
           href: '#inline2'
         }
@@ -2529,7 +2558,7 @@ function speedbump(url) {
   }
                  );
                  
-      	$(".welcomemgm").click(function () { 
+    $(".welcomemgm").click(function () { 
     $('#inline66').addClass('divshowing');
     $.fancybox.open([
       {
@@ -2547,8 +2576,18 @@ function speedbump(url) {
 	
 </script>
 <script type="text/javascript">
-      document.write('<div style="display:none;"><div id="inline3" style="width:293px;"><img src="/images/kyc-overlay.jpg" alt="" usemap="#Mapnew" /></div></div>');
-$("body").append('<map name="Mapnew" id="Mapnew"><area alt="For Credit Cards" title="For Credit Cards" onclick="$.fancybox.close();" href="/portal/standalone/Dec15/KYC/pdf/KYC-UPDATION-DETAILS.pdf" shape="rect" coords="67,24,224,60" target="_blank"/><area alt="For Banking" title="For Banking" onclick="$.fancybox.close();" href="/portal/standalone/Nov15/KYC-Updation-Details/pdf/Domestic-Information-page.pdf" shape="rect" coords="65,79,224,114" target="_blank"/></map>');
+      document.write('<div style="display:none;"><div id="inline3" 
+      style="width:293px;"><img src="/images/kyc-overlay.jpg"
+      alt="" usemap="#Mapnew" /></div></div>');
+$("body").append('<map name="Mapnew" id="Mapnew"><area alt="For Credit Cards"
+	  title="For Credit Cards" 
+	  onclick="$.fancybox.close();" 
+	  href="/portal/standalone/Dec15/KYC/pdf/KYC-UPDATION-DETAILS.pdf" 
+	  shape="rect" coords="67,24,224,60" target="_blank"/><area alt="For Banking"
+	  title="For Banking" 
+	  onclick="$.fancybox.close();"
+	  href="/portal/standalone/Nov15/KYC-Updation-Details/pdf/Domestic-Information-page.pdf" 
+	  shape="rect" coords="65,79,224,114" target="_blank"/></map>');
 $(document).ready(function () {
   /* if($.cookie('dwncount') != "false"){
               $.fancybox.open([
@@ -2728,409 +2767,455 @@ jQuery(document).ready(function($){
  <script src="/js/atIcon.js"></script> 
  
 <!-- SEARCH -->
-<div class="bot-launch icon-launch" id="searchenable" style="display: block;"></div>
-    <div id="vaboxbot">
-        <div id="botdivbot">
-        </div>
-    </div>
-    <div id="dk-popup" class="popup_cls" style="display: none;">
-        <div class="closebtnsec">
-            <img src="images/close.png" class="close-btn" alt="">
-        </div>		
-		<div class="inner_div">
-			<h3>Report your Lost/Stolen card immediately and reissue a new card in 3 simple steps:</h3>
-			<ul>
-				<li><span class="ckc-item">1</span>
-					<p>Login to Citibank Online</p>
-				</li>
-				<li><span class="ckc-item">2</span>
-					<p>Post Login, in the top menu, click on Banking tab (for Debit Card) OR Cards tab (for Credit Card)</p>
-				</li>
-				<li><span class="ckc-item">3</span>
-					<p>In Left hand menu, click Report Lost/Stolen card and follow the steps outlined on the screen Login CTA button: Login Now</p>
-				</li>
-			</ul>
-			<a href="javascript:void(0);" class="loginclick" title="Login Now">Login Now</a>
-			<p class="note"><strong>Note:</strong> If you choose "No" under "Do you want a new card?" option and there are no other active cards linked to your account, your Citibank Online/Citi Mobile access will also get blocked. In case of reissuance, the new card will be sent to your registered address.</p>
+               <div class="bot-launch icon-launch" id="searchenable" style="display: block;"></div>
+               <div id="vaboxbot">
+               <div id="botdivbot">
+               </div>
+               </div>
+               <div id="dk-popup" class="popup_cls" style="display: none;">
+               <div class="closebtnsec">
+<img src="images/close.png" class="close-btn" alt="">
+               </div>		
+	       <div class="inner_div">
+<h3>Report your Lost/Stolen card immediately and reissue a new card in 3 simple steps:</h3>
+	       <ul>
+	       <li><span class="ckc-item">1</span>
+	       <p>Login to Citibank Online</p>
+	       </li>
+	       <li><span class="ckc-item">2</span>
+<p>Post Login, in the top menu, click on Banking tab (for Debit Card) OR Cards tab (for Credit Card)</p>
+	       </li>
+	       <li><span class="ckc-item">3</span>
+<p>In Left hand menu, click Report Lost/Stolen card and follow the steps outlined on the screen Login CTA button: Login Now</p>
+	       </li>
+               </ul>
+<a href="javascript:void(0);" 
+   class="loginclick" 
+   title="Login Now">Login Now</a>
+<p class="note"><strong>Note:</strong> If you choose "No" under "Do you want a new card?" option and there are no other active cards linked to your account, your Citibank Online/Citi Mobile access will also get blocked. In case of reissuance, the new card will be sent to your registered address.</p>
 		</div>
-	</div>
-<div id="afcc-popup" class="popup_cls" style="display: none;">
+	        </div>
+                <div id="afcc-popup" class="popup_cls" style="display: none;">
 		<div class="closebtnsec">
-			<img src="images/close.png" class="close-btn" alt=""/>
+<img src="images/close.png" class="close-btn" alt=""/>
 		</div>
 		<div class="afcc-pop-header">
-			<span class=""> Apply now and get ₹1000 Cashback* + ₹1000 Amazon Pay Gift Card* </span>
+<span class=""> Apply now and get ₹1000 Cashback* + ₹1000 Amazon Pay Gift Card* </span>
 		</div>
 		<div class="afcc-body-cont">
-			<ul class="afcc-item">
-				<li class="afcc-title">IndianOil Citi Credit Card</li>
-				<li class="afcc-img">
-					<div class="afcc-itemClick">
-						<img title="IndianOil Citi Credit Card" alt="IndianOil Citi Credit Card" src="images/indianoil.png"/>
-					</div> 
-				</li>
-				<li class="afcc-cont">
-					<span class="img-item">
-						<img title="IndianOil Citi Credit Card" alt="IndianOil Citi Credit Card" src="images/icon3.jpg"/>
-						
-					</span>					
-					<span class="txt-item"> Never - expiring Turbo points</span>
-				</li>
-				<li class="afcc-cont1">
-					<span class="img-item">
-						<img title="IndianOil Citi Credit Card" alt="IndianOil Citi Credit Card" src="images/icon4.jpg"/>
-					</span>					
-					<span class="txt-item"> 4x turbo points/ on fuel</span>
-				</li>
-				<li class="afcc-applynow">
-					<a href="/portal/newgen/cards/tab/apply-now.htm?cardName=platinumcard&site=PORTAL&eOfferCode=INCITIHELP2000OVERLAY&Couponcode=CITI2000"class="afcc-btn-apply" target="_blank">Apply Now</a>
-				</li>
-			</ul>
-			<ul class="afcc-item">
-				<li class="afcc-title">Citi Cash Back Credit Card</li>
-				<li class="afcc-img">
-					<div class="afcc-itemClick">
-						<img title="Citi Cash Back Credit Card" alt="Citi Cash Back Credit Card" src="images/cash-back.png">
-					</div> 
-				</li>
-				<li class="afcc-cont">
-					<span class="img-item">
-						<img title="Citi Cash Back Credit Card" alt="Citi Cash Back Credit Card" src="images/icon5.jpg"/>
-					</span>					
-					<span class="txt-item">Cashback on every purchaes</span>					
-				</li>
-				<li class="afcc-cont1">
-					<span class="img-item">
-						<img title="Citi Cash Back Credit Card" alt="Citi Cash Back Credit Card" src="images/icon6.jpg"/>
-					</span>					
-					<span class="txt-item">5% cashback on movies & utility bills</span>
-				</li>
-				<li class="afcc-applynow">
-					<a href="/portal/newgen/cards/tab/apply-now.htm?cardName=cashback&site=PORTAL&eOfferCode=INCITIHELP2000OVERLAY&Couponcode=CITI2000" class="afcc-btn-apply" target="_blank">Apply Now</a>
-				</li>
-			</ul>
-			<ul class="afcc-item">
-				<li class="afcc-title">Citi Rewards Credit Card</li>
-				<li class="afcc-img">
-					<div class="afcc-itemClick">
-						<img title="Citi Rewards Credit Card" alt="Citi Rewards Credit Card" src="images/rewards.png"/>
-					</div> 
-				</li>
-				<li class="afcc-cont">
-					<span class="img-item">
-						<img title="Citi Rewards Credit Card" alt="Citi Rewards Credit Card" src="images/icon1.jpg"/>
-					</span>					
-					<span class="txt-item"> Never - expiring rewards points</span>
-				</li>
-				<li class="afcc-cont1">
-					<span class="img-item">
-						<img title="Citi Rewards Credit Card" alt="Citi Rewards Credit Card" src="images/icon2.jpg"/>
-					</span>					
-					<span class="txt-item"> 10X rewards on apparel/ department stores</span>					
-				</li>
-				<li class="afcc-applynow">
-				<a href="/portal/newgen/cards/tab/apply-now.htm?cardName=rewardscard&site=PORTAL&eOfferCode=INCITIHELP2000OVERLAY&Couponcode=CITI2000" class="afcc-btn-apply" target="_blank">Apply Now</a></li>
-			</ul>
-			
-			<ul class="afcc-item">
-				<li class="afcc-title">Citi PremierMiles Credit Card</li>
-				<li class="afcc-img">
-					<div class="afcc-itemClick">
-						<img title="Citi PremierMiles Credit Card" alt="Citi PremierMiles Credit Card" src="images/premiermiles.png"/>
-					</div>  
-				</li>
-				<li class="afcc-cont">
-					<span class="img-item">
-						<img title="Citi PremierMiles Credit Card" alt="Citi PremierMiles Credit Card" src="images/icon7.jpg"/>
-					</span>					
-					<span class="txt-item"> Never expiring  miles</span>
-				</li>
-				<li class="afcc-cont1">
-					<span class="img-item">
-						<img title="Citi PremierMiles Credit Card" alt="Citi PremierMiles Credit Card" src="images/icon8.jpg">
-					</span>					
-					<span class="txt-item"> Redeem miles across 100+ airlines</span>
-				</li>
-				<li class="afcc-applynow"><a href="/portal/newgen/cards/tab/apply-now.htm?cardName=premiermiles&site=PORTAL&eOfferCode=INCITIHELP2000OVERLAY&Couponcode=CITI2000"  target="_blank" class="afcc-btn-apply">Apply Now</a></li>
-			</ul>
-			 <p style="font-size:17px !important;" class="afcc-terms">LIMITED PERIOD OFFER</p> 
-			 <p class="afcc-terms">T&Cs apply. *Cashback offer applicable only if you apply through this banner</p> 
+	        <ul class="afcc-item">
+		<li class="afcc-title">IndianOil Citi Credit Card</li>
+		<li class="afcc-img">
+		<div class="afcc-itemClick">
+<img title="IndianOil Citi Credit Card" 
+     alt="IndianOil Citi Credit Card" 
+     src="images/indianoil.png"/>
+		</div> 
+		</li>
+		<li class="afcc-cont">
+		<span class="img-item">
+<img title="IndianOil Citi Credit Card" 
+     alt="IndianOil Citi Credit Card"
+     src="images/icon3.jpg"/>
+		</span>					
+		<span class="txt-item"> Never - expiring Turbo points</span>
+		</li>
+		<li class="afcc-cont1">
+		<span class="img-item">
+<img title="IndianOil Citi Credit Card"
+     alt="IndianOil Citi Credit Card"
+     src="images/icon4.jpg"/>
+		</span>					
+		<span class="txt-item"> 4x turbo points/ on fuel</span>
+		</li>
+		<li class="afcc-applynow">
+<a href="/portal/newgen/cards/tab/apply-now.htm?cardName=platinumcard&site=PORTAL&eOfferCode=INCITIHELP2000OVERLAY&Couponcode=CITI2000"
+   class="afcc-btn-apply" 
+   target="_blank">Apply Now</a>
+		</li>
+		</ul>
+		<ul class="afcc-item">
+		<li class="afcc-title">Citi Cash Back Credit Card</li>
+		<li class="afcc-img">
+		<div class="afcc-itemClick">
+<img title="Citi Cash Back Credit Card" 
+     alt="Citi Cash Back Credit Card" 
+     src="images/cash-back.png">
+		</div> 
+		</li>
+		<li class="afcc-cont">
+	        <span class="img-item">
+<img title="Citi Cash Back Credit Card" 
+     alt="Citi Cash Back Credit Card"
+     src="images/icon5.jpg"/>
+		</span>					
+		<span class="txt-item">Cashback on every purchaes</span>					
+		</li>
+		<li class="afcc-cont1">
+		<span class="img-item">
+<img title="Citi Cash Back Credit Card" 
+     alt="Citi Cash Back Credit Card" 
+     src="images/icon6.jpg"/>
+		</span>					
+		<span class="txt-item">5% cashback on movies & utility bills</span>
+		</li>
+		<li class="afcc-applynow">
+<a href="/portal/newgen/cards/tab/apply-now.htm?cardName=cashback&site=PORTAL&eOfferCode=INCITIHELP2000OVERLAY&Couponcode=CITI2000"
+   class="afcc-btn-apply" 
+   target="_blank">Apply Now</a>
+	        </li>
+	        </ul>
+		<ul class="afcc-item">
+		<li class="afcc-title">Citi Rewards Credit Card</li>
+		<li class="afcc-img">
+	        <div class="afcc-itemClick">
+<img title="Citi Rewards Credit Card" 
+     alt="Citi Rewards Credit Card"
+     src="images/rewards.png"/>
+		</div> 
+		</li>
+		<li class="afcc-cont">
+		<span class="img-item">
+<img title="Citi Rewards Credit Card" 
+     alt="Citi Rewards Credit Card"
+     src="images/icon1.jpg"/>
+		</span>					
+		<span class="txt-item"> Never - expiring rewards points</span>
+		</li>
+		<li class="afcc-cont1">
+		<span class="img-item">
+<img title="Citi Rewards Credit Card"
+     alt="Citi Rewards Credit Card"
+     src="images/icon2.jpg"/>
+		</span>					
+		<span class="txt-item"> 10X rewards on apparel/ department stores</span>					
+		</li>
+		<li class="afcc-applynow">
+<a href="/portal/newgen/cards/tab/apply-now.htm?cardName=rewardscard&site=PORTAL&eOfferCode=INCITIHELP2000OVERLAY&Couponcode=CITI2000"
+   class="afcc-btn-apply"
+   target="_blank">Apply Now</a></li>
+		</ul>
+                <ul class="afcc-item">
+		<li class="afcc-title">Citi PremierMiles Credit Card</li>
+		<li class="afcc-img">
+		<div class="afcc-itemClick">
+<img title="Citi PremierMiles Credit Card" 
+     alt="Citi PremierMiles Credit Card"
+     src="images/premiermiles.png"/>
+		</div>  
+		</li>
+		<li class="afcc-cont">
+		<span class="img-item">
+<img title="Citi PremierMiles Credit Card"
+     alt="Citi PremierMiles Credit Card"
+     src="images/icon7.jpg"/>
+		</span>					
+		<span class="txt-item"> Never expiring  miles</span>
+		</li>
+		<li class="afcc-cont1">
+		<span class="img-item">
+<img title="Citi PremierMiles Credit Card"
+     alt="Citi PremierMiles Credit Card" 
+     src="images/icon8.jpg">
+		</span>					
+		<span class="txt-item"> Redeem miles across 100+ airlines</span>
+		</li>
+		<li class="afcc-applynow"><a 
+href="/portal/newgen/cards/tab/apply-now.htm?cardName=premiermiles&site=PORTAL&eOfferCode=INCITIHELP2000OVERLAY&Couponcode=CITI2000" 
+target="_blank" class="afcc-btn-apply">Apply Now</a></li>
+		</ul>
+<p style="font-size:17px !important;"
+    class="afcc-terms">LIMITED PERIOD OFFER</p> 
+<p class="afcc-terms">T&Cs apply. *Cashback offer applicable only if you apply through this banner</p> 
 		</div>		
-	</div>
-<div id="oba-popup" class="popup_cls" style="display: none;">
+	        </div>
+                <div id="oba-popup" class="popup_cls" style="display: none;">
 		<div class="closebtnsec">
-			<img src="images/close.png" class="close-btn" alt="">
+<img src="images/close.png" 
+     class="close-btn"
+     alt="">
 		</div>
 		<div class="oba-pop-header">
-			<h2> Choose bank accounts based  on your needs </h2>
+<h2> Choose bank accounts based  on your needs </h2>
 		</div>
 		<div class="oba-pop-body">
-				
-
-				<ul class="oba-item oba-item-ss suvidhalnk">
-					<li class="oba-imgtop">
-						<span class="img-item">
-						<img title="Citibank Suvidha Salary Account" alt="Citibank Suvidha Salary Account" src="images/Suvidha.png">
-					</span>					
-					<h2 class="txt-item">Citibank Suvidha Salary Account</h2>
-					</li>
-					<ul class="oba-liststylebanking">
+		<ul class="oba-item oba-item-ss suvidhalnk">
+		<li class="oba-imgtop">
+		<span class="img-item">
+<img title="Citibank Suvidha Salary Account" 
+     alt="Citibank Suvidha Salary Account" 
+     src="images/Suvidha.png">
+		</span>					
+		<h2 class="txt-item">Citibank Suvidha Salary Account</h2>
+		</li>
+		<ul class="oba-liststylebanking">
 						<li><span>Best in class savings account</span></li>
 						<li><span>Complimentary Credit Card with exclusive offers</span></li>
 						<li><span>Bank-on-the-go with Citi Mobile app</span></li>
-					</ul>
-					<li class="text-center"><a href="/portal/suvidha-corporate/index.htm?eOfferCode=ASKCITI"  target="_blank" class="oba-btn-apply">Apply for Suvidha Salary Account</a></li>					
-				</ul>
-
-				<ul class="oba-item oba-item-cp dotbodr cplnk">
-					<li class="oba-imgtop">
-						<span class="img-item">
-						<img title="Citi Priority" alt="Citi Priority" src="images/citipriority.png"/>
-					</span>					
-					<h2 class="txt-item"> Citi Priority</h2>
-					</li>
-					<ul class="oba-liststylebanking">
+		</ul>
+		<li class="text-center"><a
+ href="/portal/suvidha-corporate/index.htm?eOfferCode=ASKCITI"  
+  target="_blank" class="oba-btn-apply">Apply for Suvidha Salary Account</a></li>					
+		</ul>
+                <ul class="oba-item oba-item-cp dotbodr cplnk">
+		<li class="oba-imgtop">
+		<span class="img-item">
+<img title="Citi Priority" 
+     alt="Citi Priority" 
+     src="images/citipriority.png"/>
+		</span>					
+		<h2 class="txt-item"> Citi Priority</h2>
+		</li>
+		<ul class="oba-liststylebanking">
 						<li><span>Personalized service</span></li>
 						<li><span>Wealth management services along with Citi Priority Personal Banker</span></li>
 						<li><span>Offers and privileges on the Citi Priority World Debit Card</span></li>
-					</ul>
-					<li class="text-center"><a href="https://www.online.citibank.co.in/products-services/banking/citi-priority/contact-us/index.htm?eOfferCode=INCITICPCONTUS" target="_blank" class="oba-btn-apply">Apply for a Citi Priority Account</a></li>					
-				</ul>	
-
-				<ul class="oba-item oba-item-cc dotbodr cglnk">
-					<li class="oba-imgtop">
-						<span class="img-item">
-						<img title="Citigold" alt="Citigold" src="images/citigold.png">
-					</span>					
-					<h2 class="txt-item"> Citigold</h2>
-					</li>
-					<ul class="oba-liststylebanking">
+		</ul>
+		<li class="text-center"><a
+href="https://www.online.citibank.co.in/products-services/banking/citi-priority/contact-us/index.htm?eOfferCode=INCITICPCONTUS"
+target="_blank" class="oba-btn-apply">Apply for a Citi Priority Account</a></li>					
+		</ul>	
+                <ul class="oba-item oba-item-cc dotbodr cglnk">
+		<li class="oba-imgtop">
+		<span class="img-item">
+<img title="Citigold" alt="Citigold" src="images/citigold.png">
+		</span>					
+		<h2 class="txt-item"> Citigold</h2>
+		</li>
+		<ul class="oba-liststylebanking">
 						<li><span>Global banking privileges</span></li>
 						<li><span>Wealth management with the help of specialists</span></li>
 						<li><span>Privileges across travel, dining, golf and more</span></li>
-					</ul>
-					<li class="text-center"><a href="https://www.online.citibank.co.in/products-services/banking/citigold/contact-us/index.htm?eOfferCode=INCITICGCONTUS" target="_blank" class="oba-btn-apply">Apply for a Citigold Account</a></li>					
-				</ul>
-
-				<ul class="oba-item oba-item-cpc dotbodr cpclnk">
-					<li class="oba-imgtop">
-						<span class="img-item">
-						<img title="Citigold Private Client" alt="Citigold Private Client" src="images/cpc.png"/>
-					</span>					
-					<h2 class="txt-item"> Citigold Private Client</h2>
-					</li>
-					<ul class="oba-liststylebanking">
+		</ul>
+		<li class="text-center"><a 
+href="https://www.online.citibank.co.in/products-services/banking/citigold/contact-us/index.htm?eOfferCode=INCITICGCONTUS" 
+target="_blank" class="oba-btn-apply">Apply for a Citigold Account</a></li>					
+		</ul>
+                <ul class="oba-item oba-item-cpc dotbodr cpclnk">
+		<li class="oba-imgtop">
+		<span class="img-item">
+<img title="Citigold Private Client" 
+     alt="Citigold Private Client" 
+     src="images/cpc.png"/>
+		</span>					
+		<h2 class="txt-item"> Citigold Private Client</h2>
+		</li>
+		<ul class="oba-liststylebanking">
 						<li><span>Citi | Wharton trained relationship managers</span></li>
 						<li><span>Innovative wealth management solutions</span></li>
 						<li><span>Global banking privileges</span></li>
-					</ul>
-					<li class="text-center"><a href="https://www.online.citibank.co.in/cpc/contact-us/index.htm?eOfferCode=INCITICPCCONTUS" target="_blank" class="oba-btn-apply">Apply for a Citigold Private Client</a></li>					
-				</ul>
+		</ul>
+		<li class="text-center"><a
+href="https://www.online.citibank.co.in/cpc/contact-us/index.htm?eOfferCode=INCITICPCCONTUS" 
+target="_blank" 
+class="oba-btn-apply">Apply for a Citigold Private Client</a></li>					
+		</ul>
 				
 				
-			<div style="clear:both;overflow:hidden;"></div>
+		<div style="clear:both;overflow:hidden;"></div>
 		</div>
-	</div>
+	        </div>
 
-<div id="searchmodule" ng-controller="searchCtrl" class="ckc-search-box-container">
+                <div id="searchmodule" ng-controller="searchCtrl" class="ckc-search-box-container">
 	
-			<div class="BandTopRow">	
-				<div class="ckc-search-top">
-					<a href="https://www.citibank.co.in/ibank/login/IQPin1.jsp" class="" target="_blank" title="Login Now"> LOGIN NOW 
+	        <div class="BandTopRow">	
+		<div class="ckc-search-top">
+<a href="https://www.citibank.co.in/ibank/login/IQPin1.jsp" class="" target="_blank" title="Login Now"> LOGIN NOW 
 					</a> 
 					<a class="ckc-search-top-separate">|</a> 
 					<a href="/citihelp/index.htm?eOfferCode=INHONRIBTTNCHELP" class="helpclick"  target="_blank" title="CITI HELP HOME"> CITI HELP HOME 
 					</a> 
-				</div>
-				<div class="ckc-close-content">
-					<span class="closemodal">x</span> 
-				</div>
-			</div>	
-                    <input type="text" name="search" id="ckcMainSearch" value="Search or type your query here" ng-model="ckcMainSearch" autocomplete="off" onfocus="if(this.value=='Search or type your query here'){this.value=''}"/>
+		</div>
+		<div class="ckc-close-content">
+		<span class="closemodal">x</span> 
+		</div>
+		</div>	
+<input type="text" name="search" id="ckcMainSearch" value="Search or type your query here" ng-model="ckcMainSearch" autocomplete="off" onfocus="if(this.value=='Search or type your query here'){this.value=''}"/>
 			
-					<div class="ckc-search-result-container" ng-show="ckcMainSearch">
-						<div class="tophead"><p class="searchtooltip">Top Search result  <img src="/citihelp/images/question-icon.png" alt=""> <span class="searchtooltiptext">(Type specific keywords like 'address change', 'reward points' etc for the best results)</span></p></div>
-						<div class="consent" id="cd"><div class="ckc-search-result-sphinx" style=""> </div></div>
-						<div><p id="backid"></p><p id="nextid">More results <img src="/citihelp/images/right.png" alt=""/></p></div>
-						<div class="tophead"><p>People also frequently viewed</p></div>
+		<div class="ckc-search-result-container" ng-show="ckcMainSearch">
+		<div class="tophead"><p class="searchtooltip">Top Search result  
+		<img src="/citihelp/images/question-icon.png" alt=""> 
+		<span class="searchtooltiptext">(Type specific keywords like 'address change', 'reward points' etc for the best results)</span></p></div>
+		<div class="consent" id="cd"><div class="ckc-search-result-sphinx" style=""> 
+		</div></div>
+		<div><p id="backid"></p><p id="nextid">More results <img src="/citihelp/images/right.png" alt=""/></p></div>
+		<div class="tophead"><p>People also frequently viewed</p></div>
 						
                        <ul class="ckc-search-result" style="" ng-show="ckcMainSearchul">
-                            <li ng-repeat="item in items | multiWordFilter:{ text: ckcMainSearch } " class="{{item.parentClass}}" ng-show="ckcMainSearch">
-                                 <a target="_blank" class="{{item.class}}" data-href="{{item.href}}" ng-if="!item.altText">{{item.text}}</a>
-                                 <a target="_blank" class="{{item.class}}" data-href="{{item.href}}" ng-if="item.altText">{{item.altText}}</a>
-                            </li>
-						</ul>
+                       <li ng-repeat="item in items | multiWordFilter:{ text: ckcMainSearch } " class="{{item.parentClass}}" ng-show="ckcMainSearch">
+<a target="_blank" class="{{item.class}}" data-href="{{item.href}}" ng-if="!item.altText">{{item.text}}</a>
+<a target="_blank" class="{{item.class}}" data-href="{{item.href}}" ng-if="item.altText">{{item.altText}}</a>
+                        </li>
+			</ul>
 						
                     </div>
-					<div id="mainSearchContent">
-						<div class="s1"></div>
-						<div class="s2"></div>
-						<div class="s3"></div>
-					</div>
-					<div class="ckc-search-trending-container">
-						<div class="ckc-search-content">
-							<ul class="SearchTilewrap">
-								<li class="ComTile Item1 popup-reportlost">
-									<a href="" target="_blank" class="">Report Lost/Stolen Card</a>
-								</li>
-								<li class="ComTile Item2">
-									<a href="/portal/kyc/KYC-blog/index.htm?eOfferCode=INHOLPKYCFAQ#home" target="_blank" class="">Update KYC</a>
-								</li>
-								<li class="ComTile Item3">
-									<a href="/portal/blogs/change-address/index.htm?eOfferCode=INCKCHCACO#home" target="_blank" class="">Change Address</a>
-								</li>
-								<li class="ComTile Item4">
-									<a href="/portal/blogs/credit-card-rewards/credit-card-rewards-blog.htm?source=CHS&eOfferCode=INHOLPCCRB#home" target="_blank" class="doubleLine">Credit Card Rewards Redemption</a>
-								</li>
-								<li class="ComTile Item5 popup-applycreditcard">
-									<a href="" target="_blank" class="">Apply for Credit Card</a>
-								</li>						
-							</ul>
-							<div style="clear:both;overflow:hidden"></div>
-						</div>
+		    <div id="mainSearchContent">
+		    <div class="s1"></div>
+		    <div class="s2"></div>
+		    <div class="s3"></div>
+		    </div>
+		    <div class="ckc-search-trending-container">
+		    <div class="ckc-search-content">
+			<ul class="SearchTilewrap">
+			<li class="ComTile Item1 popup-reportlost">
+			<a href="" target="_blank" class="">Report Lost/Stolen Card</a>
+			</li>
+			<li class="ComTile Item2">
+			<a href="/portal/kyc/KYC-blog/index.htm?eOfferCode=INHOLPKYCFAQ#home" target="_blank" class="">Update KYC</a>
+			</li>
+			<li class="ComTile Item3">
+			<a href="/portal/blogs/change-address/index.htm?eOfferCode=INCKCHCACO#home" target="_blank" class="">Change Address</a>
+			</li>
+			<li class="ComTile Item4">
+			<a href="/portal/blogs/credit-card-rewards/credit-card-rewards-blog.htm?source=CHS&eOfferCode=INHOLPCCRB#home" target="_blank" class="doubleLine">Credit Card Rewards Redemption</a>
+			</li>
+			<li class="ComTile Item5 popup-applycreditcard">
+			<a href="" target="_blank" class="">Apply for Credit Card</a>
+			</li>						
+			</ul>
+	           <div style="clear:both;overflow:hidden"></div>
+		   </div>
 						
-					</div>
-					<div class="ckc-search-trending-container">
-						<div class="ckc-search-content padTpZero">
-							<ul class="SearchTilewrap">
-								<li class="ComTile Item6">
-									<a href="/portal/dormancy-wau/index.htm?eOfferCode=INCITIDORWAU" target="_blank" class="doubleLine">Remove Dormancy/reactivate your account</a>
-								</li>
-								<li class="ComTile Item7">
-									<a href="/portal/DT/DTBlog/index.htm?eOfferCode=INCITIDTBLOG#home" target="_blank" class="">Dispute Card transaction</a>
-								</li>
-								<li class="ComTile Item8">
-									<a href="https://asia.citi.com/india/InstantApplication/InstantAssistNewPhase/InstantAssist/CheckUserStatus/Index?eOfferCode=INHOCHKUSRSTATS" target="_blank" class="">Track Credit Card Application</a>
-								</li>
-								<li class="ComTile Item9">
-									<a href="/citihelp/topics/stay-safe-bank-from-home/index.htm?eOfferCode=INCITISSBH" target="_blank" class="">Bank safely from home</a>
-								</li>
-								<li class="ComTile Item10 popup-openbaningAcc">
-									<a href="" target="_blank" class="">Open Banking Account</a>
-								</li>						
-							</ul>
-							<div style="clear:both;overflow:hidden"></div>
-						</div>
+		   </div>
+		   <div class="ckc-search-trending-container">
+	           <div class="ckc-search-content padTpZero">
+			<ul class="SearchTilewrap">
+			<li class="ComTile Item6">
+			<a href="/portal/dormancy-wau/index.htm?eOfferCode=INCITIDORWAU" target="_blank" class="doubleLine">Remove Dormancy/reactivate your account</a>
+			</li>
+			<li class="ComTile Item7">
+			<a href="/portal/DT/DTBlog/index.htm?eOfferCode=INCITIDTBLOG#home" target="_blank" class="">Dispute Card transaction</a>
+			</li>
+			<li class="ComTile Item8">
+<a href="https://asia.citi.com/india/InstantApplication/InstantAssistNewPhase/InstantAssist/CheckUserStatus/Index?eOfferCode=INHOCHKUSRSTATS" 
+   target="_blank"
+   class="">Track Credit Card Application</a>
+			</li>
+			<li class="ComTile Item9">
+<a href="/citihelp/topics/stay-safe-bank-from-home/index.htm?eOfferCode=INCITISSBH" target="_blank" class="">Bank safely from home</a>
+			</li>
+		        <li class="ComTile Item10 popup-openbaningAcc">
+			<a href="" target="_blank" class="">Open Banking Account</a>
+			</li>						
+			</ul>
+			<div style="clear:both;overflow:hidden"></div>
+			</div>
 						
-					</div>
-					<div class="ckc-search-trending-container-mob">
-						<div class="ckc-search-content-mob">
-							<div class="ckc-search-mob-con">
-								<div class="ckc-search-item ckc-search-item1">
-									<div class="item popup-reportlost">
-										<p>
-											<a href="" target="_blank" class="">Report Lost/Stolen Card</a>
-										</p>
-									</div>
-								</div>
-								<div class="ckc-search-item ckc-search-item2">
-									<div class="item">
-										<p>
-											<a href="/portal/kyc/KYC-blog/index.htm?eOfferCode=INHOLPKYCFAQ#home" target="_blank" class="">Update KYC</a>
-										</p>
-									</div>
-								</div>								
-							</div>
-							<div class="ckc-search-mob-con">
-								<div class="ckc-search-item ckc-search-item3">
-									<div class="item">
-										<p>
-											<a href="/portal/blogs/change-address/index.htm?eOfferCode=INCKCHCACO#home" target="_blank" class="">Change Address</a>
-										</p>
-									</div>
-								</div>
-								<div class="ckc-search-item ckc-search-item4">
-									<div class="item">
-										<p>
-											<a href="/portal/blogs/credit-card-rewards/credit-card-rewards-blog.htm?source=CHS&eOfferCode=INHOLPCCRB#home" target="_blank" class="doubleLine">Credit Card Rewards Redemption</a>
-										</p>
-									</div>
-								</div>								
-							</div>
-							<div class="ckc-search-mob-con">
-								<div class="ckc-search-item ckc-search-item5">
-									<div class="item popup-applycreditcard">
-										<p>
-											<a href="" target="_blank" class="">Apply for Credit Card</a>
-										</p>
-									</div>
-								</div>
-								<div class="ckc-search-item ckc-search-item6">
-									<div class="item popup-openbaningAcc">
-										<p>
-											<a href="" target="_blank" class="">Open Banking Account</a>
-										</p>
-									</div>
-								</div>
-																
-							</div>
-							<div class="ckc-search-mob-con">
-								<div class="ckc-search-item ckc-search-item7">
-									<div class="item">
-										<p>
-											<a href="/portal/DT/DTBlog/index.htm#home" target="_blank" class="">Dispute Card Transaction</a>
-										</p>
-									</div>
-								</div>
-								<div class="ckc-search-item ckc-search-item8">
-									<div class="item">
-										<p>
-                                           <a href="/citihelp/topics/stay-safe-bank-from-home/index.htm?eOfferCode=INCITISSBH" target="_blank" class="">Bank safely from home</a>
-										</p>
-									</div>
-								</div>								
-							</div>
-							<div class="ckc-search-mob-con">
-								<div class="ckc-search-item ckc-search-item10">
-									<div class="item">
-										<p>
-											<a href="https://asia.citi.com/india/InstantApplication/InstantAssistNewPhase/InstantAssist/CheckUserStatus/Index?eOfferCode=INHOCHKUSRSTATS" target="_blank" class="">Track Credit Card Application</a>
-										</p>
-									</div>
-								</div>
-								<div class="ckc-search-item ckc-search-item9">
-									<div class="item">
-										<p>
-											<a href="/portal/dormancy-wau/index.htm?eOfferCode=INCITIDORWAU" target="_blank" class="doubleLine">Remove Dormancy/reactivate your account</a>
-										</p>
-									</div>
-								</div>								
-							</div>
-						</div>
-					</div>
-			         </div>
+			</div>
+			<div class="ckc-search-trending-container-mob">
+			<div class="ckc-search-content-mob">
+			<div class="ckc-search-mob-con">
+			<div class="ckc-search-item ckc-search-item1">
+			<div class="item popup-reportlost">
+			<p>
+			<a href="" target="_blank" class="">Report Lost/Stolen Card</a>
+			</p>
+			</div>
+			</div>
+			<div class="ckc-search-item ckc-search-item2">
+			<div class="item">
+		        <p>
+			<a href="/portal/kyc/KYC-blog/index.htm?eOfferCode=INHOLPKYCFAQ#home" target="_blank" class="">Update KYC</a>
+			</p>
+			</div>
+			</div>								
+			</div>
+			<div class="ckc-search-mob-con">
+			<div class="ckc-search-item ckc-search-item3">
+			<div class="item">
+			<p>
+			<a href="/portal/blogs/change-address/index.htm?eOfferCode=INCKCHCACO#home" target="_blank" class="">Change Address</a>
+			</p>
+			</div>
+			</div>
+			<div class="ckc-search-item ckc-search-item4">
+			<div class="item">
+			<p>
+			<a href="/portal/blogs/credit-card-rewards/credit-card-rewards-blog.htm?source=CHS&eOfferCode=INHOLPCCRB#home" target="_blank" class="doubleLine">Credit Card Rewards Redemption</a>
+			</p>
+		        </div>
+			</div>								
+			</div>
+			<div class="ckc-search-mob-con">
+			<div class="ckc-search-item ckc-search-item5">
+			<div class="item popup-applycreditcard">
+			<p>
+<a href="" target="_blank" class="">Apply for Credit Card</a>
+			</p>
+			</div>
+			</div>
+			<div class="ckc-search-item ckc-search-item6">
+			<div class="item popup-openbaningAcc">
+			<p>
+<a href="" target="_blank" class="">Open Banking Account</a>
+			</p>
+			</div>
+			</div>													
+			</div>
+			<div class="ckc-search-mob-con">
+			<div class="ckc-search-item ckc-search-item7">
+			<div class="item">
+			<p>
+<a href="/portal/DT/DTBlog/index.htm#home" target="_blank" class="">Dispute Card Transaction</a>
+			</p>
+			</div>
+			</div>
+			<div class="ckc-search-item ckc-search-item8">
+			<div class="item">
+			<p>
+<a href="/citihelp/topics/stay-safe-bank-from-home/index.htm?eOfferCode=INCITISSBH" target="_blank" class="">Bank safely from home</a>
+			</p>
+		        </div>
+			</div>								
+			</div>
+			<div class="ckc-search-mob-con">
+			<div class="ckc-search-item ckc-search-item10">
+			<div class="item">
+        		<p>
+<a href="https://asia.citi.com/india/InstantApplication/InstantAssistNewPhase/InstantAssist/CheckUserStatus/Index?eOfferCode=INHOCHKUSRSTATS" target="_blank" class="">Track Credit Card Application</a>
+			</p>
+			</div>
+			</div>
+			<div class="ckc-search-item ckc-search-item9">
+			<div class="item">
+			<p>
+<a href="/portal/dormancy-wau/index.htm?eOfferCode=INCITIDORWAU" target="_blank" class="doubleLine">Remove Dormancy/reactivate your account</a>
+			</p>
+			</div>
+			</div>								
+			</div>
+			</div>
+			</div>
+		        </div>
 
 <!-- SEARCH -->
- 
- 
- 
- <div class="chatbot_div" style="display:none;">
-        <div class="container-fluid">
-            <div class="wraper">
-               <div class="chat_header">
-                   <p style="text-transform:none" class="chat_title">
-                       <img src="images/img/Online.png" alt="Online">Citi Help Survey
-                   </p>
-				   <p class="chat_title openchat">Found what you’re looking for?</p>
-                   <img src="images/img/Close.png" alt="" class="close_btn">
-                  <div class='chat-min' style='float: right; display: none;'></div>
-                   <div class='chat-max' style='float: right;display:none'></div>
+                        <div class="chatbot_div" style="display:none;">
+                        <div class="container-fluid">
+                        <div class="wraper">
+                        <div class="chat_header">
+                        <p style="text-transform:none" class="chat_title">
+<img src="images/img/Online.png" alt="Online">Citi Help Survey
+                        </p>
+		        <p class="chat_title openchat">Found what you’re looking for?</p>
+<img src="images/img/Close.png" alt="" class="close_btn">
+                       <div class='chat-min' style='float: right; display: none;'></div>
+                       <div class='chat-max' style='float: right;display:none'></div>
 
-               </div>
-                <form id="userForm" name='feedbackform' class="dynform" enctype="multipart/form-data" autocomplete="off" action="#" method="post" onsubmit="return false;">
+                      </div>
+<form id="userForm" name='feedbackform' class="dynform" enctype="multipart/form-data" autocomplete="off" action="#" method="post" onsubmit="return false;">
                     <input type="hidden" id="otpReferenceNo" name="otpReferenceNo">
-                   <input type="hidden" id="formExternalId" value="3aee34be-5905-4f94-ac48-1adc72a9010b"><input type="hidden" id="formInternalId" value="a6dfe55e-d70e-4712-b9f2-af73e8c76296"><input type="hidden" id="enableIncompleteTracking" value="1">
+                    <input type="hidden" id="formExternalId" value="3aee34be-5905-4f94-ac48-1adc72a9010b"><input type="hidden" id="formInternalId" value="a6dfe55e-d70e-4712-b9f2-af73e8c76296"><input type="hidden" id="enableIncompleteTracking" value="1">
                     <ul class="sortable2 section1">
-                        <li class="chat_icon">
-                           <img class='active' src="images/img/chat-icon.png" alt="">
-                           <img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
-                       </li>
-                        <li class="qus_div">
-                           <div label="&amp;lt;p&amp;gt; Did you find this page helpful? &amp;lt;/p&amp;gt;" type="label" id="label-label-1587999224753" name="label-label-1587999224753" visibility="show">
-                                <div id="div-label-label-1587999224753">
-                                    <p> Did you find this page helpful? </p>
-                                </div>
-                                <script type="text/javascript">
+                    <li class="chat_icon">
+<img class='active' src="images/img/chat-icon.png" alt="">
+<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
+                    </li>
+                    <li class="qus_div">
+                      <div label="&amp;lt;p&amp;gt; Did you find this page helpful? &amp;lt;/p&amp;gt;" type="label" id="label-label-1587999224753" name="label-label-1587999224753" visibility="show">
+                      <div id="div-label-label-1587999224753">
+                      <p> Did you find this page helpful? </p>
+                      </div>
+                      <script type="text/javascript">
                                     $(function() {
                                         function htmlDecode(input) {
                                             var e = document.createElement('div');
@@ -3140,29 +3225,56 @@ jQuery(document).ready(function($){
                                         var decodeData = htmlDecode("&lt;p&gt; Did you find this page helpful? &lt;/p&gt;");
                                         $('#div-label--1587999224label753').html(decodeData);
                                     });
-                                </script>
-                            </div>
+                       </script>
+                       </div>
                          
-                        </li>
-                        <div class="rating_clss">
-                            <span class="radio">
-                               <input type="radio" class="radiobttn" id="Q2_satisfaction worst1" name="radioButton-radio-group-1587999550770" label="worst" value="worst" visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')" error="Please choose one option" oninvalid="setCustomValidity('Please choose one option')">
-                               <label class="label worst1" for="worst1"></label>
-                            </span>
-                            <span class="radio">
-                               <input type="radio" class="radiobttn" id="Q2_satisfaction bad1" name="radioButton-radio-group-1587999550770" label="bad" value="bad" visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')">
-                               <label class="label bad1" for="bad1"></label>
-                            </span>
-                            <span class="radio">
-                               <input type="radio" class="radiobttn" id="Q2_satisfaction neutral1" name="radioButton-radio-group-1587999550770" label="neutral" value="neutral" visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')">
-                               <label class="label neutral1" for="neutral1"></label>
-                            </span>
-                            <span class="radio">
-                               <input type="radio" class="radiobttn" id="Q2_satisfaction good1" name="radioButton-radio-group-1587999550770" label="good" value="good" visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')">
-                               <label class="label good1" for="good1"></label>
-                            </span>
-                             <span class="radio">
-                               <input type="radio" class="radiobttn" id="Q2_satisfaction best1" name="radioButton-radio-group-1587999550770" label="best" value="best" visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')">
+                       </li>
+                       <div class="rating_clss">
+                       <span class="radio">
+<input type="radio" 
+       class="radiobttn" 
+       id="Q2_satisfaction worst1" 
+       name="radioButton-radio-group-1587999550770"
+       label="worst" value="worst" visibility="show" 
+       onclick="customRadioBtnValidity('Q2_satisfaction')"
+       error="Please choose one option" 
+       oninvalid="setCustomValidity('Please choose one option')">
+                       <label class="label worst1" for="worst1"></label>
+                       </span>
+                       <span class="radio">
+<input type="radio" 
+       class="radiobttn"
+       id="Q2_satisfaction bad1" 
+       name="radioButton-radio-group-1587999550770"
+       label="bad" value="bad" visibility="show" 
+       onclick="customRadioBtnValidity('Q2_satisfaction')">
+                       <label class="label bad1" for="bad1"></label>
+                       </span>
+                       <span class="radio">
+<input type="radio" 
+       class="radiobttn"
+       id="Q2_satisfaction neutral1"
+       name="radioButton-radio-group-1587999550770"
+       label="neutral" value="neutral" visibility="show"
+       onclick="customRadioBtnValidity('Q2_satisfaction')">
+                        <label class="label neutral1" for="neutral1"></label>
+                        </span>
+                        <span class="radio">
+<input type="radio"
+       class="radiobttn"
+       id="Q2_satisfaction good1"
+       name="radioButton-radio-group-1587999550770"
+       label="good" value="good" visibility="show"
+       onclick="customRadioBtnValidity('Q2_satisfaction')">
+                         <label class="label good1" for="good1"></label>
+                         </span>
+                         <span class="radio">
+<input type="radio" 
+       class="radiobttn" 
+       id="Q2_satisfaction best1" 
+       name="radioButton-radio-group-1587999550770"
+       label="best" value="best" visibility="show"
+       onclick="customRadioBtnValidity('Q2_satisfaction')">
                     <label class="label best1" for="best1"></label>
                     </span>
                     </div>
@@ -3183,7 +3295,7 @@ jQuery(document).ready(function($){
  How satisfied are you with Citi Help? (1 - lowest and 5 - highest)&amp;lt;/p&amp;gt;"
  type="label" id="label-label-1568195004975" name="label-label-1568195004975" visibility="show">
                                 <div id="div-label-label-1568195004975">
-                                    <p>Glad to Know that. How satisfied are you with Citi Help? (1 - lowest and 5 - highest)</p>
+                                <p>Glad to Know that. How satisfied are you with Citi Help? (1 - lowest and 5 - highest)</p>
                                 </div>
                                 <script type="text/javascript">
                                     $(function() {
@@ -3270,16 +3382,16 @@ jQuery(document).ready(function($){
                   
                     <div class="clear"></div>
                     <ul class="sortable2 section4">
-                        <li>
-                           <div class="chat_icon">
-                               <img class='active' src="images/img/chat-icon.png" alt="">
-                           <img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
-                           </div>
-                            <div class="qus_div" label="&amp;lt;p&amp;gt;Did it save you from contacting us by telephone, email or visiting our branch?&amp;lt;/p&amp;gt;" type="label" id="label-label-1588000057931" name="label-label-1588000057931" visibility="show">
-                                <div id="div-label-label-1588000057931">
-                                    <p>Did it save you from contacting us by telephone, email or visiting our branch?</p>
-                                </div>
-                                <script type="text/javascript">
+                    <li>
+                    <div class="chat_icon">
+                    <img class='active' src="images/img/chat-icon.png" alt="">
+                    <img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
+                    </div>
+                    <div class="qus_div" label="&amp;lt;p&amp;gt;Did it save you from contacting us by telephone, email or visiting our branch?&amp;lt;/p&amp;gt;" type="label" id="label-label-1588000057931" name="label-label-1588000057931" visibility="show">
+                     <div id="div-label-label-1588000057931">
+                     <p>Did it save you from contacting us by telephone, email or visiting our branch?</p>
+                     </div>
+                     <script type="text/javascript">
                                     $(function() {
                                         function htmlDecode(input) {
                                             var e = document.createElement('div');
@@ -3290,37 +3402,54 @@ jQuery(document).ready(function($){
                                         $('#div-label-label-1588000057931').html(decodeData);
                                     });
                                 </script>
-                                 <div class="check_radio">
-                                    <label>
-                                        <input type="radio" class="radiobttn" id="Q1" name="radioButton-radio-group-1588000155701" label="Yes" value="Yes" visibility="show" onclick="customRadioBtnValidity('Q1')" error="Please choose one option" oninvalid="setCustomValidity('Please choose one option')">
-                                        <span class="labllft radioButnBox yes-btn">Yes</span>
-                                        <span></span>
-                                    </label>
-                                    <label>
-                                        <input type="radio" class="radiobttn" id="Q1" name="radioButton-radio-group-1588000155701" label="No" value="No" visibility="show" onclick="customRadioBtnValidity('Q1')">
-                                        <span class="labllft no-btn radioButnBox">No</span>
-                                        <span></span>
-                                    </label>
+                                <div class="check_radio">
+                                <label>
+<input type="radio" 
+       class="radiobttn"
+       id="Q1" 
+       name="radioButton-radio-group-1588000155701" 
+       label="Yes" value="Yes" visibility="show"
+       onclick="customRadioBtnValidity('Q1')" 
+       error="Please choose one option" 
+       oninvalid="setCustomValidity('Please choose one option')">
+                                <span class="labllft radioButnBox yes-btn">Yes</span>
+                                <span></span>
+                                </label>
+                                <label>
+ <input type="radio"
+	class="radiobttn"
+	id="Q1"
+	name="radioButton-radio-group-1588000155701" 
+	label="No" value="No" visibility="show" 
+	onclick="customRadioBtnValidity('Q1')">
+                                <span class="labllft no-btn radioButnBox">No</span>
+                                <span></span>
+                                </label>
                                 </div>
-                            </div>
+                                </div>
                            
-                        </li>
-                        <li>
+                                </li>
+                                <li>
                            
-                        </li>
-                    </ul>
-                    <div class="clear"></div>
+                                </li>
+                                </ul>
+                                <div class="clear"></div>
                     
-                    <div class="clear"></div>
-                    <ul class="sortable2 section5">
-                        <li>
-                           <div class="chat_icon">
-                               <img class='active' src="images/img/chat-icon.png" alt="">
-								<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
-                           </div>
-                            <div class="qus_div" label="&amp;lt;p&amp;gt;Why didn't you find it helpful?&amp;lt;/p&amp;gt;" type="label" id="label-label-1588074906313" name="label-label-1588074906313" visibility="show">
+                                <div class="clear"></div>
+                                <ul class="sortable2 section5">
+                                <li>
+                                <div class="chat_icon">
+                                <img class='active' src="images/img/chat-icon.png" alt="">
+<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
+                                </div>
+                                <div class="qus_div"
+				     label="&amp;lt;p&amp;gt;Why didn't you find it helpful?&amp;lt;/p&amp;gt;"
+				     type="label"
+				     id="label-label-1588074906313"
+				     name="label-label-1588074906313"
+				     visibility="show">
                                 <div id="div-label-label-1588074906313">
-                                    <p>Why didn't you find it helpful?</p>
+                                <p>Why didn't you find it helpful?</p>
                                 </div>
                                 <script type="text/javascript">
                                     $(function() {
@@ -3332,35 +3461,65 @@ jQuery(document).ready(function($){
                                         var decodeData = htmlDecode("&lt;p&gt;Why didn't you find it helpful?&lt;/p&gt;");
                                         $('#div-label-label-1588074906313').html(decodeData);
                                     });
-                                </script>
-                            </div>
-                        </li>
-                        <li>
-                             <div class="blk_div">
+                              </script>
+                              </div>
+                              </li>
+                              <li>
+                              <div class="blk_div">
                               <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn" id="Q2_3_improve" name="radioButton-radio-group-1588074433611" label="I wanted to speak to an officer for my needs" value="I wanted to speak to an officer for my needs" visibility="show" onclick="customRadioBtnValidity('Q2_3_improve')" error="Please choose one option" oninvalid="setCustomValidity('Please choose one option')"><span>I wanted to speak to an officer for my needs</span></label>
-                               </span>
+                              <label><input type="radio" 
+			       class="radiobttn" 
+			       id="Q2_3_improve" 
+			       name="radioButton-radio-group-1588074433611" 
+			       label="I wanted to speak to an officer for my needs" 
+			       value="I wanted to speak to an officer for my needs" 
+			       visibility="show"
+			       onclick="customRadioBtnValidity('Q2_3_improve')"
+			       error="Please choose one option" 
+			       oninvalid="setCustomValidity('Please choose one option')"><span>I wanted to speak to an officer for my needs</span></label>
+                              </span>
                               <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn" id="Q2_3_improve" name="radioButton-radio-group-1588074433611" label="The answer didn't provide enough information" value="The answer did not provide enough information" visibility="show" onclick="customRadioBtnValidity('Q2_3_improve')"><span>The answer didn't provide enough information</span></label>
+                              <label><input type="radio"
+					    class="radiobttn" 
+					    id="Q2_3_improve" 
+					    name="radioButton-radio-group-1588074433611" 
+					    label="The answer didn't provide enough information" 
+					    value="The answer did not provide enough information" 
+					    visibility="show" 
+					    onclick="customRadioBtnValidity('Q2_3_improve')"><span>The answer didn't provide enough information</span></label>
                                </span>
                                <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn" id="Q2_3_improve" name="radioButton-radio-group-1588074433611" label="My problem remains unresolved" value="My problem remains unresolved" visibility="show" onclick="customRadioBtnValidity('Q2_3_improve')"><span>My problem remains unresolved</span></label>
+                               <label><input type="radio"
+					     class="radiobttn"
+					     id="Q2_3_improve"
+					     name="radioButton-radio-group-1588074433611"
+					     label="My problem remains unresolved"
+					     value="My problem remains unresolved" 
+					     visibility="show"
+					     onclick="customRadioBtnValidity('Q2_3_improve')"><span>My problem remains unresolved</span></label>
                                </span>
                                <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn" id="Q2_3_improve" name="radioButton-radio-group-1588074433611" label="Please specify" value="Please specify" visibility="show" onclick="customRadioBtnValidity('Q2_3_improve')"><span>Please specify</span></label>
-                               </span>
-                            </div> 
+                               <label><input type="radio"
+					     class="radiobttn" 
+					     id="Q2_3_improve"
+					     name="radioButton-radio-group-1588074433611" 
+					     label="Please specify" 
+					     value="Please specify"
+					     visibility="show" 
+					     onclick="customRadioBtnValidity('Q2_3_improve')"><span>Please specify</span></label>
+                              </span>
+                              </div> 
  
-                        </li>
-                    </ul>
+                              </li>
+                              </ul>
                    
                     <div class="clear"></div>
-                    <ul class="sortable1 textbox1">
-                        <li>
-                            <div>
-                                <div id="div-label-label-1588076625144">
-                                    <p class="submit-specify">Please specify</p>
-                                </div>
+                              <ul class="sortable1 textbox1">
+                              <li>
+                    <div>
+                    <div id="div-label-label-1588076625144">
+                              <p class="submit-specify">Please specify</p>
+                    </div>
                                 <!-- <script type="text/javascript">
                                     $(function() {
                                         function htmlDecode(input) {
@@ -3372,23 +3531,36 @@ jQuery(document).ready(function($){
                                         $('#div-textField-text-1568195597503').html(decodeData);
                                     });
                                 </script> -->
-                                <input class="txtfield" position="above" id="Q4d" pattern="^(?!\s*$)[a-zA-Z0-9\s]{1,100}$" name="textField-text-1588076631551" type="text" maxlength="100"  visibility="show" error="Please specify the reason" title="Please specify the reason" oninvalid="setCustomValidity('Please specify the reason')" onchange="setCustomValidity('')">
-                            </div>
-                        </li>
-                    </ul>
+                              <input class="txtfield"
+				     position="above" 
+				     id="Q4d" 
+				     pattern="^(?!\s*$)[a-zA-Z0-9\s]{1,100}$" 
+				     name="textField-text-1588076631551" 
+				     type="text"
+				     maxlength="100" 
+				     visibility="show" 
+				     error="Please specify the reason"
+				     title="Please specify the reason"
+				     oninvalid="setCustomValidity('Please specify the reason')"
+				     onchange="setCustomValidity('')">
+                             </div>
+                             </li>
+                             </ul>
                    
-                    <div class="clear"></div>
-                    <ul class="sortable2 section6">
-                        <li>
-                           <div class="chat_icon">
-                               <img class='active' src="images/img/chat-icon.png" alt="">
-								<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
-                           </div>
-                            <div class="qus_div" label="&amp;lt;p&amp;gt;Please tell us why it didn't save you a call, email or branch visit?&amp;lt;/p&amp;gt;" type="label" id="label-label-1588071600618" name="label-label-1588071600618" visibility="show">
-                                <div id="div-label-label-1588071600618">
-                                    <p>Please tell us why it didn't save you a call, email or branch visit?</p>
-                                </div>
-                                <script type="text/javascript">
+                             <div class="clear"></div>
+                             <ul class="sortable2 section6">
+                             <li>
+                             <div class="chat_icon">
+<img class='active' src="images/img/chat-icon.png" alt="">
+<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
+                            </div>
+                            <div class="qus_div" 
+				 label="&amp;lt;p&amp;gt;Please tell us why it didn't save you a call, email or branch visit?&amp;lt;/p&amp;gt;" 
+				 type="label" id="label-label-1588071600618" name="label-label-1588071600618" visibility="show">
+                            <div id="div-label-label-1588071600618">
+                            <p>Please tell us why it didn't save you a call, email or branch visit?</p>
+                            </div>
+                            <script type="text/javascript">
                                     $(function() {
                                         function htmlDecode(input) {
                                             var e = document.createElement('div');
@@ -3398,35 +3570,64 @@ jQuery(document).ready(function($){
                                         var decodeData = htmlDecode("&lt;p&gt;Please tell us why it didn't save you a call, email or branch visit?&lt;/p&gt;");
                                         $('#div-label-label-1588071600618').html(decodeData);
                                     });
-                                </script>
+                            </script>
                             </div>
-                        </li>
-                        <li>
+                            </li>
+                            <li>
                             <div class="blk_div chat-ans">
-                                <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn" id="Q4_issuefaced" name="radioButton-radio-group-1588071687143" label="I wanted to speak to an officer for my needs" value="I wanted to speak to an officer for my needs" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')" error="Please choose one option" oninvalid="setCustomValidity('Please choose one option')"><span>I wanted to speak to an officer for my needs</span></label>
-                               </span>
-                                <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn" id="Q4_issuefaced" name="radioButton-radio-group-1588071687143" label="The answer didn't provide enough information" value="The answer did not provide enough information" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>The answer didn't provide enough information</span></label>
-                               </span>
-                               <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn" id="Q4_issuefaced" name="radioButton-radio-group-1588071687143" label="My problem remains unresolved" value="My problem remains unresolved" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>My problem remains unresolved</span></label>
-                               </span>
-                               <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn" id="Q4_issuefaced" name="radioButton-radio-group-1588071687143" label="Please specify" value="Please specify" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Please specify</span></label>
+                            <span class='chat-radio'>
+                            <label><input type="radio" 
+					  class="radiobttn" 
+					  id="Q4_issuefaced"
+					  name="radioButton-radio-group-1588071687143"
+					  label="I wanted to speak to an officer for my needs"
+					  value="I wanted to speak to an officer for my needs"
+					  visibility="show" 
+					  onclick="customRadioBtnValidity('Q4_issuefaced')"
+					  error="Please choose one option"
+					  oninvalid="setCustomValidity('Please choose one option')"><span>I wanted to speak to an officer for my needs</span></label>
+                             </span>
+                             <span class='chat-radio'>
+                             <label><input type="radio" 
+					   class="radiobttn" 
+					   id="Q4_issuefaced"
+					   name="radioButton-radio-group-1588071687143" 
+					   label="The answer didn't provide enough information"
+					   value="The answer did not provide enough information"
+					   visibility="show" 
+					   onclick="customRadioBtnValidity('Q4_issuefaced')"><span>The answer didn't provide enough information</span></label>
+                             </span>
+                             <span class='chat-radio'>
+                             <label><input type="radio"
+					   class="radiobttn"
+					   id="Q4_issuefaced"
+					   name="radioButton-radio-group-1588071687143"
+					   label="My problem remains unresolved"
+					   value="My problem remains unresolved"
+					   visibility="show" 
+					   onclick="customRadioBtnValidity('Q4_issuefaced')"><span>My problem remains unresolved</span></label>
+                             </span>
+                             <span class='chat-radio'>
+                             <label><input type="radio"
+					   class="radiobttn"
+					   id="Q4_issuefaced"
+					   name="radioButton-radio-group-1588071687143"
+					   label="Please specify" value="Please specify"
+					   visibility="show"
+					   onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Please specify</span></label>
                                   
-                               </span>
+                             </span>
                                 
-                            </div>
-                        </li>
-                    </ul>
-                    <div class="clear"></div>
-                    <ul class="sortable1 textbox3">
-                        <li>
-                            <div>
-                                <div id="div-textField-text-1588073041293">
-                                    <p class="submit-specify">Please specify</p>
-                                </div>
+                             </div>
+                             </li>
+                             </ul>
+                             <div class="clear"></div>
+                             <ul class="sortable1 textbox3">
+                             <li>
+                             <div>
+                             <div id="div-textField-text-1588073041293">
+                             <p class="submit-specify">Please specify</p>
+                             </div>
                                 <!-- <script type="text/javascript">
                                     $(function() {
                                         function htmlDecode(input) {
@@ -3437,27 +3638,44 @@ jQuery(document).ready(function($){
                                         var decodeData = htmlDecode("&lt;p&gt;Please mention&lt;/p&gt;");
                                         $('#div-textField-text-1568196914400').html(decodeData);
                                     }); -->
-                                </script><input class="txtfield" position="above" id="Q3abc_others" pattern="^(?!\s*$)[a-zA-Z0-9\s]{1,100}$" name="textField-text-1588073041293" type="text" maxlength="100"  visibility="show" error="Please specify the reason" title="Please specify the reason" oninvalid="setCustomValidity('Please specify the reason')" onchange="setCustomValidity('')">
-                            </div>
-                        </li>
-                    </ul>   
+                            </script><input 
+					    class="txtfield"
+					    position="above" 
+					    id="Q3abc_others" 
+					    pattern="^(?!\s*$)[a-zA-Z0-9\s]{1,100}$"
+					    name="textField-text-1588073041293" 
+					    type="text"
+					    maxlength="100"  
+					    visibility="show" 
+					    error="Please specify the reason" 
+					    title="Please specify the reason"
+					    oninvalid="setCustomValidity('Please specify the reason')" 
+					    onchange="setCustomValidity('')">
+                           </div>
+                           </li>
+                           </ul>   
                   
                   
                     
-                    <div class="clear"></div>
+                          <div class="clear"></div>
                  
 					
-                      <ul class="sortable2 section7"> 
-                        <li>
-                           <div class="chat_icon">
-                               <img class='active' src="images/img/chat-icon.png" alt="">
-								<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
-                           </div>
-                            <div class="qus_div" label="&amp;lt;p&amp;gt;Some top queries users searched for on Citi Help are below&amp;lt;/p&amp;gt;" type="label" id="label-label-1588071818654" name="label-label-1588071818654" visibility="show">
-                                <div id="div-label-label-1588071818654">
-                                    <p>Some top queries users searched for on Citi Help are below</p>
-                                </div>
-                                <script type="text/javascript">
+                          <ul class="sortable2 section7"> 
+                          <li>
+                          <div class="chat_icon">
+<img class='active' src="images/img/chat-icon.png" alt="">
+<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
+                          </div>
+                          <div class="qus_div" 
+			       label="&amp;lt;p&amp;gt;Some top queries users searched for on Citi Help are below&amp;lt;/p&amp;gt;"
+			       type="label"
+			       id="label-label-1588071818654"
+			       name="label-label-1588071818654" 
+			       visibility="show">
+                          <div id="div-label-label-1588071818654">
+                          <p>Some top queries users searched for on Citi Help are below</p>
+                          </div>
+                          <script type="text/javascript">
                                     $(function() {
                                         function htmlDecode(input) {
                                             var e = document.createElement('div');
@@ -3467,50 +3685,123 @@ jQuery(document).ready(function($){
                                         var decodeData = htmlDecode("&lt;p&gt;Some top queries users searched for on Citi Help are below&lt;/p&gt;");
                                         $('#div-label-label-1588071818654').html(decodeData);
                                     });
-                                </script>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="blk_div chat-ans">
-                                <span class='chat-radio'>
-                            <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588071883163" label="FAQs on Moratorium" value='FAQs on Moratorium' data-url="https://www.online.citibank.co.in/citihelp/COVID-19/Moratorium-FAQs.htm?eOfferCode=INHelpfb"  visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')" error="Please choose one option" oninvalid="setCustomValidity('Please choose one option')"><span>FAQs on Moratorium</span></label>
-                            </span>
-                                <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588071883163" label="Creating User ID and Password" value='Creating User ID and Password' data-url="https://www.citibank.co.in/ssjsps/ssindexmidssi.jsp?eOfferCode=INHelpfb"  visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Creating User ID and Password</span></label>
-                               </span>
-                               <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588071883163" label="Digital banking - banking safely from home" value='Digital banking - banking safely from home' data-url="https://www.online.citibank.co.in/citihelp/topics/stay-safe-bank-from-home/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>	Digital banking - banking safely from home </span></label>
-                               </span>
-                               <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588071883163" label="Change your address" value='Change your address' data-url="https://www.online.citibank.co.in/portal/blogs/change-address/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Change your address</span></label>
-                               </span>
-                               <span class='chat-radio'>
-                                <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588071883163" label="Redeeming Credit Card Rewards points" value='Redeeming Credit Card Rewards points' data-url="https://www.online.citibank.co.in/portal/blogs/credit-card-rewards/credit-card-rewards-blog.htm?source=CHS&eOfferCode=INHelpfb"  visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Redeeming Credit Card Rewards points</span></label>
-                            </span>
-                            <span class='chat-radio'>
-                                <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588071883163" label="Paying your Utility Bills" value='Paying your Utility Bills' data-url="https://www.online.citibank.co.in/portal/blogs/Utility-Bill-Payments/index.htm?eOfferCode=INHelpfb"  visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Paying your Utility Bills</span></label>
-                            </span>
-                            <span class='chat-radio'>
-                                <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588071883163" label="Credit Card application status" value='Credit Card application status' data-url="https://www.online.citibank.co.in/citihelp/topics/credit-card/track-application/index.htm?eOfferCode=INHelpfb"  visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Credit Card application status</span></label>
-                            </span>
-                            <span class='chat-radio'>
-                                <label><input type="radio" class="radiobttn btnlink" id="Q4_issuefaced" name="radioButton-radio-group-1588071883163" label="Disputing card transaction" value='Disputing card transaction' data-url="https://www.online.citibank.co.in/portal/DT/DTBlog/index.htm?eOfferCode=InHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Disputing card transaction</span></label>
-                            </span>
-                            <span class='chat-radio'>
-                                <label><input type="radio" class="radiobttn" id="Q4_issuefaced" name="radioButton-radio-group-1588071883163" label="These didn't answer my question" value="These did not answer my question" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my question</span></label>
-                            </span>
+                          </script>
+                          </div>
+                          </li>
+                          <li>
+                          <div class="blk_div chat-ans">
+                          <span class='chat-radio'>
+                            <label><input type="radio" 
+					  class="radiobttn btnlink"
+					  id="Q4_issuefaced"
+					  name="radioButton-radio-group-1588071883163" 
+					  label="FAQs on Moratorium" 
+					  value='FAQs on Moratorium'
+					  data-url="https://www.online.citibank.co.in/citihelp/COVID-19/Moratorium-FAQs.htm?eOfferCode=INHelpfb" 
+					  visibility="show" 
+					  onclick="customRadioBtnValidity('Q4_issuefaced')" 
+					  error="Please choose one option" 
+					  oninvalid="setCustomValidity('Please choose one option')"><span>FAQs on Moratorium</span></label>
+                         </span>
+                         <span class='chat-radio'>
+                         <label><input type="radio"
+				       class="radiobttn btnlink"
+				       id="Q4_issuefaced" 
+				       name="radioButton-radio-group-1588071883163" 
+				       label="Creating User ID and Password"
+				       value='Creating User ID and Password' 
+				       data-url="https://www.citibank.co.in/ssjsps/ssindexmidssi.jsp?eOfferCode=INHelpfb" 
+				       visibility="show" 
+				       onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Creating User ID and Password</span></label>
+                         </span>
+                         <span class='chat-radio'>
+                         <label><input type="radio" 
+				       class="radiobttn btnlink"
+				       id="Q4_issuefaced" 
+				       name="radioButton-radio-group-1588071883163"
+				       label="Digital banking - banking safely from home"
+				       value='Digital banking - banking safely from home'
+				       data-url="https://www.online.citibank.co.in/citihelp/topics/stay-safe-bank-from-home/index.htm?eOfferCode=INHelpfb"
+				       visibility="show"
+				       onclick="customRadioBtnValidity('Q4_issuefaced')"><span>	Digital banking - banking safely from home </span></label>
+                        </span>
+                        <span class='chat-radio'>
+                        <label><input type="radio"
+				      class="radiobttn btnlink" 
+				      id="Q4_issuefaced" 
+				      name="radioButton-radio-group-1588071883163"
+				      label="Change your address"
+				      value='Change your address'
+				      data-url="https://www.online.citibank.co.in/portal/blogs/change-address/index.htm?eOfferCode=INHelpfb" 
+				      visibility="show" 
+				      onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Change your address</span></label>
+                       </span>
+                       <span class='chat-radio'>
+                       <label><input type="radio"
+				     class="radiobttn btnlink" 
+				     id="Q4_issuefaced"
+				     name="radioButton-radio-group-1588071883163" 
+				     label="Redeeming Credit Card Rewards points"
+				     value='Redeeming Credit Card Rewards points'
+				     data-url="https://www.online.citibank.co.in/portal/blogs/credit-card-rewards/credit-card-rewards-blog.htm?source=CHS&eOfferCode=INHelpfb"  
+				     visibility="show"
+				     onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Redeeming Credit Card Rewards points</span></label>
+                     </span>
+                     <span class='chat-radio'>
+                     <label><input type="radio"
+				   class="radiobttn btnlink"
+				   id="Q4_issuefaced"
+				   name="radioButton-radio-group-1588071883163"
+				   label="Paying your Utility Bills" 
+				   value='Paying your Utility Bills'
+				   data-url="https://www.online.citibank.co.in/portal/blogs/Utility-Bill-Payments/index.htm?eOfferCode=INHelpfb"  
+				   visibility="show"
+				   onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Paying your Utility Bills</span></label>
+                     </span>
+                     <span class='chat-radio'>
+                     <label><input type="radio"
+				   class="radiobttn btnlink"
+				   id="Q4_issuefaced" 
+				   name="radioButton-radio-group-1588071883163"
+				   label="Credit Card application status" 
+				   value='Credit Card application status' 
+				   data-url="https://www.online.citibank.co.in/citihelp/topics/credit-card/track-application/index.htm?eOfferCode=INHelpfb" 
+				   visibility="show"
+				   onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Credit Card application status</span></label>
+                     </span>
+                     <span class='chat-radio'>
+                     <label><input type="radio" 
+				   class="radiobttn btnlink"
+				   id="Q4_issuefaced"
+				   name="radioButton-radio-group-1588071883163"
+				   label="Disputing card transaction" 
+				   value='Disputing card transaction' 
+				   data-url="https://www.online.citibank.co.in/portal/DT/DTBlog/index.htm?eOfferCode=InHelpfb"
+				   visibility="show"
+				   onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Disputing card transaction</span></label>
+                     </span>
+                     <span class='chat-radio'>
+                     <label><input type="radio"
+				   class="radiobttn"
+				   id="Q4_issuefaced" 
+				   name="radioButton-radio-group-1588071883163"
+				   label="These didn't answer my question" 
+				   value="These did not answer my question"
+				   visibility="show" 
+				   onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my question</span></label>
+                     </span>
                                 
-                            </div>
-                        </li>
-                    </ul> 
+                     </div>
+                     </li>
+                     </ul> 
 				
-                    <div class="clear"></div>
+                     <div class="clear"></div>
                      <ul class="sortable1 textbox4">
-                        <li>
-                            <div>
-                                <div id="div-label-label-1588076350025">
-                                    <p class="submit-specify">Please mention</p>
-                                </div>
+                     <li>
+                     <div>
+                     <div id="div-label-label-1588076350025">
+                     <p class="submit-specify">Please mention</p>
+                     </div>
                                 <!-- <script type="text/javascript">
                                     $(function() {
                                         function htmlDecode(input) {
@@ -3522,31 +3813,53 @@ jQuery(document).ready(function($){
                                         $('#div-label-label-1588072966000').html(decodeData);
                                     });
                                 </script> -->
-								<input class="txtfield" position="above" id="Q4abc_others" pattern="^(?!\s*$)[a-zA-Z0-9\s]{1,100}$" name="textField-text-1588076400887" type="text" maxlength="100"  visibility="show" error="Please specify the reason" title="Please specify the reason" oninvalid="setCustomValidity('Please specify the reason')" onchange="setCustomValidity('')">
+<input class="txtfield"
+       position="above"
+       id="Q4abc_others"
+       pattern="^(?!\s*$)[a-zA-Z0-9\s]{1,100}$"
+       name="textField-text-1588076400887"
+       type="text"
+       maxlength="100" 
+       visibility="show"
+       error="Please specify the reason" 
+       title="Please specify the reason"
+       oninvalid="setCustomValidity('Please specify the reason')" 
+       onchange="setCustomValidity('')">
                             </div>
-                        </li>
-                    </ul> 
-                   
-				<ul class="sortable2 section8">
-                        <li>
-                           <div class="chat_icon">
-                               <img class='active' src="images/img/chat-icon.png" alt="">
-								<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
-                           </div>
+                            </li>
+                            </ul> 
+		            <ul class="sortable2 section8">
+                            <li>
+                            <div class="chat_icon">
+                            <img class='active' src="images/img/chat-icon.png" alt="">
+			    <img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
+                            </div>
                             <div class="qus_div">
-                                <p>Thank you for using Citi Help!</p>
+                            <p>Thank you for using Citi Help!</p>
                             </div>
-                        </li>
-                        <li>
-                           
-							
-							<div class="blk_div chat-ans">
-                             
-								<ul style='display: table;'>
-									<li style='display: table-row;'><a class='pointer exit-cta' style='display: table-cell; padding-right: 5px;'  href='https://www.online.citibank.co.in' title='Home Page' ><img  src='citihelp/img/exit.png'></a>
-									<span style='display: table-cell;vertical-align: middle; padding-bottom:0px'><a class='pointer exit-cta' href='https://www.online.citibank.co.in' title='Home Page'>Citi Homepage</a></span></li>
-									
-									<li style='display: table-row; '><a  style='display: table-cell;padding-right: 5px;'href='https://www.online.citibank.co.in/portal/cards/MGM/MGM-Referal-Exist.html?site=PORTAL&creative=NGX&section=INHOMTT&agencyCode=XER&campaignCode=&productCode=&eOfferCode=CITIHELPSURV' title='Refer and earn upto Rs.9999'><img  src='citihelp/img/people.png'></a><span style='display: table-cell;vertical-align: middle;padding-bottom:0px'><a href='https://www.online.citibank.co.in/portal/cards/MGM/MGM-Referal-Exist.html?site=PORTAL&creative=NGX&section=INHOMTT&agencyCode=XER&campaignCode=&productCode=&eOfferCode=CITIHELPSURV' title='Refer and earn upto Rs.9999'>Refer and earn upto Rs.9999</a></span></li>
+                            </li>
+                            <li>                           							
+			    <div class="blk_div chat-ans">                            
+			    <ul style='display: table;'>
+			    <li style='display: table-row;'>
+			    <a class='pointer exit-cta'
+			       style='display: table-cell; padding-right: 5px;' 
+			       href='https://www.online.citibank.co.in'
+			       title='Home Page' ><img  
+			       src='citihelp/img/exit.png'></a>
+			    <span style='display: table-cell;vertical-align: middle; padding-bottom:0px'>
+			    <a class='pointer exit-cta'
+			       href='https://www.online.citibank.co.in' 
+			       title='Home Page'>Citi Homepage</a>
+		            </span></li>
+			    <li style='display: table-row; '>
+			    <a  style='display: table-cell;padding-right: 5px;'
+			       href='https://www.online.citibank.co.in/portal/cards/MGM/MGM-Referal-Exist.html?site=PORTAL&creative=NGX&section=INHOMTT&agencyCode=XER&campaignCode=&productCode=&eOfferCode=CITIHELPSURV' 
+			       title='Refer and earn upto Rs.9999'>
+		        <img  src='citihelp/img/people.png'></a>
+		        <span style='display: table-cell;vertical-align: middle;padding-bottom:0px'>
+		        <a href='https://www.online.citibank.co.in/portal/cards/MGM/MGM-Referal-Exist.html?site=PORTAL&creative=NGX&section=INHOMTT&agencyCode=XER&campaignCode=&productCode=&eOfferCode=CITIHELPSURV'
+			       title='Refer and earn upto Rs.9999'>Refer and earn upto Rs.9999</a></span></li>
 			</ul>
 			</div>
                         </li>
@@ -3555,11 +3868,17 @@ jQuery(document).ready(function($){
                         <ul class="sortable2 section9 scrollto"> 
                         <li>
                         <div class="chat_icon">
-<img class='active' src="images/img/chat-icon.png" alt="">
-<img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
+<img class='active'
+     src="images/img/chat-icon.png" alt="">
+<img class='deactive' 
+     src="images/img/deactive-chat.png" alt=""
+     style='display: none;'>
                          </div>
                          <div class="qus_div" 
-label="&amp;lt;p&amp;gt;Some top queries users searched for on Citi Help are below&amp;lt;/p&amp;gt;" type="label" id="label-label-1588075182103" name="label-label-1588075182103" visibility="show">
+label="&amp;lt;p&amp;gt;Some top queries users searched for on Citi Help are below&amp;lt;/p&amp;gt;"
+type="label" id="label-label-1588075182103" 
+name="label-label-1588075182103" 
+visibility="show">
                           <div id="div-label-label-1588075182103">
                           <p>Some top queries users searched for on Citi Help are below</p>
                           </div>
