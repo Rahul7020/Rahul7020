@@ -2,36 +2,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="google-site-verification" content="pVGqMi9FF8UOAOBNNXjFD0nXFw1c-nX6UGPTDdPLGWY" />
-<meta name="google-site-verification" content="CqBHHDswDxxlLhi4wg_h0H5uMGrhy9exirIlPVcd-1o" />
+<meta name="google-site-verification" 
+      content="pVGqMi9FF8UOAOBNNXjFD0nXFw1c-nX6UGPTDdPLGWY" />
+<meta name="google-site-verification" 
+      content="CqBHHDswDxxlLhi4wg_h0H5uMGrhy9exirIlPVcd-1o" />
 <title>Citi India - Credit Cards, Personal & Home Loans, Investment, Wealth Management & Banking</title>
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="Description" content="Citibank India offers a wide range of Credit Cards, Banking, Wealth Management & Investment services. Our Loans, Insurance, Corporate & NRI Banking options will help you fulfill all your personal banking needs!"
+<meta http-equiv="X-UA-Compatible" 
+      content="IE=edge">
+<meta name="Description" 
+      content="Citibank India offers a wide range of Credit Cards, Banking, Wealth Management & Investment services. Our Loans, Insurance, Corporate & NRI Banking options will help you fulfill all your personal banking needs!"
 />
-<meta name="Keywords" content="credit card, banking, wealth management, personal loan, home loan, investment, insurance, salary account, business banking, corporate banking, nri banking"/>
+<meta name="Keywords"
+      content="credit card, banking, wealth management, personal loan, home loan, investment, insurance, salary account, business banking, corporate banking, nri banking"/>
 <meta content="credit cards india, online banking, Citibank india, nri services, wealth management services, investments, insurance"
 name="keyphrase" />
-<meta http-equiv='Pragma' content='no-cache' />
-<meta http-equiv='content-Control' content='no-cache' />
-<meta http-equiv='Cache-Control' content='no-cache' />
-<meta http-equiv='Expires' content='0' />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="content-language" content="en" />
-<meta name="author" content="Citibank India" />
-<meta name="revisit-after" content="15 days" />
-<meta name="distribution" content="global" />
-<meta name="rating" content="general" />
-<meta name="robots" content="index, follow" />
-<meta name="format-detection" content="telephone=no" />
-<meta name="viewport" content="width=device-width,initial-scale=0.0,minimum-scale=1.0,maximum-scale=0.0" />
-<link rel="canonical" href="https://www.online.citibank.co.in/">
-<link rel="shortcut icon" href="/images/favicon.ico" />
-<link rel="manifest" href="/manifest.json">
-<link rel="stylesheet" href="/css/search.css" type="text/css"/>
-<link rel="stylesheet" href="/css/ckcsearch.css" type="text/css"/>
-<link href="/css/home-chatbot1.css" rel="stylesheet">   
-<link rel="stylesheet" href="/css/appclusive.css">  
-<script type="text/javascript" src="/js/global.js"></script>
+<meta http-equiv='Pragma'
+      content='no-cache' />
+<meta http-equiv='content-Control'
+      content='no-cache' />
+<meta http-equiv='Cache-Control'
+      content='no-cache' />
+<meta http-equiv='Expires' 
+      content='0' />
+<meta http-equiv="Content-Type" 
+      content="text/html; charset=utf-8" />
+<meta http-equiv="content-language"
+      content="en" />
+<meta name="author"
+      content="Citibank India" />
+<meta name="revisit-after"
+      content="15 days" />
+<meta name="distribution"
+      content="global" />
+<meta name="rating"
+      content="general" />
+<meta name="robots"
+      content="index, follow" />
+<meta name="format-detection" 
+      content="telephone=no" />
+<meta name="viewport" 
+      content="width=device-width,initial-scale=0.0,minimum-scale=1.0,maximum-scale=0.0" />
+<link rel="canonical"
+      href="https://www.online.citibank.co.in/">
+<link rel="shortcut icon" 
+      href="/images/favicon.ico" />
+<link rel="manifest"
+      href="/manifest.json">
+<link rel="stylesheet"
+      href="/css/search.css"
+      type="text/css"/>
+<link rel="stylesheet"
+      href="/css/ckcsearch.css"
+      type="text/css"/>
+<link href="/css/home-chatbot1.css"
+      rel="stylesheet">   
+<link rel="stylesheet"
+      href="/css/appclusive.css">  
+<script type="text/javascript"
+	src="/js/global.js"></script>
 <script src="/js/jquery.min.js"></script>
 <script>
 // Function to retrieve cookie value:	
@@ -3294,59 +3322,88 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
  <div class="qus_div" label="&amp;lt;p&amp;gt;Glad to Know that. 
  How satisfied are you with Citi Help? (1 - lowest and 5 - highest)&amp;lt;/p&amp;gt;"
  type="label" id="label-label-1568195004975" name="label-label-1568195004975" visibility="show">
-                                <div id="div-label-label-1568195004975">
-                                <p>Glad to Know that. How satisfied are you with Citi Help? (1 - lowest and 5 - highest)</p>
-                                </div>
-                                <script type="text/javascript">
+                    <div id="div-label-label-1568195004975">
+                    <p>Glad to Know that. How satisfied are you with Citi Help? (1 - lowest and 5 - highest)</p>
+                    </div>
+                    <script type="text/javascript">
                                     $(function() {
                                         function htmlDecode(input) {
                                             var e = document.createElement('div');
                                             e.innerHTML = input;
                                             return e.childNodes.length === 0 ? "" : e.childNodes[0].nodeValue;
-                                        };
-                                        var decodeData = htmlDecode("&lt;p&gt;Glad to Know that. How satisfied are you with Citi Help? (1 - lowest and 5 - highest)&lt;/p&gt;");
+                                   };
+                                   var decodeData = htmlDecode("&lt;p&gt;Glad to Know that. How satisfied are you with Citi Help? (1 - lowest and 5 - highest)&lt;/p&gt;");
                                         $('#div-label-label-1568195004975').html(decodeData);
                                     });
-                                </script>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="rating_clss">
-                               <span class="radio">
-                                  <input type="radio" class="radiobttn" id="Q2_satisfaction worst1" name="radioButton-radio-group-1568195066528" label="worst" value="worst" required="true" visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')" error="Please choose one option" oninvalid="setCustomValidity('Please choose one option')">
-                                  <label class="label worst1" for="worst1"></label>
-                               </span>
-                               <span class="radio">
-                                  <input type="radio" class="radiobttn" id="Q2_satisfaction bad1" name="radioButton-radio-group-1568195066528" label="bad" value="bad" required="true" visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')">
+                                    </script>
+                                    </div>
+                                    </li>
+                                    <li>
+                                    <div class="rating_clss">
+                                    <span class="radio">
+                                    <input type="radio"
+                                     class="radiobttn"
+                                     id="Q2_satisfaction worst1"  
+                                     name="radioButton-radio-group-1568195066528" 
+                                     label="worst" value="worst" required="true" visibility="show" 
+                                     onclick="customRadioBtnValidity('Q2_satisfaction')" 
+                                     error="Please choose one option"
+                                     oninvalid="setCustomValidity('Please choose one option')">
+                                    <label class="label worst1" for="worst1"></label>
+                                    </span>
+                                    <span class="radio">
+                                  <input type="radio" 
+                                   class="radiobttn" 
+                                   id="Q2_satisfaction bad1"
+                                   name="radioButton-radio-group-1568195066528" label="bad" 
+                                   value="bad" required="true" visibility="show" 
+                                   onclick="customRadioBtnValidity('Q2_satisfaction')">
                                   <label class="label bad1" for="bad1"></label>
-                               </span>
-                               <span class="radio">
-                                  <input type="radio" class="radiobttn" id="Q2_satisfaction neutral1" name="radioButton-radio-group-1568195066528" label="neutral" value="neutral" required="true" visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')">
+                                  </span>
+                                  <span class="radio">
+                                  <input type="radio"
+                                   class="radiobttn"
+                                   id="Q2_satisfaction neutral1"
+                                   name="radioButton-radio-group-1568195066528"
+                                   label="neutral" value="neutral" required="true" visibility="show"
+                                   onclick="customRadioBtnValidity('Q2_satisfaction')">
                                   <label class="label neutral1" for="neutral1"></label>
-                               </span>
-                               <span class="radio">
-                                  <input type="radio" class="radiobttn" id="Q2_satisfaction good1" name="radioButton-radio-group-1568195066528" label="good" value="good" required="true" visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')">
+                                  </span>
+                                  <span class="radio">
+                                  <input type="radio"
+                                   class="radiobttn" 
+                                   id="Q2_satisfaction good1"
+                                   name="radioButton-radio-group-1568195066528" label="good" value="good" required="true"
+                                   visibility="show"      
+                                   onclick="customRadioBtnValidity('Q2_satisfaction')">
                                   <label class="label good1" for="good1"></label>
-                               </span>
-                                <span class="radio">
-                                  <input type="radio" class="radiobttn" id="Q2_satisfaction best1" name="radioButton-radio-group-1568195066528" label="best" value="best" required="true" visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')">
-                                  <label class="label best1" for="best1"></label>
-                               </span>
-                            </div>
-                        </li>
-                    </ul> -->
-                    <div class="clear"></div>
-                    <!-- <ul class="sortable2 section3">
-                        <li>
-                           <div class="chat_icon">
-                               <img class='active' src="img/chat-icon.png" alt="">
-								<img class='deactive' src="img/deactive-chat.png" alt="" style='display: none;'>
-                           </div>
-                            <div class="qus_div" label="&amp;lt;p&amp;gt;What did you like most about Citi Help?&amp;lt;/p&amp;gt;" type="label" id="label-label-1568195297802" name="label-label-1568195297802" visibility="show">
-                                <div id="div-label-label-1568195297802">
-                                    <p>What did you like most about Citi Help?</p>
-                                </div>
-                                <script type="text/javascript">
+                                  </span>
+                                  <span class="radio">
+                                  <input type="radio"
+                                   class="radiobttn"
+                                   id="Q2_satisfaction best1"
+                                   name="radioButton-radio-group-1568195066528" label="best" value="best" required="true"
+                                   visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')">
+                             <label class="label best1" for="best1"></label>
+                             </span>
+                             </div>
+                             </li>
+                             </ul> -->
+                             <div class="clear"></div>
+                             <!-- <ul class="sortable2 section3">
+                             <li>
+                             <div class="chat_icon">
+                             <img class='active' src="img/chat-icon.png" alt="">
+<img class='deactive' src="img/deactive-chat.png" alt="" style='display: none;'>
+                             </div>
+                             <div class="qus_div" label="&amp;lt;p&amp;gt;What did you like most about Citi Help?&amp;lt;/p&amp;gt;" 
+                              type="label" 
+                              id="label-label-1568195297802"
+                              name="label-label-1568195297802" visibility="show">
+                             <div id="div-label-label-1568195297802">
+                             <p>What did you like most about Citi Help?</p>
+                             </div>
+                             <script type="text/javascript">
                                     $(function() {
                                         function htmlDecode(input) {
                                             var e = document.createElement('div');
@@ -3356,30 +3413,45 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
                                         var decodeData = htmlDecode("&lt;p&gt;What did you like most about Citi Help?&lt;/p&gt;");
                                         $('#div-label-label-1568195297802').html(decodeData);
                                     });
-                                </script>
+                            </script>
                             </div>
-                        </li>
-                        <li>
+                            </li>
+                            <li>
                             <div class="blk_div">
-                               <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn" id="Q2_1_like" name="radioButton-radio-group-1568195380426" label="FAQs on Moratorium" value="FAQs on Moratorium" required="true" visibility="show" onclick="customRadioBtnValidity('Q2_1_like')" error="Please choose one option" oninvalid="setCustomValidity('Please choose one option')"><span>FAQs on Moratorium</span></label>
-                               </span>
-                             
-                             <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn" id="Q2_1_like" name="radioButton-radio-group-1568195380426" label="Ease of use" value="Ease of use" required="true" visibility="show" onclick="customRadioBtnValidity('Q2_1_like')"><span>Ease of use</span></label>
-                               </span>
-                               <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn" id="Q2_1_like" name="radioButton-radio-group-1568195380426" label="Visual appeal" value="Visual appeal" required="true" visibility="show" onclick="customRadioBtnValidity('Q2_1_like')"><span>Visual appeal</span></label>
-                               </span>
-                               <span class='chat-radio'>
-                                   <label><input type="radio" class="radiobttn" id="Q2_1_like" name="radioButton-radio-group-1568195380426" label="Other" value="Other" required="true" visibility="show" onclick="customRadioBtnValidity('Q2_1_like')"><span>Other</span></label>
-                               </span>
-                                
+                            <span class='chat-radio'>
+                                   <label><input type="radio"
+                                    class="radiobttn" id="Q2_1_like" 
+                                    name="radioButton-radio-group-1568195380426"
+                                    label="FAQs on Moratorium" value="FAQs on Moratorium" required="true" visibility="show"
+                                    onclick="customRadioBtnValidity('Q2_1_like')" 
+                                    error="Please choose one option"
+                                    oninvalid="setCustomValidity('Please choose one option')"><span>FAQs on Moratorium</span></label>
+                            </span>  
+                            <span class='chat-radio'>
+                                   <label><input type="radio"
+                                    class="radiobttn" id="Q2_1_like" 
+                                    name="radioButton-radio-group-1568195380426"
+                                    label="Ease of use" value="Ease of use" required="true" visibility="show"
+                                    onclick="customRadioBtnValidity('Q2_1_like')"><span>Ease of use</span></label>
+                            </span>
+                            <span class='chat-radio'>
+                                   <label><input type="radio" 
+                                    class="radiobttn" id="Q2_1_like" 
+                                    name="radioButton-radio-group-1568195380426"
+                                    label="Visual appeal" value="Visual appeal" required="true" visibility="show" 
+                                    onclick="customRadioBtnValidity('Q2_1_like')"><span>Visual appeal</span></label>
+                            </span>
+                            <span class='chat-radio'>
+                                   <label><input type="radio" 
+                                    class="radiobttn" id="Q2_1_like" 
+                                    name="radioButton-radio-group-1568195380426" 
+                                    label="Other" value="Other" required="true" visibility="show"
+                                    onclick="customRadioBtnValidity('Q2_1_like')"><span>Other</span></label>
+                            </span>                                
                             </div>
-                        </li>
-                    </ul>
-                    <div class="clear"></div> -->
-                  
+                            </li>
+                            </ul>
+                            <div class="clear"></div> -->                  
                     <div class="clear"></div>
                     <ul class="sortable2 section4">
                     <li>
@@ -3387,7 +3459,12 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
                     <img class='active' src="images/img/chat-icon.png" alt="">
                     <img class='deactive' src="images/img/deactive-chat.png" alt="" style='display: none;'>
                     </div>
-                    <div class="qus_div" label="&amp;lt;p&amp;gt;Did it save you from contacting us by telephone, email or visiting our branch?&amp;lt;/p&amp;gt;" type="label" id="label-label-1588000057931" name="label-label-1588000057931" visibility="show">
+                    <div class="qus_div"
+			 label="&amp;lt;p&amp;gt;Did it save you from contacting us by telephone, email or visiting our branch?&amp;lt;/p&amp;gt;"
+			 type="label"
+			 id="label-label-1588000057931" 
+			 name="label-label-1588000057931"
+			 visibility="show">
                      <div id="div-label-label-1588000057931">
                      <p>Did it save you from contacting us by telephone, email or visiting our branch?</p>
                      </div>
@@ -3651,9 +3728,9 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
 					    title="Please specify the reason"
 					    oninvalid="setCustomValidity('Please specify the reason')" 
 					    onchange="setCustomValidity('')">
-                           </div>
-                           </li>
-                           </ul>   
+                          </div>
+                          </li>
+                          </ul>   
                   
                   
                     
@@ -3909,18 +3986,18 @@ visibility="show"
 onclick="customRadioBtnValidity('Q4_issuefaced')"
 error="Please choose one option" 
 oninvalid="setCustomValidity('Please choose one option')"><span>FAQs on Moratorium</span></label>
-                            </span>
-                            <span class='chat-radio'>
-                            <label><input type="radio"
+                              </span>
+                              <span class='chat-radio'>
+                              <label><input type="radio"
 class="radiobttn btnlink" id="Q4_issuefaced"
 name="radioButton-radio-group-1588075204880" 
 label="Creating User ID and Password" 
 value="Creating User ID and Password" 
 data-url="https://www.citibank.co.in/ssjsps/ssindexmidssi.jsp?eOfferCode=INHelpfb" visibility="show"
 onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Creating User ID and Password</span></label>
-                               </span>
-                               <span class='chat-radio'>
-                               <label><input type="radio" 
+                              </span>
+                              <span class='chat-radio'>
+                              <label><input type="radio" 
 class="radiobttn btnlink" id="Q4_issuefaced" 
 name="radioButton-radio-group-1588075204880" 
 label="Digital banking - banking safely from home"
@@ -3943,17 +4020,17 @@ name="radioButton-radio-group-1588075204880"
 label="Redeeming Credit Card Rewards points"
 value='Redeeming Credit Card Rewards points'
 data-url="https://www.online.citibank.co.in/portal/blogs/credit-card-rewards/credit-card-rewards-blog.htm?source=CHS&eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Redeeming Credit Card Rewards points</span></label>
-                            </span>
-                            <span class='chat-radio'>
-                            <label><input type="radio"
+                               </span>
+                               <span class='chat-radio'>
+                               <label><input type="radio"
 class="radiobttn btnlink" id="Q4_issuefaced"
 name="radioButton-radio-group-1588075204880" 
 label="Paying your Utility Bills"
 value='Paying your Utility Bills'
 data-url="https://www.online.citibank.co.in/portal/blogs/Utility-Bill-Payments/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Paying your Utility Bills</span></label>
-                            </span>
-                            <span class='chat-radio'>
-                            <label><input type="radio" 
+                               </span>
+                               <span class='chat-radio'>
+                               <label><input type="radio" 
 class="radiobttn btnlink" id="Q4_issuefaced" 
 name="radioButton-radio-group-1588075204880" 
 label="Credit Card application status" 
@@ -3971,13 +4048,19 @@ visibility="show"
 onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Disputing card transaction</span></label>
                             </span>
                             <span class='chat-radio'>
-                                <label><input type="radio" class="radiobttn" id="Q4_issuefaced" name="radioButton-radio-group-1588075204880" label="These didn't answer my question" value="These did not answer my question" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my question</span></label>
-                            </span>
-                                
+                            <label><input type="radio" 
+class="radiobttn" id="Q4_issuefaced" 
+name="radioButton-radio-group-1588075204880" 
+label="These didn't answer my question" 
+value="These did not answer my question"
+visibility="show"
+onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my question</span></label>
+                            </span>                                
                             </div>
                             </li>
                             </ul>
-                            <div class="clear"></div>
+                            <div class="clear">
+			    </div>
                             <ul class="sortable1 textbox2">
                             <li>
                             <div>
