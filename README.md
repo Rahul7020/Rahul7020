@@ -413,7 +413,8 @@ background: #ee690f;
 .lftNavMo{
   display : none;
 }
-.TermsAndConditionsdis {
+.TermsAndConditions 
+  dis {
   clear: both;
   padding: 10px;
   color: #999999;
