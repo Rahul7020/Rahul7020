@@ -1162,14 +1162,14 @@ transform: translate(-50%, -50%);
 
   
 }
-@media only screen and (min-device-width: 641px) and (max-device-width: 735px) and (orientation: landscape) {
-  .marketOfferContent a.greyBtn {
+@media only screen and (min-device-width: 641px) and (max-device-width: 735px) and (orientation: landscape)
+{.marketOfferContent a.greyBtn {
     margin-top: 18em;
     margin-left: 12px;
   }
 }
-@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation: landscape) {
-  .marketOfferContent a.greyBtn{
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation: landscape)
+{.marketOfferContent a.greyBtn {
     margin-top: 70%;
     margin-left: 11%;
   }
@@ -2382,7 +2382,7 @@ data-ctatype="Button" data-ctaposition="Top" style="padding-left: 10px;"
       shape="rect" coords="158,86,249,115" target="_blank" /
       </map>
 	                                                      <!-- Banner Sections -->	
-                                                              <!--Mob Banner section -->		
+                                                              <!-- Banner sections -->		
 																						<div id="inline8" style="display:none;">
         <img src="/images/MGM-overlay.jpg" 
 	     alt="Do you have a Citibank Credit Card / Savings account?" 
@@ -2572,7 +2572,7 @@ function speedbump(url) {
     }
                    );
   }
-                 );
+                   );
   
     	$(".welcom8").click(function () {
     $('#inline8').addClass('divshowing');
@@ -2585,7 +2585,7 @@ function speedbump(url) {
     }
                    );
   }
-                 );
+                   );
                  
     $(".welcomemgm").click(function () { 
     $('#inline66').addClass('divshowing');
@@ -2598,7 +2598,7 @@ function speedbump(url) {
     }
                    );
   }
-                 );
+                   );
     
   });
 					 
@@ -2676,11 +2676,11 @@ $(document).ready(function () {
                                                    );
   $(".welcom1").fancybox({
   }
-                        );
+                                                   );
   $("#fancybox-close").click(function () {
     $("#fancybox-overlay, #fancybox-wrap").fadeOut(800);
   }
-                            );
+                                                   );
   $(".welcom1").click(function () {
     $('#inline3').addClass('divshowing');
     $.fancybox.open([
@@ -2692,7 +2692,7 @@ $(document).ready(function () {
     }
                    );
   }
-                 );
+                   );
   
 });
 				 
@@ -3052,7 +3052,8 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
 <a href="https://www.citibank.co.in/ibank/login/IQPin1.jsp" class="" target="_blank" title="Login Now"> LOGIN NOW 
 					</a> 
 					<a class="ckc-search-top-separate">|</a> 
-					<a href="/citihelp/index.htm?eOfferCode=INHONRIBTTNCHELP" class="helpclick"  target="_blank" title="CITI HELP HOME"> CITI HELP HOME 
+					<a href="/citihelp/index.htm?eOfferCode=INHONRIBTTNCHELP" class="helpclick"  target="_blank" title="CITI HELP HOME">
+CITI HELP HOME 
 					</a> 
 		</div>
 		<div class="ckc-close-content">
@@ -3227,10 +3228,10 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
                         </p>
 		        <p class="chat_title openchat">Found what you’re looking for?</p>
 <img src="images/img/Close.png" alt="" class="close_btn">
-                       <div class='chat-min' style='float: right; display: none;'></div>
-                       <div class='chat-max' style='float: right;display:none'></div>
+                        <div class='chat-min' style='float: right; display: none;'></div>
+                        <div class='chat-max' style='float: right;display:none'></div>
 
-                      </div>
+                        </div>
 <form id="userForm" name='feedbackform' class="dynform" enctype="multipart/form-data" autocomplete="off" action="#" method="post" onsubmit="return false;">
                     <input type="hidden" id="otpReferenceNo" name="otpReferenceNo">
                     <input type="hidden" id="formExternalId" value="3aee34be-5905-4f94-ac48-1adc72a9010b"><input type="hidden" id="formInternalId" value="a6dfe55e-d70e-4712-b9f2-af73e8c76296"><input type="hidden" id="enableIncompleteTracking" value="1">
@@ -3353,38 +3354,38 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
                                     <label class="label worst1" for="worst1"></label>
                                     </span>
                                     <span class="radio">
-                                  <input type="radio" 
-                                   class="radiobttn" 
-                                   id="Q2_satisfaction bad1"
-                                   name="radioButton-radio-group-1568195066528" label="bad" 
-                                   value="bad" required="true" visibility="show" 
-                                   onclick="customRadioBtnValidity('Q2_satisfaction')">
-                                  <label class="label bad1" for="bad1"></label>
-                                  </span>
-                                  <span class="radio">
-                                  <input type="radio"
-                                   class="radiobttn"
-                                   id="Q2_satisfaction neutral1"
-                                   name="radioButton-radio-group-1568195066528"
-                                   label="neutral" value="neutral" required="true" visibility="show"
-                                   onclick="customRadioBtnValidity('Q2_satisfaction')">
-                                  <label class="label neutral1" for="neutral1"></label>
-                                  </span>
-                                  <span class="radio">
-                                  <input type="radio"
-                                   class="radiobttn" 
-                                   id="Q2_satisfaction good1"
-                                   name="radioButton-radio-group-1568195066528" label="good" value="good" required="true"
-                                   visibility="show"      
-                                   onclick="customRadioBtnValidity('Q2_satisfaction')">
-                                  <label class="label good1" for="good1"></label>
-                                  </span>
-                                  <span class="radio">
-                                  <input type="radio"
-                                   class="radiobttn"
-                                   id="Q2_satisfaction best1"
-                                   name="radioButton-radio-group-1568195066528" label="best" value="best" required="true"
-                                   visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')">
+                                    <input type="radio" 
+                                     class="radiobttn" 
+                                     id="Q2_satisfaction bad1"
+                                     name="radioButton-radio-group-1568195066528" label="bad" 
+                                     value="bad" required="true" visibility="show" 
+                                     onclick="customRadioBtnValidity('Q2_satisfaction')">
+                                    <label class="label bad1" for="bad1"></label>
+                                    </span>
+                                    <span class="radio">
+                                    <input type="radio"
+                                     class="radiobttn"
+                                     id="Q2_satisfaction neutral1"
+                                     name="radioButton-radio-group-1568195066528"
+                                     label="neutral" value="neutral" required="true" visibility="show"
+                                     onclick="customRadioBtnValidity('Q2_satisfaction')">
+                                    <label class="label neutral1" for="neutral1"></label>
+                                    </span>
+                                    <span class="radio">
+                                    <input type="radio"
+                                     class="radiobttn" 
+                                     id="Q2_satisfaction good1"
+                                     name="radioButton-radio-group-1568195066528" label="good" value="good" required="true"
+                                     visibility="show"      
+                                     onclick="customRadioBtnValidity('Q2_satisfaction')">
+                                    <label class="label good1" for="good1"></label>
+                                    </span>
+                                    <span class="radio">
+                                    <input type="radio"
+                                     class="radiobttn"
+                                     id="Q2_satisfaction best1"
+                                     name="radioButton-radio-group-1568195066528" label="best" value="best" required="true"
+                                     visibility="show" onclick="customRadioBtnValidity('Q2_satisfaction')">
                              <label class="label best1" for="best1"></label>
                              </span>
                              </div>
@@ -3414,45 +3415,45 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
                                         var decodeData = htmlDecode("&lt;p&gt;What did you like most about Citi Help?&lt;/p&gt;");
                                         $('#div-label-label-1568195297802').html(decodeData);
                                     });
-                            </script>
-                            </div>
-                            </li>
-                            <li>
-                            <div class="blk_div">
-                            <span class='chat-radio'>
-                                   <label><input type="radio"
+                             </script>
+                             </div>
+                             </li>
+                             <li>
+                             <div class="blk_div">
+                             <span class='chat-radio'>
+                             <label><input type="radio"
                                     class="radiobttn" id="Q2_1_like" 
                                     name="radioButton-radio-group-1568195380426"
                                     label="FAQs on Moratorium" value="FAQs on Moratorium" required="true" visibility="show"
                                     onclick="customRadioBtnValidity('Q2_1_like')" 
                                     error="Please choose one option"
                                     oninvalid="setCustomValidity('Please choose one option')"><span>FAQs on Moratorium</span></label>
-                            </span>  
-                            <span class='chat-radio'>
+                             </span>  
+                             <span class='chat-radio'>
                                    <label><input type="radio"
                                     class="radiobttn" id="Q2_1_like" 
                                     name="radioButton-radio-group-1568195380426"
                                     label="Ease of use" value="Ease of use" required="true" visibility="show"
                                     onclick="customRadioBtnValidity('Q2_1_like')"><span>Ease of use</span></label>
-                            </span>
-                            <span class='chat-radio'>
+                             </span>
+                             <span class='chat-radio'>
                                    <label><input type="radio" 
                                     class="radiobttn" id="Q2_1_like" 
                                     name="radioButton-radio-group-1568195380426"
                                     label="Visual appeal" value="Visual appeal" required="true" visibility="show" 
                                     onclick="customRadioBtnValidity('Q2_1_like')"><span>Visual appeal</span></label>
-                            </span>
-                            <span class='chat-radio'>
+                             </span>
+                             <span class='chat-radio'>
                                    <label><input type="radio" 
                                     class="radiobttn" id="Q2_1_like" 
                                     name="radioButton-radio-group-1568195380426" 
                                     label="Other" value="Other" required="true" visibility="show"
                                     onclick="customRadioBtnValidity('Q2_1_like')"><span>Other</span></label>
-                            </span>                                
-                            </div>
-                            </li>
-                            </ul>
-                            <div class="clear"></div> -->                  
+                             </span>                                
+                             </div>
+                             </li>
+                             </ul>
+                             <div class="clear"></div> -->                  
                     <div class="clear"></div>
                     <ul class="sortable2 section4">
                     <li>
@@ -3471,12 +3472,12 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
                      </div>
                      <script type="text/javascript">
                                     $(function() {
-                                        function htmlDecode(input) {
+                                            function htmlDecode(input) {
                                             var e = document.createElement('div');
                                             e.innerHTML = input;
                                             return e.childNodes.length === 0 ? "" : e.childNodes[0].nodeValue;
                                         };
-                                        var decodeData = htmlDecode("&lt;p&gt;Did it save you from contacting us by telephone, email or visiting our branch?&lt;/p&gt;");
+                                 var decodeData = htmlDecode("&lt;p&gt;Did it save you from contacting us by telephone, email or visiting our branch?&lt;/p&gt;");
                                         $('#div-label-label-1588000057931').html(decodeData);
                                     });
                                 </script>
@@ -3539,25 +3540,25 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
                                         var decodeData = htmlDecode("&lt;p&gt;Why didn't you find it helpful?&lt;/p&gt;");
                                         $('#div-label-label-1588074906313').html(decodeData);
                                     });
-                              </script>
-                              </div>
-                              </li>
-                              <li>
-                              <div class="blk_div">
-                              <span class='chat-radio'>
-                              <label><input type="radio" 
-			       class="radiobttn" 
-			       id="Q2_3_improve" 
-			       name="radioButton-radio-group-1588074433611" 
-			       label="I wanted to speak to an officer for my needs" 
-			       value="I wanted to speak to an officer for my needs" 
-			       visibility="show"
-			       onclick="customRadioBtnValidity('Q2_3_improve')"
-			       error="Please choose one option" 
-			       oninvalid="setCustomValidity('Please choose one option')"><span>I wanted to speak to an officer for my needs</span></label>
-                              </span>
-                              <span class='chat-radio'>
-                              <label><input type="radio"
+                                </script>
+                                </div>
+                                </li>
+                                <li>
+                                <div class="blk_div">
+                                <span class='chat-radio'>
+                                <label><input type="radio" 
+			         class="radiobttn" 
+			         id="Q2_3_improve" 
+			         name="radioButton-radio-group-1588074433611" 
+			         label="I wanted to speak to an officer for my needs" 
+			         value="I wanted to speak to an officer for my needs" 
+			         visibility="show"
+			         onclick="customRadioBtnValidity('Q2_3_improve')"
+			         error="Please choose one option" 
+			         oninvalid="setCustomValidity('Please choose one option')"><span>I wanted to speak to an officer for my needs</span></label>
+                               </span>
+                               <span class='chat-radio'>
+                               <label><input type="radio"
 					    class="radiobttn" 
 					    id="Q2_3_improve" 
 					    name="radioButton-radio-group-1588074433611" 
@@ -3731,13 +3732,8 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
 					    onchange="setCustomValidity('')">
                           </div>
                           </li>
-                          </ul>   
-                  
-                  
-                    
-                          <div class="clear"></div>
-                 
-					
+                          </ul>                 
+                          <div class="clear"></div>	
                           <ul class="sortable2 section7"> 
                           <li>
                           <div class="chat_icon">
@@ -3769,7 +3765,7 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
                           <li>
                           <div class="blk_div chat-ans">
                           <span class='chat-radio'>
-                            <label><input type="radio" 
+                          <label><input type="radio" 
 					  class="radiobttn btnlink"
 					  id="Q4_issuefaced"
 					  name="radioButton-radio-group-1588071883163" 
@@ -3867,12 +3863,10 @@ class="oba-btn-apply">Apply for a Citigold Private Client</a></li>
 				   value="These did not answer my question"
 				   visibility="show" 
 				   onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my question</span></label>
-                     </span>
-                                
+                     </span>     
                      </div>
                      </li>
-                     </ul> 
-				
+                     </ul> 		
                      <div class="clear"></div>
                      <ul class="sortable1 textbox4">
                      <li>
@@ -4036,10 +4030,11 @@ class="radiobttn btnlink" id="Q4_issuefaced"
 name="radioButton-radio-group-1588075204880" 
 label="Credit Card application status" 
 value='Credit Card application status'
-data-url="https://www.online.citibank.co.in/citihelp/topics/credit-card/track-application/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Credit Card application status</span></label>
-                            </span>
-                            <span class='chat-radio'>
-                            <label><input type="radio"
+data-url="https://www.online.citibank.co.in/citihelp/topics/credit-card/track-application/index.htm?eOfferCode=INHelpfb" visibility="show" onclick="customRadioBtnValidity('Q4_issuefaced')">
+			       <span>Credit Card application status</span></label>
+                               </span>
+                               <span class='chat-radio'>
+                               <label><input type="radio"
 class="radiobttn btnlink" id="Q4_issuefaced"
 name="radioButton-radio-group-1588075204880" 
 label="Disputing card transaction" 
@@ -4047,27 +4042,27 @@ value='Disputing card transaction'
 data-url="https://www.online.citibank.co.in/citihelp/topics/credit-card/track-application/index.htm?eOfferCode=INHelpfb"
 visibility="show"
 onclick="customRadioBtnValidity('Q4_issuefaced')"><span>Disputing card transaction</span></label>
-                            </span>
-                            <span class='chat-radio'>
-                            <label><input type="radio" 
+                              </span>
+                              <span class='chat-radio'>
+                              <label><input type="radio" 
 class="radiobttn" id="Q4_issuefaced" 
 name="radioButton-radio-group-1588075204880" 
 label="These didn't answer my question" 
 value="These did not answer my question"
 visibility="show"
 onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my question</span></label>
-                            </span>                                
-                            </div>
-                            </li>
-                            </ul>
-                            <div class="clear">
-			    </div>
-                            <ul class="sortable1 textbox2">
-                            <li>
-                            <div>
-                            <div id="div-textField-text-1568196126731">
-                            <p class="submit-specify">Please mention</p>
-                            </div>
+                              </span>                                
+                              </div>
+                              </li>
+                              </ul>
+                              <div class="clear">
+			      </div>
+                              <ul class="sortable1 textbox2">
+                              <li>
+                              <div>
+                              <div id="div-textField-text-1568196126731">
+                              <p class="submit-specify">Please mention</p>
+                              </div>
                                 <!-- <script type="text/javascript">
                                     $(function() {
                                         function htmlDecode(input) {
@@ -4090,27 +4085,27 @@ onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my q
 				 title="Please specify the reason" 
 				 oninvalid="setCustomValidity('Please specify the reason')"
 				 onchange="setCustomValidity('')">
-                        </div>
-                        </li>
-                        </ul>
-                        <ul class="sortable3 chat-cta">
-                        <li>
-                            <input type="hidden"
+                          </div>
+                          </li>
+                          </ul>
+                          <ul class="sortable3 chat-cta">
+                          <li>
+                          <input type="hidden"
 		             class="txtfield"
 			     id="form_id"
 		             name="hiddenfield-hiddenfield-1568199891456"
 			     defaultvalue="frmcitihelpsurveyC" 
 			     value="frmcitihelpsurveyC">
-                        <script type="text/javascript">
+                         <script type="text/javascript">
                                 $(function() {
                                     //console.log("Set a default value");
                                 $('#form_id').attr('value', 'frmcitihelpsurveyC');
                                 });
-                        </script>
-                        </li>
-                        <li>
-                        <script src="/formbuilder/js/createJSON.js"></script>
-                        <div id="submitcallclk">
+                         </script>
+                         </li>
+                         <li>
+                         <script src="/formbuilder/js/createJSON.js"></script>
+                         <div id="submitcallclk">
                                      <button type="image" 
 				      class="submitBtn sumitclk" 
 				      hiddenid="submit"><input 
@@ -4120,10 +4115,10 @@ onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my q
 				      id="submit-image-1568199904101" src="https://www.online.citibank.co.in/formbuilder/images/submitbtn.jpg" 
 				      name="submit-image-1568199904101" 
 				      type="image"></button>
-                        </div>
-                        </li>
-                        <li>
-                        <input type="hidden"
+                         </div>
+                         </li>
+                         <li>
+                         <input type="hidden"
                                       class="txtfield"
                                       id="externalOfferCode"
                                       name="hiddenfield-hiddenfield-1568199909760" 
@@ -4315,12 +4310,12 @@ onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my q
                                     //console.log("Set a default value");
                                 //    $('#Agency_Code').attr('value', 'Agency_Code');
                                 });
-                    </script>
-                    </li>
-                    </ul>
-                    <div class="clear"></div>
-                    <ul class="sortable5">
-                    <li>
+                      </script>
+                      </li>
+                      </ul>
+                      <div class="clear"></div>
+                      <ul class="sortable5">
+                      <li>
                             <input type="hidden"
 				   class="txtfield"
 				   id="Site"
@@ -4332,27 +4327,24 @@ onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my q
                                     //console.log("Set a default value");
                                     $('#Site').attr('value', 'Site');
                                 });
-                            </script>
-                            </li>
-			    <li>
-                            <input type="hidden" 
+                      </script>
+                      </li>
+		      <li>
+                      <input type="hidden" 
 				   class="txtfield" 
 				   id="ratingtype"
 				   name="hiddenfield-hiddenfield-1575549806188" 
-				   value="">
-                            
-                            </li>
-						
-                            </ul>
-
-                    <div class="clear"></div>
-                    <div id="responseMsg" 
+				   value=""                            
+                     </li>						
+                     </ul>
+                     <div class="clear"></div>
+                     <div id="responseMsg" 
 			 style="color: red;font-family: interstate,arial,sans-serif;font-size: 18px;text-align:center;"></div>
-                    </form>
-                    </div>
-                    </div>
-                    </div>
-                    <div id="dwn-popup" 
+                     </form>
+                     </div>
+                     </div>
+                     </div>
+                     <div id="dwn-popup" 
 			 class="popup_dwn"
 			 style="display: none; background: #FFF;padding: 20px 7px 30px 30px;">
 		    <!-- <div class="closebtnsec">			
@@ -4364,11 +4356,8 @@ onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my q
 					<p>Due to a scheduled maintenance activity between 4 AM to 8 AM IST on 16th Feb 2020, IMPS, UPI (Citi Mobile and 3rd party application) will be unavailable and processing of NEFT transactions will be delayed. We sincerely regret any inconvenience caused</p>
 		     </div>
 	             </div>
-                    
-                     <!-- Amazon Start -->
-
-                     <!--<div class="appclusive">
-			    
+                                                              <!-- Amazon Start -->
+                     <!--<div class="appclusive">			    
 	             <div class="dealOverlay">
 	             <div class="appdeal">
        <img src="/images/app-close.png" 
@@ -4380,9 +4369,7 @@ onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my q
 	         </div>
 		 </div>
 	         </div>  -->
-
-  <!-- Amazon End -->
-    
+                                                              <!-- Amazon End -->    
 <map name="amazon-map" class="amazon-map1">
 <area target="_blank" alt="KNOW MORE" title="KNOW MORE" href="/special-offers/offer/index.html?cat=Shopping_and_Lifestyle&id=72&eOfferCode=INCITIAMAZONSALE" coords="221,258,340,294" shape="rect">
 </map>  
@@ -4403,43 +4390,36 @@ onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my q
     {
        $('#ckcMainSearch').focus();
     }
-    
-
     return false;
-}
-    
-
-    </script> 
-	
+    }
+</script> 	
 <script>
  $(document).ready(function () {
-      
-     
- 
-  /* $("body").append('<div class="pop_overlay importantnotice" style="display:none">'+'<div class="popInner">'+'<img src="/images/Close-Icon-new.png" alt="" class="close_pop">'+'<p>Dear Customer, due to the current COVID 19 situation, we are no longer taking Demand Draft requests online. We are also unable to accept cheque book requests at present. This is to ensure the safety of both our delivery partners and you. Kindly bear with us till the current situation improves. Kindly use our online fund transfer solutions for urgent needs.</p>'+'</div>'+'</div>'); */
+ /* $("body").append('<div 
+			   class="pop_overlay importantnotice" 
+			   style="display:none">'+'<div 
+			   class="popInner">'+'<img 
+			   src="/images/Close-Icon-new.png" alt="" 
+			   class="close_pop">'+'<p>Dear Customer, due to the current COVID 19 situation, we are no longer taking Demand Draft requests online. We are also unable to accept cheque book requests at present. This is to ensure the safety of both our delivery partners and you. Kindly bear with us till the current situation improves. Kindly use our online fund transfer solutions for urgent needs.</p>'+'</div>'+'</div>'); */
       
 	
 	$(".covid-notify").click(function () {
 	$('.importantnotice').show();
 					 }); 
 					 $('.close_pop').click(function () {
-
-                     $('.pop_overlay').hide();
-
-                 });
-      
+                                         $('.pop_overlay').hide();
+                 });     
   var startTimedwn = '02/18/2022, 02:00:00 PM',
-                 endTimedwn = '02/20/2022, 06:30:00 AM';
-             var indiaTime = new Date();
+        endTimedwn = '02/20/2022, 06:30:00 AM';
+     var indiaTime = new Date();
 
          if (new Date(indiaTime) > new Date(startTimedwn) && new Date(indiaTime) < new Date(endTimedwn)) {
-	$(".announcement-new").show();
+	   $(".announcement-new").show();
            $('.marketProductHldr').attr('style','top:24px!important');
                  }
-      
-    var startTimedwn1 = '05/21/2021, 06:00:00 PM',
-                 endTimedwn1 = '05/23/2020, 06:00:00 AM';
-             var indiaTime = new Date();
+       var startTimedwn1 = '05/21/2021, 06:00:00 PM',
+             endTimedwn1 = '05/23/2020, 06:00:00 AM';
+           var indiaTime = new Date();
 
          if (new Date(indiaTime) > new Date(startTimedwn1) && new Date(indiaTime) < new Date(endTimedwn1)) {
 	$(".announcement-new-main").show();
@@ -4463,19 +4443,16 @@ onclick="customRadioBtnValidity('Q4_issuefaced')"><span>These didn't answer my q
          }
          else{
              $('.bgOverlay').show();
-         }
-         
+         }         
      });
 </script>
-
-
 <script>
 
   $(document).ready(function() {
-	  $('.bot-launch').one('click', function(){
+  $('.bot-launch').one('click', function(){
 console.log("INAskCitiIconCTA");
  var INAskCitiIconCTA = new CustomEvent('INAskCitiIconCTA');
-document.querySelector('body').dispatchEvent(INAskCitiIconCTA);
+ document.querySelector('body').dispatchEvent(INAskCitiIconCTA);
 });
 
 });
@@ -4492,12 +4469,12 @@ $(document).ready(function () {
      }*/
   $('.dealOverlay').show();
   $('.dealIcon').click(function () {
-         $('.dealOverlay').show();
+  $('.dealOverlay').show();
   $("html, body").animate({ scrollTop: 0 }, 1000);
      });
 	
   $('.appClose').click(function () {
-         $('.dealOverlay').hide();
+  $('.dealOverlay').hide();
         // localStorage.setItem("Visited","True");
      });
   $(".amazon-map1").click(function () {
